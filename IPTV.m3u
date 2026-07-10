@@ -48,8 +48,8 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yn1M8hQj/Salam-Baitullah.png" group-title="RTM Klik",Salam Baitullah 2026
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/420x0/live_channel/motogp2026.jpg" group-title="RTM Klik",MOTOGP 2026
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
