@@ -792,13 +792,10 @@ https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/Firefighters%20(2024)
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ydC8ubFXQfkPJDhkduMhbE9mTz7.jpg" group-title="▶ VOD ASEAN",The Childe (2023)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Childe%202023-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lEVjtTbPIQkubu3XxebvAYv1Zwc.jpg" group-title="▶ VOD ASEAN",Worst Woman (2016) 
-https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/Worst%20Woman%20(2016)-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/6dasJ58GGFcC62H9KuukAryltUp.jpg" group-title="▶ VOD ASEAN",Exhuma (2024)
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPJIS_IVP_LAND_432x243_7E434_20241021_92011.jpg" group-title="▶ VOD ASEAN",Exhuma (2024)
 https://www.dropbox.com/scl/fi/eg4dlmdl05ln4b4xn2dp3/exhuma.mp4?rlkey=kj6km3p581284exr46ul63rvf&st=c0pjehv2&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/y81t8iuiEwsxdE5snmjjZMGmTjW.jpg" group-title="▶ VOD ASEAN",Worth the Wait (2025) 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lEVjtTbPIQkubu3XxebvAYv1Zwc.jpg" group-title="▶ VOD ASEAN",Worst Woman (2016)
 https://www.dropbox.com/scl/fi/40opvexpdy99c3400oj4y/Worth-the-Wait-2025.mp4?rlkey=d2sl0odkyya65nkaiwjjo8pxa&st=zjv018hi&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bOl0rJ86WWxVYlQlGttHhHuYiPQ.jpg" group-title="▶ VOD ASEAN",Salmokji: Whispering Water (2026)
@@ -3782,6 +3779,15 @@ https://1a-1791.com/video/fww1/2b/s8/2/M/q/L/4/MqL4y.aaa.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://560pmovie.com/wp-content/uploads/Tubero-2026-240x300.webp" group-title="▶ VIVAMAX",Tubero (2026)
 
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/07/wNzRyplxryB8s6jb8Be5dYAKZb5.jpg" group-title="▶ VIVAMAX",Siping (2026)
+https://cdn1.khflixcdnvideos.top/Siping.2026.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/05/c4qw05MZTTEIkHlDyWqn34LGdBu.jpg" group-title="▶ VIVAMAX",Pasakalye (2026)
+https://cdn1.khflixcdnvideos.top/Pasakalye.2026.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/07/krTfaaT29BnYG5hM0PxBn2qlUUw.jpg" group-title="▶ VIVAMAX",Kainan (2026)
+https://cdn1.khflixcdnvideos.top/Kainan.2026.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/07/Helena.2026.jpg" group-title="▶ VIVAMAX",Helena (2026)
 https://cdn1.khflixcdnvideos.top/Helena.2026.mp4
