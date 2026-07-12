@@ -637,6 +637,7 @@ https://ngtv-live-fifa-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
+https://ngtv-live-fifa-cbj.gcdn.co/Content/DASH/Live/channel(fifa2)/master.mpd?hdntl=st=1783818140~exp=1783908140~acl=/Content/DASH/Live/channel(fifa2)/*~id=hV6Y8QhglemagUxgWZtgPUaVRtPQfoCqTQPYWVat1DFU~hmac=818ae34e52cefa0d9e4e4f5d7a4d7eaf381a89b8e51e3f0260d6a05a3f06f4c8
 https://ngtv-live-fifa-cbj.gcdn.co/Content/DASH/Live/channel(fifa2)/master.mpd
 
 #EXTINF:-1 tvg-id="704" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-3.png" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 3
