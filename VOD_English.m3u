@@ -3,10 +3,17 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" group-title="▶ VOD ENGLISH",Moana (2026)
+https://cdn1.khflixcdnvideos.top/Moana.2026.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg" group-title="▶ VOD ENGLISH",undertone (2026)
+https://www.dropbox.com/scl/fi/yaqdmnt3rs6gveznlh953/Undertone.2025.mp4?rlkey=xlkfvkr7jh0ry43rsegw7pghy&st=pnfz2nn7&dl=1
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/niSvU02l2BONH9ivubV6K1a5QiK.jpg" group-title="▶ VOD ENGLISH",Supergirl (2026)
 https://fav.larhu.website/hls/vxzxh26tqkqfycihmtppzanxduolok2mawpumbi6z6pxhkqs4imrjva2wyrq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg" group-title="▶ VOD ENGLISH",Passenger (2026)
+https://www.dropbox.com/scl/fi/82lzrkfjwyaaby9y1k1po/Passenger.2026.mp4?rlkey=3eimf542y3x9otskkvohv9dst&st=o3xzig9g&dl=1
 https://fav.larhu.website/hls/vxzxhjorqkqfycihmtppzxxcaadkm5x5i6odulb6gpvxevtbu2pdqsmajeiq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vt0RqHlqfUzeiBEVQvp43yY2076.jpg" group-title="▶ VOD ENGLISH",Man of War (2026)
@@ -253,6 +260,24 @@ https://fav.larhu.website/hls/vxzxh76zqkqfycihmtppzvnqbiolrp6f5okthkbyviydyqsl6m
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg" group-title="▶ VOD ENGLISH",American Psycho (2000)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/American%20Psycho%202000-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg" group-title="▶ VOD ENGLISH",Mickey 17 (2025)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/Mickey%2017%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg" group-title="▶ VOD ENGLISH",Amsterdam (2022)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Amsterdam%202022-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg" group-title="▶ VOD ENGLISH",The Bride! (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Bride%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vZVXCj3jXzIPJUHLaQohzt2uTM3.jpg" group-title="▶ VOD ENGLISH",Reign of Fire (2002)
+https://www.dropbox.com/scl/fi/w228x19g0q9xscugqjym5/Reign-of-Fire-2002.mp4?rlkey=2wxgbtvgksguc3owj4gavlloz&st=xlto4me1&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg" group-title="▶ VOD ENGLISH",American Hustle (2013)
+https://www.dropbox.com/scl/fi/dovskra9c7rg74nj46pko/American-Hustle-2013.mp4?rlkey=nulkm3zourvhpi2odbqeu8b91&st=9v7uf384&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/dPyWMlQd54r3pK17GKG3iqjvNZ7.jpg" group-title="▶ VOD ENGLISH",The New World (2005)
+https://www.dropbox.com/scl/fi/7uxtnok30eiufmnb1itbg/New-World-2005.mp4?rlkey=fpzqnkqehm31tnwk6f5af62qv&st=qnx2h5m2&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/m5h3NtZ2ZfryIHl1MvatmANvIqQ.jpg" group-title="▶ VOD ENGLISH",Dracula Untold (2014)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/20/Dracula%20Untold%20(2014).mp4
@@ -934,6 +959,9 @@ https://www.dropbox.com/scl/fi/jyrstnl9ooyl8529vslv1/Troy.2004.720p.WEB.MalaySub
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jK9S6HANSf2no64v1x1HxfcpmcA.jpg" group-title="▶ VOD ENGLISH",Passengers (2016)
 https://47227.ohflix.workers.dev/0:/x21/NewVersion/18/Passengers%20(2016)%20malaysub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mUgzf27luTXvxrzH0jKgSNPwhMC.jpg" group-title="▶ VOD ENGLISH",Passengers (2008)
+https://www.dropbox.com/scl/fi/x9lezeoevragr92f6mfjk/Passengers.mp4?rlkey=sqbm83bezi65d99ee6jt51ouz&st=021mmiij&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" group-title="▶ VOD ENGLISH",The Flash (2023)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/The%20Flash%20(2023)-1-720.mp4
