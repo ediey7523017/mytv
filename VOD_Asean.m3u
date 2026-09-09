@@ -722,6 +722,7 @@ https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Handsome%20Guys%20202
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Revolver%202024-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3C1vdtKVdtBCQaM2SZG9YUe6tuW.jpg" group-title="▶ VOD KOREAN",Nocturnal (2025)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Nocturnal%202025-1-720.mp4
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru48/Nocturnal%20(2025)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/m0P2ZZccZ5HaxqUU32aVEouZAdi.jpg" group-title="▶ VOD KOREAN",Spring Garden (2024)
@@ -1533,13 +1534,15 @@ https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Double%20Happiness%20
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/uD5jDVVpRs8d9pq1IGzOAxL9H98.jpg" group-title="▶ VOD ASEAN",Doctor X The Movie Final (2024)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Doctor-X%20the%20Movie%202024-1-720.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXJNA_IVP_LAND_448x252_93A6E_2026616_155427.jpg" group-title="▶ VOD ASEAN",Nightmare Haunted House (2025)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Nightmare%20Haunted%20House%202025-1-720.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2XlSAWhQxidWSH4snJEtGuJEdNX.jpg" group-title="▶ VOD ASEAN",Haunted House (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Haunted%20House%20(2026)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2ReOSBDXqeTkDSOUiQAeksijLXe.jpg" group-title="▶ VOD ASEAN",The Elite of Devils (2024)
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7r9Lqza4onv8tAFUrPjWBMIeo2q.jpg" group-title="▶ VOD ASEAN",Seoul Raiders (2005)
-
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eGJJhkGnaWS9oG44Mj0c5tfT4jQ.jpg" group-title="▶ VOD ASEAN",Graveyard Horror (2025)
 https://stream.playcdn.de/playlist/JQooOCAAFjMmfB8jMUI5Km9KeXxwVCAEABU7ExtvZ20mSih2IUo/41/480.m3u8
@@ -2839,6 +2842,9 @@ https://archive.org/download/waktu-magrib-2-2025/Waktu%20Magrib%202%20%282025%29
 
 ##############################################################▶ VOD MALAY##########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/v9ZtOlIJ3HS49UMtS4eli3WMenT.jpg" group-title="▶ VOD MALAY",Tarung Unforgiven (2026)
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/Fcc0TuOuGHvjgAnSEmEDxw/nc9/krnvu5u3/pwt5hf/tt/index-f2-v1-a1.m3u8?v=1766826492
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zHAB3VT1aw4mjaMC9flUwV64LMQ.jpg" group-title="▶ VOD MALAY",Nar'sata Sekutu Setan (2026)
 https://stream.playcdn.de/playlist/9e0d626be3e3e2b0e498bf265f7aab7a/1/0.m3u8?x=1
 https://www.dropbox.com/scl/fi/j5pl0etvu2f8kikuirdzh/NarSata.Sekutu.Setan.2026.mp4?rlkey=eoop5qjljm2bs2bxm73u93qx5&st=vrutaxmr&dl=1
@@ -3544,6 +3550,9 @@ https://stream.playcdn.de/playlist/98062e7caf64a230499832105fbb7de3/3/480.m3u8
 https://www.dropbox.com/scl/fi/rtjoa4mpreppqa0k5k2xa/Penunggang-Agama-2.mp4?rlkey=numuwjo9p0oda0ympf2ln3s2l&st=8wnzx817&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IZPSD_p_IVP_PORT_390x585_42FC3_2025113_144751.jpg" group-title="▶ VOD MALAY",Kolong
+https://47247.ohflix.workers.dev/0:/x41/KoleksiMalay/56/Kolong%202019-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IZPSD_p_IVP_PORT_390x585_42FC3_2025113_144751.jpg" group-title="▶ VOD MALAY",Kolong
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=f02efbc21343d8bf1291d1a07fa60210:d892084c385b5b05cf34e25345e99bcf
@@ -3561,6 +3570,7 @@ https://ptv2026.com/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=72a077aeb0884deedaff51453af24310:7939fad0bc15e5557b91c51757b74f21
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/00a58495-b51b-5227-acd3-d394aea2ad33/default_dash.mpd
 https://ptv2026.com/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=594
 
 #EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HCQSC_p_IVP_PORT_390x585_26FE9_2025210_184424.jpg" group-title="▶ VOD MALAY",Hantu Bukit Cina
@@ -3569,12 +3579,6 @@ https://ptv2026.com/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #KODIPROP:inputstream.adaptive.license_key=554f7310af65b7f4c94dae89a203d910:9291a4747c65bff4b33f6106a75f27c9
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/9ebcbee3-c566-5f78-8bc1-1cc799c10e10/default_dash.mpd
 https://ptv2026.com/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=592
-
-#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GIFAS_P_IVP_PORT_390x585_53E17_2025113_144757.jpg" group-title="▶ VOD MALAY",Minyak Dagu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=5afc37cd53acb9badf8b059c27870b10:ac8a709b084c6818a6d31b8b694ef988
-https://ptv2026.com/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=590
 
 #EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GQMED_series_p_IVP_PORT_390x585_80A38_2025214_184755.jpg" group-title="▶ VOD MALAY",Ular
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3597,10 +3601,18 @@ https://ptv2026.com/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/2777611c-5796-58e7-8562-7236a4d06d6e/default_dash.mpd
 https://ptv2026.com/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=581
 
+#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GIFAS_P_IVP_PORT_390x585_53E17_2025113_144757.jpg" group-title="▶ VOD MALAY",Minyak Dagu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=5afc37cd53acb9badf8b059c27870b10:ac8a709b084c6818a6d31b8b694ef988
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/fabf3803-21a6-5105-9e9d-85abec207c39/default_ott.mpd
+https://ptv2026.com/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=590
+
 #EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KINHR_p_IVP_PORT_390x585_71984_2024313_191723.jpg" group-title="▶ VOD MALAY",Seance
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=7751c54a8629913f51d4a93f52568f10:6ab1e703ea2762410eda006043a71895
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/54bf9661-291a-500d-8fb7-a526c72d7c10/default_dash.mpd
 https://ptv2026.com/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=575
 
 #EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KYOIX_p_IVP_PORT_390x585_96668_2026825_105024.jpg" group-title="▶ VOD MALAY",Dear Amma
@@ -3608,6 +3620,18 @@ https://ptv2026.com/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=02677bd0fc541cc97b36cd8dfba47910:9710f1bb6a2a139a302de73a7f4073fb
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/21613997-9fa9-50b0-b1e2-d50c066c2197/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KYJGI_p_IVP_PORT_390x585_96795_2026830_65452.jpg" group-title="▶ VOD MALAY",Gitu Gitu Apek Return
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=e28aeaba9df0ef44ef810ffb6d481710:5f843b886f3dde4dbe43e397d81830c1
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/431180f0-9732-544f-b819-efc06c3d4342/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KYPUQ_series_p_IVP_PORT_390x585_96ECE_202694_173924.jpg" group-title="▶ VOD MALAY",Bapak Aku Lost His Mind
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=3bd534b4f6956de5bacf9f431d43cd10:d1b9a2b9dc26cbfabc37ba2f8fe0d0ef
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/acd2a2c4-e1e4-5b13-8f10-e9785af832f6/default_ott.mpd
 
 
 #####################################################################▶ P RAMLEE #################################################################
