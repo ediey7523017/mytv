@@ -1294,8 +1294,11 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.license_key=d4ef11c6a492618e467449cb0e181110:6d2ed4cd72a372e16d31d8df12f5d217
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/3127dad9-80d0-5e8d-8459-b7c18206c7e1/default_ott.mpd
 
-#EXTINF:-1 type="movie" tvg-name="Paw Patrol: The Movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZVKI_p_IVP_PORT_390x585_87F26_2025815_19191.jpg" group-title="▶ VOD KIDS",Paw Patrol: The Movie
+#EXTINF:-1 type="movie" tvg-name="Paw Patrol: The Movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZVKI_p_IVP_PORT_390x585_87F26_2025815_19191.jpg" group-title="▶ VOD KIDS",PAW Patrol The Movie (2021)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=5762aa02d1d6ff61051a2e6a43621510:27eedccc48e7a2000578180392324551
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/dbe3832a-aef9-57b6-9552-8e74d3e5ec72/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg" group-title="▶ VOD KIDS",PAW Patrol The Dino Movie (2026)
+https://pixeldrain.com/api/file/77xPt9NX?download
