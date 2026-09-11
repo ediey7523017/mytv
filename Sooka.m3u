@@ -114,17 +114,17 @@ http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="Sooka",Cartoonito
 http://136.239.159.18:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO", HBO ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
+#EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO (TS)
+http://013tv.com:8080/F33848/cbd9779b/306484
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO", HBO Family ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbofamilyID.m3u8
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="MOVIES",HBO HITS (TS)
+http://013tv.com:8080/F33848/cbd9779b/306486
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO", HBO Hits ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbohitsID.m3u8
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="MOVIES",HBO SIGNATURE (TS)
+http://013tv.com:8080/F33848/cbd9779b/306483
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO", HBO Signature ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbosignatureID.m3u8
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="MOVIES",HBO FAMILY (TS)
+http://013tv.com:8080/F33848/cbd9779b/197972
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="HBO", Cinemax ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbocinemaxID.m3u8
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX (TS)
+http://013tv.com:8080/F33848/cbd9779b/197964
