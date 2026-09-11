@@ -1737,8 +1737,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 
 
 ################################################################### Astro Audio ##########################################################
+#EXTINF:-1 group-logo="https://assets.astroaudio.com.my/audio/media/uploads/logo/2026-01/LOGO.png"
 
-#EXTINF:-1 tvg-id="astro17" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hitz_v1.png" group-title="Astro Audio" group-logo="https://assets.astroaudio.com.my/audio/media/uploads/logo/2026-01/LOGO.png",HITZ
+#EXTINF:-1 tvg-id="astro17" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hitz_v1.png" group-title="Astro Audio",HITZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c759f4bc157b00a7b1dba7873197fc10:96da0bbe83b8f54194e42428e1fd6632
@@ -1897,7 +1898,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
 
 ###############################################################Radio###################################################################
 
-#EXTINF:-1 tvg-id="SURIAFM.mana2" group-title="Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Suria_logo-01.png/1280px-Suria_logo-01.png",Suria FM 
+#EXTINF:-1 tvg-id="SURIAFM.mana2" group-title="Radio" radio="true" tvg-logo="https://cdn.starmediagroup.my/wp-content/uploads/2015/04/14192130/OurBrands_Suria.png",Suria FM 
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
 
 #EXTINF:-1 tvg-id="HOTFM.mana2" group-title="Radio" radio="true" tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
@@ -1909,7 +1910,7 @@ https://stream.rcs.revma.com/3930238mtd3vv
 #EXTINF:-1 tvg-id="FLYFM.mana2" group-title="Radio" radio="true" tvg-logo="https://pwaimg.listenlive.co/FLYFM_992391_config_station_logo_image_1408891150.png",Fly FM
 https://stream.rcs.revma.com/q17aka9mtd3vv
 
-#EXTINF:-1 tvg-id="EIGHTFM.mana2" group-title="Radio" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png",8FM
+#EXTINF:-1 tvg-id="EIGHTFM.mana2" group-title="Radio" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Eight_FM_2023.svg",8FM
 https://stream.rcs.revma.com/qp0xrd9mtd3vv
 
 #EXTINF:-1 tvg-id="MOLEKFM.mana2" group-title="Radio" radio="true" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
