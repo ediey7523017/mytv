@@ -1,7 +1,8 @@
 #EXTM3U url=""
 
 
-####################################################################### HBO MAX ###########################################################
+##################################################################### ▶ HBO MAX ###########################################################
+#EXTINF:-1 group-logo="https://images.seeklogo.com/logo-png/62/1/hbo-max-2025-logo-png_seeklogo-624677.png"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/3Zbkk/yQLf4ZJzGs737HkGg.jpeg" group-title="▶ HBO MAX", Arcadian
 #KODIPROP:inputstream.adaptive.license_type=widevine
