@@ -18,6 +18,9 @@ https://stream.playcdn.de/playlist/ac3d9630b6cb54d4ddfab08cd894cb29/1/0.m3u8?x=1
 https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/zEhGKhEsPYv4wAYMN0smkw/ipt/1xmlfc6l/m8s8zh/tt/index-f2-v1-a1.m3u8?v=1766826492
 https://playerngefilm21.rpmlive.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/avmZjaQxnLYdyn45FVSHGw/twx/r8c1nwnj/8ew6h9/tt/index-f2-v1-a1.m3u8?v=1766826492
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg" group-title="▶ VOD BOLLYWOOD",G.D.N (2026)
+https://stream.playcdn.de/playlist/71b0d28bfed8c856c61c29d1a05bbc71/1/0.m3u8?x=1
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/oVij5aEEE6iI4PxB4i0CgKp8h0m.jpg" group-title="▶ VOD BOLLYWOOD",Dhamaal 4 (2026)
 https://stream.playcdn.de/playlist/9c6582e47dcf974b09d66c296c89cf01/1/0.m3u8?x=1
 
@@ -68,7 +71,7 @@ https://stream.playcdn.de/playlist/IBAmITERWiMjPxAgIh1kaHBOZBkAOzMNHQkof3AFMD0hG
 https://www.dropbox.com/scl/fi/uwucxm90oeyy3ht14joyq/Bhooth.Bangla.2026.mp4?rlkey=7pioybgp4pj9imkq3ed1go3ia&st=i5x42508&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg" group-title="▶ VOD BOLLYWOOD",Cocktail 2 (2026)
-https://stream.playcdn.de/playlist/8cf5852a7e848de9343539c3f79f7e3e/2/480.m3u8?x=1
+https://pixeldrain.net/api/file/9gmWN8bq?download
 https://www.dropbox.com/scl/fi/519tmvtp790j8ocw3wkqt/Cocktail-2-2026.mp4?rlkey=tjrhlez2xk4q6nt5yug2mkafj&st=r13kijef&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/v7jnxqLjarV8LXUXKPU6WKE78CK.jpg" group-title="▶ VOD BOLLYWOOD",Cocktail (2012)
@@ -1922,8 +1925,11 @@ https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/-9bw4z
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6UIMSol55qPM3qrKnwFiIrQympd.jpg" group-title="▶ VOD INDIA",Shera (2026)
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/xaSM9J8IqXv89v4roKmxag/9dz/skucpjep/chyrux/tt/index-f2-v1-a1.m3u8?v=1766826492
 
-#EXTINF:-1 type="movie" tvg-logo="hhttps://media.themoviedb.org/t/p/w600_and_h900_face/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg" group-title="▶ VOD INDIA",I Nobody (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg" group-title="▶ VOD INDIA",I Nobody (2026)
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/y0Cbtu8ldRg43l8_Wx21BA/h9r/85vxcnxc/sak1vg/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vUEb8v8W5ANRXhydogbmjXfRfni.jpg" group-title="▶ VOD INDIA",Korean Kanakaraju (2026)
+https://stream.playcdn.de/playlist/1307686c255813b8a0a20bf0ca85b2a6/1/0.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/4swJKFhTwadPJLXeMzCd53vHpBh.jpg" group-title="▶ VOD INDIA",Aashaan (2026)
 https://stream.playcdn.de/playlist/Ixk6JiQYGWxwYUV6bmcTGgY0FhYaG0N1czQTe3s/43/480.m3u8
