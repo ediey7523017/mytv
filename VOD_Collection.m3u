@@ -1,7 +1,7 @@
 #EXTM3U url=""
 
 
-####################################################### ▶ VOD FILM SERIES ###########################################################
+#######################################################▶ VOD FILM SERIES###########################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fmw52kXk2kN8AQil7tgOD41gt4Q.jpg" group-title="▶ VOD FILM SERIES",Step Up (2006)
 https://47242.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/76/Step%20Up%202006-1-720.mp4
@@ -55,25 +55,25 @@ https://stream.playcdn.de/playlist/MRs7KyQUWnNyY0VhIVwjKiMBFhYaT052IzNOeiY/33/48
 https://stream.playcdn.de/playlist/72b0f7034686b0015bb4a858efc332b1/10/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg" group-title="▶ VOD FILM SERIES",Scream 7 (2026)
-https://stream.playcdn.de/playlist/MRs7KyQUWnZvY0d-dR0BHQA8BREdJhZxJ2JBeCED/40/480.m3u8
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Scream%207%202026-1-720.mp4
 
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg" group-title="▶ VOD ENGLISH",Scary Movie (2000)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg" group-title="▶ VOD FILM SERIES",Scary Movie (2000)
 https://stream.playcdn.de/playlist/9fd50a87b758a7454a701c6347eb6e45/5/480.m3u8?x=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg" group-title="▶ VOD ENGLISH",Scary Movie 2 (2001)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg" group-title="▶ VOD FILM SERIES",Scary Movie 2 (2001)
 https://stream.playcdn.de/playlist/b8638255a0fd5a1cf9dd1c08f18fe79d/4/480.m3u8?x=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/8dLsax5KSwlCY5uWXETKjud5k6U.jpg" group-title="▶ VOD ENGLISH",Scary Movie 3 (2003)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/8dLsax5KSwlCY5uWXETKjud5k6U.jpg" group-title="▶ VOD FILM SERIES",Scary Movie 3 (2003)
 https://stream.playcdn.de/playlist/896fc16d101b6aa6a0e56f53952982bf/4/480.m3u8?x=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/dEwlu8S0z1AibuX1weLwUyiRWFl.jpg" group-title="▶ VOD ENGLISH",Scary Movie 4 (2006)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/dEwlu8S0z1AibuX1weLwUyiRWFl.jpg" group-title="▶ VOD FILM SERIES",Scary Movie 4 (2006)
 https://stream.playcdn.de/playlist/0109fd4420da86f68379c709cc2c2aa8/4/480.m3u8?x=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vBqLLxE6GaAPhO6v9EFvFbLZ7Ap.jpg" group-title="▶ VOD ENGLISH",Scary Movie 5 (2013)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vBqLLxE6GaAPhO6v9EFvFbLZ7Ap.jpg" group-title="▶ VOD FILM SERIES",Scary Movie 5 (2013)
 https://stream.playcdn.de/playlist/2e7796bb4c0d8c614c38ff24ef2f87a0/3/480.m3u8?x=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/znHT8peERZRWG1ME3r0Db0EV8k8.jpg" group-title="▶ VOD ENGLISH",Scary Movie (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/znHT8peERZRWG1ME3r0Db0EV8k8.jpg" group-title="▶ VOD FILM SERIES",Scary Movie (2026)
 https://stream.playcdn.de/playlist/MRsoPDxUGi40OBJhcQBkbm8vDAwBNSgZHWhCeHEEMmsm/42/480.m3u8
 https://www.dropbox.com/scl/fi/bc35xzgg5cyandiewos0p/Scary-Movie-2026.mp4?rlkey=dds3khri8yel45119rv7d0tj8&st=1mns5hs8&dl=1
 
