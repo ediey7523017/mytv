@@ -1,7 +1,7 @@
 #EXTM3U url=""
 
 
-################################################################### ▶ VOD KOREAN ####################################################################
+###################################################################### ▶ VOD KOREAN ######################################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg" group-title="▶ VOD KOREAN",BTS THE RETURN (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/BTS%20THE%20RETURN%202026-1-720.mp4
@@ -134,8 +134,7 @@ https://stream.playcdn.de/playlist/MRE6OiALWnNyY0FhFHUUHA4nEREkHxRxdWFEeQ/42/480
 https://www.dropbox.com/scl/fi/7nc9xx3f8tvg5ea9h0cf4/Sister-2026.mp4?rlkey=uqfokci68yg8ktgkwx9vu0qd8&st=01u9n3sw&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7URarQmiX9XnQ5c9dizHazBq0n2.jpg" group-title="▶ VOD KOREAN",Second Sister (2025)
-https://stream.playcdn.de/playlist/MR0qISsdWjIrIgMpMR1kaHBNZBkAOzMNHQkodCUCYDxxS3A/43/480.m3u8
-https://www.dropbox.com/scl/fi/wvr8ooiy9835orkq07dko/Second.Sister.2025.mp4?rlkey=jov3li0r24pek3bab25djtcaq&st=0mlkix4k&dl=1
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Second%20Sister%202025-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2HSvt2PF2tSyKL4GRRniwE1URGI.jpg" group-title="▶ VOD KOREAN",You Will Die in 6 Hours (2024)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/You%20Will%20Die%20in%206%20Hours%202024-1-720.mp4
@@ -178,6 +177,7 @@ https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/Bodyguard%20(2020)-1-
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cVoRc42K618DN88CBqFj46H1Wv4.jpg" group-title="▶ VOD KOREAN",Limit (2022)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Limit%202022-1-720.mp4
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/NptMLBuQ-Opd9ZFW6VcLaQ/nc9/skucpjei/saa9gu/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4Ufe3fAm3VMvNezlKZaCVEfOzbo.jpg" group-title="▶ VOD KOREAN",0.0MHz (2019)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/0.0%20MHz%202019-1-720.mp4
@@ -1469,8 +1469,11 @@ https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/Steal%20My%
 
 ###################################################################### ▶ VOD ASEAN ######################################################################
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" group-title="▶ VOD ASEAN",Hantu Dalam Sel (2026)
-https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Hantu%20Dalam%20Sel%202026-1-720.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/v6Wq7P2UvgkEIczgS1fiHBzoJ1m.jpg" group-title="▶ VOD ASEAN",Vanishing Point (2026)
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/V0Mhf8GPjALuso3goMzq6g/3ae/9dr5ky6e/xqrqsi/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jWK3fep9bswDb6EuarNgoIihDBa.jpg" group-title="▶ VOD ASEAN",Us in the End (2026)
+https://pixeldra.in/api/file/iSDmjiUR?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rw6edVMeERIZDWDX3u4Maip4d5M.jpg" group-title="▶ VOD ASEAN",The Corpse (2025)
 https://stream.playcdn.de/playlist/35c6d72c622798cc53463a2250130cb0/2/480.m3u8?x=1
@@ -1485,7 +1488,7 @@ https://stream.playcdn.de/playlist/b1cfdc1481a93e745acc3a000c7c0700/1/0.m3u8
 https://stream.playcdn.de/playlist/93068f57f10c2bb595dbe95a4ce04cce/1/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2ayOQIh18qhJRoajoAxxGuZXry2.jpg" group-title="▶ VOD ASEAN",Shake Rattle & Roll Evil Origins (2026)
-https://stream.playcdn.de/playlist/33e0158cf53d14b4b149148e13457264/2/480.m3u8?x=1
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Shake,%20Rattle%20&%20Roll%20Evil%20Origins%202025-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/4asJAxshXzQriox6tnIoEnWN1nu.jpg" group-title="▶ VOD ASEAN",Resurrection (2025)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Resurrection%202025-1-720.mp4
@@ -2412,6 +2415,9 @@ https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/H9ef1Z
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lfRmX6BMnDzUvd8AzDq9jrw8RiJ.jpg" group-title="▶ VOD INDONESIA",Arwah Sinden (2025)
 https://playerngefilm21.rpmlive.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/vqTHICcS6yCiwwQc8Y4NAQ/lob/r8c1nwnj/bjh399/tt/index-f2-v1-a1.m3u8?v=1766826492
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/oQbytInaVqNS7G7S7xXDC0MQ6xn.jpg" group-title="▶ VOD INDONESIA",Ayah Ini Arahnya Ke Mana Ya? (2026)
+https://playerx.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/FTACoy2Xppc978xMJD5QFA/skt/ojqwdcsq/m8qkfd/tt/index-f2-v1-a1.m3u8?v=1766826492
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/x0DU8aLA6PBtQe6QWD0dDUN3DKV.jpg" group-title="▶ VOD INDONESIA",Sengkolo Malam Satu Suro (2024)
 https://playerngefilm21.rpmlive.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/xXbkxlb4OyvnFKt8nqWnYQ/puc/85vxcnxc/tpzurc/tt/index-f2-v1-a1.m3u8?v=1766826492
 
@@ -2419,10 +2425,14 @@ https://playerngefilm21.rpmlive.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/
 https://playerngefilm21.rpmlive.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/W_LiIyOt6eaACZTHfrdC8A/ipk/85vxcnxc/8ev9sg/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aNRfWMwoCbOEr78q0rR6YJw949m.jpg" group-title="▶ VOD INDONESIA",Suzzanna Santet Dosa di Atas Dosa (2026)
+https://store8.gofile.io/download/web/f2847e7d-8818-4041-b84d-0734e05558d3/NGEFILM.LIVE.Suzzanna.Santet.Dosa.di.Atas.Dosa.2026.WEB-DL.720p.mp4
 https://www.dropbox.com/scl/fi/3ahmixlf3q0a7pj95zrv4/Suzzanna.Santet.Dosa.di.Atas.Dosa.2026.mp4?rlkey=xtsifdo9jmo1x3iu7691kp8a3&st=x75o8235&dl=1
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" group-title="▶ VOD INDONESIA",Hantu Dalam Sel (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Hantu%20Dalam%20Sel%202026-1-720.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gut2EAv6h868bpAeqVyOSD8B4Qi.jpg" group-title="▶ VOD INDONESIA",Sebelum Dijemput Nenek (2026)
-https://hls.khflix.top/Sebelum%20Dijemput%20Nenek%20(2026)/index.m3u8
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Sebelum%20Dijemput%20Nenek%202026-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/84Az3SHKRJDg971KQ0j9nZWYTcf.jpg" group-title="▶ VOD INDONESIA",Alas Roban (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Alas%20Roban%202026-1-720.mp4
