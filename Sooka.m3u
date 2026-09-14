@@ -128,3 +128,9 @@ http://013tv.com:8080/F33848/cbd9779b/197972
 
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX (TS)
 http://013tv.com:8080/F33848/cbd9779b/197964
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qZDjcqvgt3xWcAdc7wHpuqGZ3i.jpg" group-title="▶ VOD PRIME",Operasi Improvisasi (2025)
+https://marginfull.github.io/live/prime/deepcover.mpd
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg" group-title="▶ VOD PRIME",Chak De! India (2007)
+https://marginfull.github.io/live/prime/chak_de_india.mpd
