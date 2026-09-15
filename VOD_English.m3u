@@ -3,13 +3,15 @@
 
 ####################################################### ▶ VOD ENGLISH #########################################################
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg" group-title="▶ VOD ENGLISH",Mutiny (2026)
-https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Mutiny%202026-1-720.mp4
-https://www.dropbox.com/scl/fi/e84lhzmarcjyurq1ccgyu/Mutiny.2026.mp4?rlkey=2fj8f7bacfway93iysl17phce&st=4z8kb0c4&dl=1
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/yopXjun3ICFfJci2ukcEzceZjUs.jpg" group-title="▶ VOD ENGLISH",The Fix (2026)
+https://stream.playcdn.de/playlist/59a2b6bae04b8041a709ee0a24730503/1/0.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg" group-title="▶ VOD ENGLISH",Drawn Together (2026)
-https://pixeldrain.com/api/file/zewTwcBV?download
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/tpl5KNHaEfMlWnJ1Iny-YA/nc9/dq8zriez/qimc9b/tt/index-f2-v1-a1.m3u8?v=1766826492
+https://pixeldrain.com/api/file/zewTwcBV?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rUzBqWq7idfMTBLCWs55Hkt9lpq.jpg" group-title="▶ VOD ENGLISH",Little Lorraine (2026)
+https://pixeldrain.com/api/file/2F8kT4DY?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/oQR5xUZrdVaLscJlk4mFcy8DrXJ.jpg" group-title="▶ VOD ENGLISH",Come with Me (2026)
 https://pixeldrain.com/api/file/2Q9SwFQG?download
@@ -34,7 +36,6 @@ https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/w2v1rQ
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nlC0I1cCemzfNLYPnAhdydpOYOi.jpg" group-title="▶ VOD ENGLISH",The End of Oak Street (2026)
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/o5REuhPLoAFdhmjtnJlunA/ojg/skucpjei/obbbsp/tt/index-f2-v1-a1.m3u8?v=1766826492
-https://stream.playcdn.de/playlist/e72aebe56682e5dcb8537f373af0f4d4/1/0.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/i92X6pBSqZgHAvIX28p0AZJU8xz.jpg" group-title="▶ VOD ENGLISH",Confinement (2026)
 https://playerngefilm21.rpmlive.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/3E78fftsx2aX984oDiRIMA/dqm/krnvu5u3/hvcn8u/tt/index-f1-v1-a1.m3u8?v=1766826492
@@ -61,36 +62,108 @@ https://playerngefilm21.rpmlive.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/
 https://playerngefilm21.rpmlive.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/xAdRMlrBY8qCsIVNat1EEA/puc/zbxp1vso8/gc9yol/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/4apG9Xk6HQvV48JKEjSUeiebju7.jpg" group-title="▶ VOD ENGLISH",The Breadwinner (2026)
-https://stream.playcdn.de/playlist/45416c8aea31a9316dd1af3a95f0e8d7/2/480.m3u8?x=1
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/SvznT3vKZzOtP4dlgtFHUg/skt/ojqwdcsq/3sium3/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/5O616X9vmRzQdB68PHzBewPittd.jpg" group-title="▶ VOD ENGLISH",The Dog Stars (2026)
 https://stream.playcdn.de/playlist/7a6d9ac83cff406bd8d38bae4dc2fdea/1/0.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6Goo3liSaqTTnwCJ2rMlxf9sPVc.jpg" group-title="▶ VOD ENGLISH",The Sheriffs of Savage Wells (2026)
+https://pixeldrain.com/api/file/WbtnSHCV?download
 https://stream.playcdn.de/playlist/daf5ec32f7a7d80ba9b334341910bcef/1/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg" group-title="▶ VOD ENGLISH",Young Washington (2026)
-https://stream.playcdn.de/playlist/Oxc8ICJUACAxOR4iJEQ5Nm9KeXxzVCAEABU7ExtvM2h2Tnx8dEw/43/480.m3u8
+https://pixeldrain.com/api/file/jujZYmpj?download
 https://www.dropbox.com/scl/fi/q9zrpkd0eyuvtrzvxlq6u/Young-Washington-2026.mp4?rlkey=v8g02r1url6lcfbrspo5heucn&st=7x2whytn&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg" group-title="▶ VOD ENGLISH",Lucky Strike (2026)
-https://stream.playcdn.de/playlist/Lg0qJTxUBDUwOBwpbgJmanRVHgsHPTseGg5GKXRSYjl2Hg/43/480.m3u8
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/G32GHc3hZ9q_17qV19y9mw/puc/qt5b8l19/etw3xw/tt/index-f1-v1-a1.m3u8?v=1766826492
 https://www.dropbox.com/scl/fi/rxtzr0il1rcdhtjbe2yzl/Lucky.Strike.2026.mp4?rlkey=od7a7fv2j4kpj8lxspqhpeu02&st=mitvult1&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6JU7E8Vv2M11egkctWVOScxWR75.jpg" group-title="▶ VOD ENGLISH",The Last House (2026)
-https://stream.playcdn.de/playlist/Lhk6OmgRGDQxNFp-cwJgdRU9CwoJJi8eJGMUKXQHN2w/43/480.m3u8
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/OelX60HkZ4TillKkQn7nKA/puc/krnvu1un/ceopu5/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/bNErActDctl6cdUGw9pnjSCmyhQ.jpg" group-title="▶ VOD ENGLISH",Soulm8te (2026)
-https://stream.playcdn.de/playlist/MRc8IihBAyRvY0d-dR0BHQA8BREdJhEncjMUf3MD/43/480.m3u8
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/XrPqR9MYucmECKVslTGc5g/r81/xieomlsp/paahxg/tt/index-f2-v1-a1.m3u8?v=1766826492
 https://www.dropbox.com/scl/fi/6gr6tnnbz1q2cgrttioow/Soulm8te.2026.mp4?rlkey=yzk1xn0pbsfq40li4pdcaxglh&st=utcbwrrs&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg" group-title="▶ VOD ENGLISH",undertone (2026)
+https://stream.playcdn.de/playlist/NxYtKzcNGC8nfEV8cQV7Dwc6DQIaISh1cDROLXIGNQ/40/480.m3u8
+https://www.dropbox.com/scl/fi/yaqdmnt3rs6gveznlh953/Undertone.2025.mp4?rlkey=xlkfvkr7jh0ry43rsegw7pghy&st=pnfz2nn7&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg" group-title="▶ VOD ENGLISH",The Devils Mouth (2026)
+https://pixeldrain.com/api/file/hFrem2fy?download
+https://www.dropbox.com/scl/fi/q3acrxp3u7ftisb8qg1lf/The.Devils.Mouth.2026.mp4?rlkey=k3bjht7k4qo687ykh8h40nfgj&st=4utp5ie0&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/niSvU02l2BONH9ivubV6K1a5QiK.jpg" group-title="▶ VOD ENGLISH",Supergirl (2026)
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/NbDL1gOjut3ueK4KYNazjQ/lob/ipljep8u/j6fklb/tt/index-f2-v1-a1.m3u8?v=1766826492
+https://www.dropbox.com/scl/fi/4uflpqu4og3ee8wnnebkm/Supergirl.2026.mp4?rlkey=kgdm1tdrv6x5ckt4bt4uimjyb&st=5azr7cml&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vt0RqHlqfUzeiBEVQvp43yY2076.jpg" group-title="▶ VOD ENGLISH",Man of War (2026)
+https://pixeldrain.com/api/file/hFfMm8qT?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg" group-title="▶ VOD ENGLISH",Citizen Vigilante (2026)
+https://pixeldrain.com/api/file/RQBMcW7q?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/sIwakdbMGS1krtgendTWpxTY9Hw.jpg" group-title="▶ VOD ENGLISH",Iron Lung (2026)
+https://pixeldrain.com/api/file/8zVafNPk?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg" group-title="▶ VOD ENGLISH",In the Hand of Dante (2026)
+https://stream.playcdn.de/playlist/KhknKmgdFi82NFp-cwJjdRU9CwoJJi8eJmYTdHtTMDo/42/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5ps8VwOweM37Qxnpd5fzDxX09i2.jpg" group-title="▶ VOD ENGLISH",Power Ballad (2026)
+https://pixeldrain.com/api/file/8RmWEXDR?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/iKy5460GdsoknM8ppmGlJbKxAKa.jpg" group-title="▶ VOD ENGLISH",The Sheep Detectives (2026)
+https://pixeldrain.com/api/file/gw6ZK1Y1?download
+https://www.dropbox.com/scl/fi/psylrakzbt2ider1s28jv/The-Sheep-Detectives-2026.mp4?rlkey=sqnyzwligtdllmpl1bozw5vrd&st=dkeysg5h&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg" group-title="▶ VOD ENGLISH",Tuner (2026)
+https://stream.playcdn.de/playlist/Ng0nKzdURXFwZFobBnISFB0gFnknThF2J2YR/42/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg" group-title="▶ VOD ENGLISH",Maternal Instinct (2026)
+https://stream.playcdn.de/playlist/Lxk9KzcXFi1vOBk_N1k4OzZVe353T1oWBxMzABxoCTwgT3p4dU4S/42/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/canZTWSxACSnAluir3dCtMxKpA1.jpg" group-title="▶ VOD ENGLISH",Voicemails for Isabelle (2026)
+https://stream.playcdn.de/playlist/NBcgLSAUFiguIlolMFE0PS4ULGN3SUV3bwYyDgd8CQAdHX52IxxBInI/42/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gFjEggtrejCN79r6SXRjM269OtG.jpg" group-title="▶ VOD ENGLISH",Pressure (2026)
+https://stream.playcdn.de/playlist/MgosPTYMBSRvY0d-dR0UNDcqKDcaIShxcGBHenBRYw/42/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="▶ VOD ENGLISH",Your Fault London (2026)
+https://stream.playcdn.de/playlist/Oxc8PGgfFjQuJVogLF4yNyxVe353T1oWBxMzABxoCWFwGy8vJk4R/42/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg" group-title="▶ VOD ENGLISH",They Will Kill You (2026)
+https://stream.playcdn.de/playlist/NhAsN2gOHi0ufBwlL1x7IS0NZHx1S0FsFRQ1CA9vDgcgHix2cUhAeQ/40/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1vpNS7FcsW12NRenyp9RuluvJ4t.jpg" group-title="▶ VOD ENGLISH",Ruthless Bastards (2025)
+https://stream.playcdn.de/playlist/MA09JikcBDJvMxY_N1EkPDFVe353TFoWBxMzABxoCWl3Hn9_fRxP/41/480.m3u8
+
+EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gkscqnZZrCT5lLsniw1KNL9iiJ0.jpg" group-title="▶ VOD ENGLISH",On The Hunt (2026)
+https://stream.playcdn.de/playlist/Kg0nOmhLR3N0fEZhFHUUHA4nERF9TUUlcWMUfQ/41/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg" group-title="▶ VOD ENGLISH",The Marked Woman (2026)
+https://stream.playcdn.de/playlist/Lxk7JSAdWjYtPBYibgJmanRVHgsHPTseGg5Oe3UFZTwnTQ/41/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg" group-title="▶ VOD ENGLISH",In the Grey (2026)
+https://pixeldrain.com/api/file/TB6tQDNm?download
+https://www.dropbox.com/scl/fi/plb4ibeqd9812h5pz458h/In-the-Grey-2026.mp4?rlkey=yjktv5ixldhkdyhxozawq8qy3&st=xwu6r2u2&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eUrHhD3sXiFxEXmRfDAcTpuDz9a.jpg" group-title="▶ VOD ENGLISH",Anemone (2025)
+https://stream.playcdn.de/playlist/IxYsIyoXEmxwYUV5bmcTGgY0FhYaSUIjJ2kUf3s/25/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/udXvLxC5gAqN8SinemyFBEcHpTf.jpg" group-title="▶ VOD ENGLISH",The Magic Faraway Tree (2026)
+https://pixeldrain.com/api/file/JvDtw7bV?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg" group-title="▶ VOD ENGLISH",Brothers Under Fire (2026)
+https://pixeldrain.com/api/file/weSyb2ND?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg" group-title="▶ VOD ENGLISH",Mutiny (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Mutiny%202026-1-720.mp4
+https://www.dropbox.com/scl/fi/e84lhzmarcjyurq1ccgyu/Mutiny.2026.mp4?rlkey=2fj8f7bacfway93iysl17phce&st=4z8kb0c4&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg" group-title="▶ VOD ENGLISH",Evil Dead Burn (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Evil%20Dead%20Burn%202026-1-720.mp4
 https://www.dropbox.com/scl/fi/3cvmsb9al37lvkvggxq3a/Evil.Dead.Burn.2026.mp4?rlkey=knlolskhkt96hka9btrkeaxkw&st=vll6pi10&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg" group-title="▶ VOD ENGLISH",The Devils Mouth (2026)
-https://stream.playcdn.de/playlist/Jh0_JykKWiwtJAMkbgJmanRVHgsHPTseGg5DeyIAY29wSg/43/480.m3u8
-https://www.dropbox.com/scl/fi/q3acrxp3u7ftisb8qg1lf/The.Devils.Mouth.2026.mp4?rlkey=k3bjht7k4qo687ykh8h40nfgj&st=4utp5ie0&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg" group-title="▶ VOD ENGLISH",Shipwrecked Nightmare at Sea (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Shipwrecked%20Nightmare%20at%20Sea%202026-1-720.mp4
@@ -122,14 +195,6 @@ https://www.dropbox.com/scl/fi/n18940szkfrbyb277kzdw/Backrooms.2026.mp4?rlkey=dj
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/reeKdj7BSznr7wSGzAtIMrPFgKo.jpg" group-title="▶ VOD ENGLISH",Colors of Evil Black (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Colors%20Of%20Evil%20%20Black%202026-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg" group-title="▶ VOD ENGLISH",undertone (2026)
-https://stream.playcdn.de/playlist/NxYtKzcNGC8nfEV8cQV7Dwc6DQIaISh1cDROLXIGNQ/40/480.m3u8
-https://www.dropbox.com/scl/fi/yaqdmnt3rs6gveznlh953/Undertone.2025.mp4?rlkey=xlkfvkr7jh0ry43rsegw7pghy&st=pnfz2nn7&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/niSvU02l2BONH9ivubV6K1a5QiK.jpg" group-title="▶ VOD ENGLISH",Supergirl (2026)
-https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/NbDL1gOjut3ueK4KYNazjQ/lob/ipljep8u/j6fklb/tt/index-f2-v1-a1.m3u8?v=1766826492
-https://www.dropbox.com/scl/fi/4uflpqu4og3ee8wnnebkm/Supergirl.2026.mp4?rlkey=kgdm1tdrv6x5ckt4bt4uimjyb&st=5azr7cml&dl=1
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg" group-title="▶ VOD ENGLISH",Passenger (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Passenger%202026-1-720.mp4
 https://www.dropbox.com/scl/fi/82lzrkfjwyaaby9y1k1po/Passenger.2026.mp4?rlkey=3eimf542y3x9otskkvohv9dst&st=o3xzig9g&dl=1
@@ -137,54 +202,8 @@ https://www.dropbox.com/scl/fi/82lzrkfjwyaaby9y1k1po/Passenger.2026.mp4?rlkey=3e
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg" group-title="▶ VOD ENGLISH",Deep Water (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Deep%20Water%202026-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vt0RqHlqfUzeiBEVQvp43yY2076.jpg" group-title="▶ VOD ENGLISH",Man of War (2026)
-https://stream.playcdn.de/playlist/LxknYzIYBWxwYUV6bmcTGgY0FhYaSxRxJzUVL3U/42/480.m3u8
-https://cdn1.khflixcdnvideos.top/Man.Of.War.2026.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg" group-title="▶ VOD ENGLISH",Citizen Vigilante (2026)
-https://stream.playcdn.de/playlist/IRE9Jz8cGWw0OBAlL1E4LCdVe353T1oWBxMzABxoCWAgTC8qcxxE/42/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/sIwakdbMGS1krtgendTWpxTY9Hw.jpg" group-title="▶ VOD ENGLISH",Iron Lung (2026)
-https://stream.playcdn.de/playlist/KwomIGgVAi8lfEV8cQZ7Dwc6DQIaISh1cjAWe3JVNQ/41/480.m3u8
-https://hls.khflix.top/Iron%20Lung/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg" group-title="▶ VOD ENGLISH",In the Hand of Dante (2026)
-https://stream.playcdn.de/playlist/KhknKmgdFi82NFp-cwJjdRU9CwoJJi8eJmYTdHtTMDo/42/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5ps8VwOweM37Qxnpd5fzDxX09i2.jpg" group-title="▶ VOD ENGLISH",Power Ballad (2026)
-https://stream.playcdn.de/playlist/Mhc-KzdUFSAuPRYobgJmanRVHgsHPTseGg5PLycGMmBzSg/42/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/iKy5460GdsoknM8ppmGlJbKxAKa.jpg" group-title="▶ VOD ENGLISH",The Sheep Detectives (2026)
-https://stream.playcdn.de/playlist/MRAsKzVUEyQ2NBQ4KkYzK29KeXxzVCAEABU7ExtvZjt2Syh7Ixs/42/480.m3u8
-https://www.dropbox.com/scl/fi/psylrakzbt2ider1s28jv/The-Sheep-Detectives-2026.mp4?rlkey=sqnyzwligtdllmpl1bozw5vrd&st=dkeysg5h&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg" group-title="▶ VOD ENGLISH",Tuner (2026)
-https://stream.playcdn.de/playlist/Ng0nKzdURXFwZFobBnISFB0gFnknThF2J2YR/42/480.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg" group-title="▶ VOD ENGLISH",Fuze (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Fuze%202025-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg" group-title="▶ VOD ENGLISH",Maternal Instinct (2026)
-https://stream.playcdn.de/playlist/Lxk9KzcXFi1vOBk_N1k4OzZVe353T1oWBxMzABxoCTwgT3p4dU4S/42/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/canZTWSxACSnAluir3dCtMxKpA1.jpg" group-title="▶ VOD ENGLISH",Voicemails for Isabelle (2026)
-https://stream.playcdn.de/playlist/NBcgLSAUFiguIlolMFE0PS4ULGN3SUV3bwYyDgd8CQAdHX52IxxBInI/42/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gFjEggtrejCN79r6SXRjM269OtG.jpg" group-title="▶ VOD ENGLISH",Pressure (2026)
-https://stream.playcdn.de/playlist/MgosPTYMBSRvY0d-dR0UNDcqKDcaIShxcGBHenBRYw/42/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="▶ VOD ENGLISH",Your Fault London (2026)
-https://stream.playcdn.de/playlist/Oxc8PGgfFjQuJVogLF4yNyxVe353T1oWBxMzABxoCWFwGy8vJk4R/42/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg" group-title="▶ VOD ENGLISH",They Will Kill You (2026)
-https://stream.playcdn.de/playlist/NhAsN2gOHi0ufBwlL1x7IS0NZHx1S0FsFRQ1CA9vDgcgHix2cUhAeQ/40/480.m3u8
-https://cdn1.khflixcdnvideos.top/They.Will.Kill.You.2026.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1vpNS7FcsW12NRenyp9RuluvJ4t.jpg" group-title="▶ VOD ENGLISH",Ruthless Bastards (2025)
-https://stream.playcdn.de/playlist/MA09JikcBDJvMxY_N1EkPDFVe353TFoWBxMzABxoCWl3Hn9_fRxP/41/480.m3u8
-
-EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gkscqnZZrCT5lLsniw1KNL9iiJ0.jpg" group-title="▶ VOD ENGLISH",On The Hunt (2026)
-https://stream.playcdn.de/playlist/Kg0nOmhLR3N0fEZhFHUUHA4nERF9TUUlcWMUfQ/41/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg" group-title="▶ VOD ENGLISH",Over Your Dead Body (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Over%20Your%20Dead%20Body%20(2026)-1-720.mp4
@@ -198,24 +217,21 @@ https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Office%20Romance%2020
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dj4MbmBrZXzNQpxsLBIxKohRp9b.jpg" group-title="▶ VOD ENGLISH",Mexico 86 (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Mexico%2086%202026-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg" group-title="▶ VOD ENGLISH",The Marked Woman (2026)
-https://stream.playcdn.de/playlist/Lxk7JSAdWjYtPBYibgJmanRVHgsHPTseGg5Oe3UFZTwnTQ/41/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg" group-title="▶ VOD ENGLISH",In the Grey (2026)
-https://stream.playcdn.de/playlist/JQosN3RURXFwZ1oOL0UEOTsnERF8HEdzJ2NOeg/42/480.m3u8
-https://www.dropbox.com/scl/fi/plb4ibeqd9812h5pz458h/In-the-Grey-2026.mp4?rlkey=yjktv5ixldhkdyhxozawq8qy3&st=xwu6r2u2&dl=1
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg" group-title="▶ VOD ENGLISH",Hokum (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Hokum%20(2026)-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eUrHhD3sXiFxEXmRfDAcTpuDz9a.jpg" group-title="▶ VOD ENGLISH",Anemone (2025)
-https://stream.playcdn.de/playlist/IxYsIyoXEmxwYUV5bmcTGgY0FhYaSUIjJ2kUf3s/25/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/udXvLxC5gAqN8SinemyFBEcHpTf.jpg" group-title="▶ VOD ENGLISH",The Magic Faraway Tree (2026)
-https://stream.playcdn.de/playlist/LxkuJyZUESAwMAAtOh0iKicdZHx1S0FsFRQ1CA9vDgdxHHArIU8TIw/41/480.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg" group-title="▶ VOD ENGLISH",Clika (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Clika%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg" group-title="▶ VOD ENGLISH",The Punisher One Last Kill (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/The%20Punisher%20One%20Last%20Kill%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg" group-title="▶ VOD ENGLISH",The Devil Wears Prada 2 (2026)
+https://pixeldrain.com/api/file/RwtCxKso?download
+https://stream.playcdn.de/playlist/Jh0_JylUACQjIwRhM0I3PCNVe2N3SUV3bxMbORFRLwcaJ3F5ch9Cc3Nn/42/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8912AsVuS7Sj915apArUFbv6F9L.jpg" group-title="▶ VOD ENGLISH",The Devil Wears Prada (2006)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/The%20Devil%20Wears%20Prada%202006-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9KCOv0hL37IN3tWG3j86eZg3xDH.jpg" group-title="▶ VOD ENGLISH",Eagle Eye (2008)
 https://stream.playcdn.de/playlist/855bbbd4a156f94537734da6415c0274/2/480.m3u8
@@ -238,18 +254,8 @@ https://www.dropbox.com/scl/fi/mjdf4jj12j3pyva9x6qx0/Judge-Dredd.mp4?rlkey=6ayfo
 https://stream.playcdn.de/playlist/c2712f4ee791054ea06b8be409bc3104/20/480.m3u8
 https://www.dropbox.com/scl/fi/7bs23ydyjccvocefx7yij/Dredd.mp4?rlkey=py0jf0dd43csg50hyiquk5krf&st=q9lz0vnn&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg" group-title="▶ VOD ENGLISH",The Devil Wears Prada 2 (2026)
-https://stream.playcdn.de/playlist/Jh0_JylUACQjIwRhM0I3PCNVe2N3SUV3bxMbORFRLwcaJ3F5ch9Cc3Nn/42/480.m3u8
-https://cdn1.khflixcdnvideos.top/The.Devil.Wears.Prada.2.2026.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8912AsVuS7Sj915apArUFbv6F9L.jpg" group-title="▶ VOD ENGLISH",The Devil Wears Prada (2006)
-https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/The%20Devil%20Wears%20Prada%202006-1-720.mp4
-
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gZSlt41YjSTQE7ah03usHsvmWFs.jpg" group-title="▶ VOD ENGLISH",Silver Skates (2020)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Silver%20Skates%202020-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg" group-title="▶ VOD ENGLISH",The Punisher One Last Kill (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/The%20Punisher%20One%20Last%20Kill%202026-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg" group-title="▶ VOD ENGLISH",Death on the Nile (2022)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Death%20on%20the%20Nile%202022-1-720.mp4
@@ -624,10 +630,19 @@ https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Hoesemaid%20202
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Hamnet%202025-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3YBce6dTh1D5oCMITXk2S5QhPt.jpg" group-title="▶ VOD ENGLISH",Wuthering Heights (2026)
-https://stream.playcdn.de/playlist/NQ09JiALHi8lfB8pKlc-LDFVe353T1oDLiQlLTpvDgd6QSotcEpCIg/41/480.m3u8
+https://pixeldrain.com/api/file/tJ6W8sNu?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg" group-title="▶ VOD ENGLISH",Hot Spot (2026)
+https://stream.playcdn.de/playlist/e2068c6d53308b9709e6efb76a6e2179/1/0.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kHbUXJhXYV7UGiStIgCyplWsYKd.jpg" group-title="▶ VOD ENGLISH",Hungry (2026)
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/b28-P24kJSzBhIMB67BeDw/puc/mehdgkpr/68ov1w/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="▶ VOD ENGLISH",Tom Clancys Jack Ryan Ghost War (2026)
+https://pixeldrain.com/api/file/Xrf4xXr9?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vZVXCj3jXzIPJUHLaQohzt2uTM3.jpg" group-title="▶ VOD ENGLISH",Reign of Fire (2002)
-https://stream.playcdn.de/playlist/1ecbcdfaf450a4048df7b3e304c6db64/4/480.m3u8?x=1
+https://pixeldrain.com/api/file/zhM1PTBa?download
 https://www.dropbox.com/scl/fi/w228x19g0q9xscugqjym5/Reign-of-Fire-2002.mp4?rlkey=2wxgbtvgksguc3owj4gavlloz&st=xlto4me1&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg" group-title="▶ VOD ENGLISH",American Hustle (2013)
@@ -637,12 +652,6 @@ https://www.dropbox.com/scl/fi/dovskra9c7rg74nj46pko/American-Hustle-2013.mp4?rl
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/dPyWMlQd54r3pK17GKG3iqjvNZ7.jpg" group-title="▶ VOD ENGLISH",The New World (2005)
 https://stream.playcdn.de/playlist/ecd499fb4c9999f9ef81bc258956be7a/6/480.m3u8
 https://www.dropbox.com/scl/fi/7uxtnok30eiufmnb1itbg/New-World-2005.mp4?rlkey=fpzqnkqehm31tnwk6f5af62qv&st=qnx2h5m2&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kHbUXJhXYV7UGiStIgCyplWsYKd.jpg" group-title="▶ VOD ENGLISH",Hungry (2026)
-https://stream.playcdn.de/playlist/Kg0nKTcAWnNyY0FhFHUUHA4nERF9TxF1emhDfQ/42/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="▶ VOD ENGLISH",Tom Clancys Jack Ryan Ghost War (2026)
-https://stream.playcdn.de/playlist/NhckYyYVFi8hKARhKVE1M28KMC8rVBApLSIDYTRRJHVwSHt4aC4yAwYdKBQcCDVockwqKHM/41/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7FR4RfIe3vRDZlrsg6DFysluSRa.jpg" group-title="▶ VOD ENGLISH",The Golden Compass (2007)
 https://stream.playcdn.de/playlist/dede0481944e925d69d7a801551ecfda/4/480.m3u8
@@ -657,22 +666,23 @@ https://stream.playcdn.de/playlist/99c4a573b7aa39f9a031d5d0a4706470/1/480.m3u8
 https://stream.playcdn.de/playlist/d95d295c2224691b71d36ebf1bb926ba/1/0.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg" group-title="▶ VOD ENGLISH",The Dreadful (2026)
-https://stream.playcdn.de/playlist/JgosLyEfAi1vY0d-dR0BHQA8BREdJkYkdmZOe3EE/39/480.m3u8
+https://pixeldrain.com/api/file/diCL6Cfz?download
 https://www.dropbox.com/scl/fi/b6g55ic7m1o4dehtlp84t/The-Dreadful-2026.mp4?rlkey=3cgs7gj4ziq2zm5v8g71g6lmq&st=puypv26w&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/760SP4VsZagpyB9WLfeZykE3DFg.jpg" group-title="▶ VOD ENGLISH",Sleepwalker (2026)
-https://stream.playcdn.de/playlist/c8dd84f1539227c7cfea5d029e2e7ac6/1/0.m3u8?x=1
+https://pixeldrain.com/api/file/YPAwzKHY?download
 https://www.dropbox.com/scl/fi/icvs8hw92dyj467nv6xz3/Sleepwalker-2026.mp4?rlkey=ptf9a01w8m6j7fijmicrba71i&st=by5gt7mh&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="▶ VOD ENGLISH",Marty Supreme (2025)
-https://stream.playcdn.de/playlist/Lxk7OjxUBDQyIxIhJh1kaHBNZBkAOzMNHQkoe3sINzp0Sis/39/480.m3u8
+https://pixeldrain.com/api/file/i72vwYT9?download
 https://www.dropbox.com/scl/fi/avepr6kr0yu4jl717l69b/Marty-Supreme-2025.mkv?rlkey=8a8qqr0h6pftcoff91isqqtr7&st=xp4zuy3v&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="▶ VOD ENGLISH",Wildcat (2025)
-https://stream.playcdn.de/playlist/NRElKiYYA2xwYUV5bmcTGgY0FhYaThMjdzJGdHE/42/480.m3u8
+https://pixeldrain.com/api/file/fCQ7owz2?download
 https://www.dropbox.com/scl/fi/ku9yfzhoefjjan43perqm/Wildcat-2025.mp4?rlkey=22cz3vp9brq7t71fv9p9gzz25&st=vd496sf7&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vobigFZFvbYPf6ElYJu07P9rH8C.jpg" group-title="▶ VOD ENGLISH",Dust Bunny (2025)
+https://pixeldrain.com/api/file/VQ3XQdtd?download
 https://stream.playcdn.de/playlist/Jg06OmgbAi8sKFp-cwJjdRU9CwoJJi8ecGIWeyFRYTw/38/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/y81t8iuiEwsxdE5snmjjZMGmTjW.jpg" group-title="▶ VOD ENGLISH",Worth the Wait (2025)
@@ -680,6 +690,9 @@ https://www.dropbox.com/scl/fi/40opvexpdy99c3400oj4y/Worth-the-Wait-2025.mp4?rlk
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/feHTwv3BplNlLW3o9LtW2kqZLJg.jpg" group-title="▶ VOD ENGLISH",My Mothers Wedding (2025)
 https://www.dropbox.com/scl/fi/rlp0xbnv4rzzebpny12y7/My-Mother-s-Wedding.mp4?rlkey=4j4y7zcphrto0w5svnrbmmhgn&st=a6my6ts0&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg" group-title="▶ VOD ENGLISH",Vengeance (2026)
+https://pixeldrain.com/api/file/FpbNeqGQ?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg" group-title="▶ VOD ENGLISH",The Phoenician Scheme (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/The%20Phoenician%20Scheme%20(2025)-1-720.mp4
@@ -1735,7 +1748,7 @@ https://stream.playcdn.de/playlist/b6d0c0fa0a496ac63099df51d63d64d3/11/480.m3u8
 https://stream.playcdn.de/playlist/243276d7b2506ff60af954acc7b72a27/25/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/adk8weka3O5648g3de4z3y4aE7G.jpg" group-title="▶ VOD ENGLISH",Thrash (2026)
-https://stream.playcdn.de/playlist/NhA7LzYRWnNyY0FhFHUUHA4nERF2ShUjdGBBeg/40/480.m3u8
+https://pixeldrain.com/api/file/TCxC6xtX?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cVLfO3CbVg8p5Qcaifq6AidOe2w.jpg" group-title="▶ VOD ENGLISH",Quicksand (2023)
 https://stream.playcdn.de/playlist/c033551f5de9a3af0e146c3c38f0d9f9/11/480.m3u8
