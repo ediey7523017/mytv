@@ -1919,9 +1919,12 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg" group-title="▶ VOD INDIA",Vishwanath & Sons (2026)
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/iO3LpRWbrY9aGo5ybp5C7Q/ipt/skucpjei/91zpbr/tt/index-f2-v1-a1.m3u8?v=1766826492
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg" group-title="▶ VOD INDIA",Jana Nayagan (2026)
-https://pixeldrain.com/api/file/TSFzFZrq?download
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg" group-title="▶ VOD INDIA",Jana Nayagan (2026) MalaySub
 https://www.dropbox.com/scl/fi/sb2dq44iohvj1iqvauxtz/Jana.Nayagan.2026.mp4?rlkey=nxg1zonct1y5y7ylhhbgvzncw&st=0a6yygme&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg" group-title="▶ VOD INDIA",Jana Nayagan (2026) IndoSub
+https://stream.playcdn.de/playlist/05f3271d1de9c29682dca9ae649ab10c/1/0.m3u8?x=1
+https://pixeldrain.com/api/file/TSFzFZrq?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/cB6ZAWK70cR5HVnGK6BaCr8W4FH.jpg" group-title="▶ VOD INDIA",DC (2026)
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/-9bw4zrlCt55LxZz-KB13w/h9r/puo3lek5/xqkusq/tt/index-f2-v1-a1.m3u8?v=1766826492
