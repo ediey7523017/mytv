@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTM3U url-tvg="https://www.open-epg.com/files/malaysia2.xml,
+#EXTM3U url-tvg="https://www.open-epg.com/files/malaysia2.xml playlist-name="Sooka" playlist-logo="https://sooka.my/assets/images/png/SOOKA_LOGO.png"
 
 ################################################################# Sooka #################################################################
-#EXTINF:-1 group-logo="https://sooka.my/assets/images/png/SOOKA_LOGO.png"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -99,38 +98,18 @@ https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/pla
 #EXTINF:-1 tvg-id="Horse And Country.my" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/0209dbHNC.png",Horse & Country
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Sooka", HBO
-http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Sooka", Cinemax
-http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Sooka", Warner TV
-http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Sooka", KIX
-http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001583&contentid=ch00000000000000001583&videoid=ch00000090990000001263&recommendtype=0&userid=1319115127597&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=D4NMMH3RZQXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="Sooka",Cartoonito
-http://136.239.159.18:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO (TS)
-http://013tv.com:8080/F33848/cbd9779b/306484
-
-#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="MOVIES",HBO HITS (TS)
-http://013tv.com:8080/F33848/cbd9779b/306486
-
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="MOVIES",HBO SIGNATURE (TS)
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="Sooka",HBO SIGNATURE (TS)
 http://013tv.com:8080/F33848/cbd9779b/306483
 
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="MOVIES",HBO FAMILY (TS)
-http://013tv.com:8080/F33848/cbd9779b/197972
+#EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="Sooka",HBO (TS)
+http://013tv.com:8080/F33848/cbd9779b/306484
 
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX (TS)
-http://013tv.com:8080/F33848/cbd9779b/197964
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="Sooka",HBO FAMILY (TS)
+http://013tv.com:8080/F33848/cbd9779b/306485
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qZDjcqvgt3xWcAdc7wHpuqGZ3i.jpg" group-title="▶ VOD PRIME",Operasi Improvisasi (2025)
-https://marginfull.github.io/live/prime/deepcover.mpd
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="Sooka",HBO HITS (TS)
+http://013tv.com:8080/F33848/cbd9779b/306486
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg" group-title="▶ VOD PRIME",Chak De! India (2007)
-https://marginfull.github.io/live/prime/chak_de_india.mpd
+#EXTINF:-1 tvg-name="Cinema World" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemaworld.jpg" group-title="Sooka",CINEMAWORLD
+http://013tv.com:8080/F33848/cbd9779b/165082
