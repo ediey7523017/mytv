@@ -164,37 +164,37 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_01.jpg" group-title="RTM Klik",20th Asian Games Aichi-Nagoya 2026 CH1
-https://d30aylox5wvifh.cloudfront.net/live/media0/event1/HLS/event1.m3u8
+https://d30aylox5wvifh.cloudfront.net/live/media0/event1/DASH/event1.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_02.jpg" group-title="RTM Klik",20th Asian Games Aichi-Nagoya 2026 CH2
-https://d30aylox5wvifh.cloudfront.net/live/media0/event2/HLS/event2.m3u8
+https://d30aylox5wvifh.cloudfront.net/live/media0/event2/DASH/event2.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_03.jpg" group-title="RTM Klik",20th Asian Games Aichi-Nagoya 2026 CH3
-https://d30aylox5wvifh.cloudfront.net/live/media0/event3/HLS/event3.m3u8
+https://d30aylox5wvifh.cloudfront.net/live/media0/event3/DASH/event3.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_04.jpg" group-title="RTM Klik",20th Asian Games Aichi-Nagoya 2026 CH4
-https://d30aylox5wvifh.cloudfront.net/live/media0/event4/HLS/event4.m3u8
+https://d30aylox5wvifh.cloudfront.net/live/media0/event4/DASH/event4.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_05.jpg" group-title="RTM Klik",20th Asian Games Aichi-Nagoya 2026 CH5
-https://d30aylox5wvifh.cloudfront.net/live/media0/event5/HLS/event5.m3u8
+https://d30aylox5wvifh.cloudfront.net/live/media0/event5/DASH/event5.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_06.jpg" group-title="RTM Klik",20th Asian Games Aichi-Nagoya 2026 CH6
-https://d30aylox5wvifh.cloudfront.net/live/media0/event6/HLS/event6.m3u8
+https://d30aylox5wvifh.cloudfront.net/live/media0/event6/DASH/event6.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
