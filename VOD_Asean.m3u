@@ -2891,7 +2891,7 @@ https://archive.org/download/qodrat-2022/Qodrat%20%282022%29.m3u8
 https://archive.org/download/waktu-magrib-2-2025/Waktu%20Magrib%202%20%282025%29.m3u8
 
 
-##############################################################▶ VOD MALAY##########################################################
+############################################################## ▶ VOD MALAY ##########################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jM6ET38Xa0OECB3fIWMdYvQlJo5.jpg" group-title="▶ VOD MALAY",Libang Libu (2026)
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/4fjXOVgzksk3UMrGObBtuA/r81/dq8zriez/it8yty/tt/index-f2-v1-a1.m3u8?v=1766826492
@@ -3694,7 +3694,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/acd2a2c4-e1e4-5b13-8f10-e9785af832f6/default_ott.mpd
 
 
-#####################################################################▶ P RAMLEE #################################################################
+##################################################################### ▶ P RAMLEE #################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -3900,7 +3900,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/dce54a7d-c074-5ee1-876e-6a9977500e9b/default_dash.mpd
 
 
-#####################################################################▶ VOD VIU##################################################################
+##################################################################### ▶ VOD VIU ##################################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/204393941/eb24bf06559f6833b9d6e413b49abedb94993779" group-title="▶ VOD VIU",Love Clinique 
 https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234513&quality=s240p&product_id=2576995&lang=Malay 
