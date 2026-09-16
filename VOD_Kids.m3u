@@ -1,9 +1,9 @@
 #EXTM3U url=""
 
 
-###################################################################▶ VOD KIDS########################################################
+################################################################# ▶ VOD KIDS #######################################################
 
-################################################################## KIDS SERIES #######################################################
+################################################################## KIDS SERIES ######################################################
 
 #EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep01" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E01
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -972,6 +972,36 @@ https://www.dropbox.com/scl/fi/atrjv8ruasdq0kxp8ob8f/Papa.Zola.The.Movie.2025.mp
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg" group-title="▶ VOD KIDS",KPop Demon Hunters (2025)
 https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/KPop%20Demon%20Hunters%20(2025)MalayDub-1-720.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="▶ VOD KIDS",Swapped (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Swapped%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="▶ VOD KIDS",Swapped (2026) MalayDub
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Swapped%202026MalayDub-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg" group-title="▶ VOD KIDS",Hoppers (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Hoppers%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/inTKQni4YW8syrfgnXHwzmNeSo4.jpg" group-title="▶ VOD KIDS",Turbo (2013)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/Turbo%202013-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/g3Hms6AE174doeGR1gz5zX5sVsv.jpg" group-title="▶ VOD KIDS",The Secret Life of Pets (2016)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Secret%20Life%20of%20Pets%201%202016-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/g3Hms6AE174doeGR1gz5zX5sVsv.jpg" group-title="▶ VOD KIDS",The Secret Life of Pets (2016) MalayDub
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Secret%20Life%20of%20Pets%201%202016MalayDub-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/s9xg4V5EDKiphgIksVJ9gewBM11.jpg" group-title="▶ VOD KIDS",The Secret Life of Pets 2 (2019)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Secret%20Life%20of%20Pets%202%202019-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/s9xg4V5EDKiphgIksVJ9gewBM11.jpg" group-title="▶ VOD KIDS",The Secret Life of Pets 2 (2019) MalayDub
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Secret%20Life%20of%20Pets%202%202019MalayDub-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg" group-title="▶ VOD KIDS",GOAT (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Goat%20(2026)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/3eZRgjfFWTpejRvRKyKe1EKgt9s.jpg" group-title="▶ VOD KIDS",Rumble (2021)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Rumble%202021-1-720.mp4
+
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cjDAlNKylyqNUpv6nDoFR1YBEAD.jpg" group-title="▶ VOD KIDS",Ejen Ali The Movie 2 (2025)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Ejen%20Ali%20The%20Movie%202%202025-1-720.mp4
@@ -1302,3 +1332,4 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg" group-title="▶ VOD KIDS",PAW Patrol The Dino Movie (2026)
 https://pixeldrain.com/api/file/77xPt9NX?download
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/bmvC1AFluWn5CciqFwEQ7g/dqm/dq8zriez/pw5ujc/tt/index-f2-v1-a1.m3u8?v=1766826492
