@@ -1,7 +1,7 @@
 #EXTM3U url=""
 
 
-############################################################## ▶ VOD ENGLISH ################################################################
+####################################################### ▶ VOD ENGLISH #########################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/yopXjun3ICFfJci2ukcEzceZjUs.jpg" group-title="▶ VOD ENGLISH",The Fix (2026)
 https://stream.playcdn.de/playlist/59a2b6bae04b8041a709ee0a24730503/1/0.m3u8?x=1
@@ -96,8 +96,8 @@ https://pixeldrain.com/api/file/hFrem2fy?download
 https://www.dropbox.com/scl/fi/q3acrxp3u7ftisb8qg1lf/The.Devils.Mouth.2026.mp4?rlkey=k3bjht7k4qo687ykh8h40nfgj&st=4utp5ie0&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/niSvU02l2BONH9ivubV6K1a5QiK.jpg" group-title="▶ VOD ENGLISH",Supergirl (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Supergirl%202026-1-720.mp4
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/NbDL1gOjut3ueK4KYNazjQ/lob/ipljep8u/j6fklb/tt/index-f2-v1-a1.m3u8?v=1766826492
-https://www.dropbox.com/scl/fi/4uflpqu4og3ee8wnnebkm/Supergirl.2026.mp4?rlkey=kgdm1tdrv6x5ckt4bt4uimjyb&st=5azr7cml&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vt0RqHlqfUzeiBEVQvp43yY2076.jpg" group-title="▶ VOD ENGLISH",Man of War (2026)
 https://pixeldrain.com/api/file/hFfMm8qT?download
