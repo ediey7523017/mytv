@@ -411,6 +411,21 @@ https://47228.ohflix.workers.dev/0:/x32/NewVersion/34/Bright%202017.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/sd3qUIv5uoP2oTbqv66CzXSPjKG.jpg" group-title="▶ VOD ENGLISH",Hollow Man (2000)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/Hollow%20Man%20(2000)-1-720.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/c6Ga1AUGPe3GwlpX3qDYrD9y3EZ.jpg" group-title="▶ VOD ENGLISH",Hollow Man II (2006)
+https://stream.playcdn.de/playlist/a84233b64ac9aff5c2ef4eb448360515/4/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ixgQMe3ot4cFnqUbwqwuu5qwDbL.jpg" group-title="▶ VOD ENGLISH",Survival Island (2005)
+https://stream.playcdn.de/playlist/ed9225dcd42492fab4a9fa044ae385ca/3/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/o45mRbIDykJld6WktTuVtWm7s6E.jpg" group-title="▶ VOD ENGLISH",Piranha 3D (2010)
+https://stream.playcdn.de/playlist/87cec72d83b63b2a2d73224b27fdb585/4/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/oqgQghwDwyv4PzyaoMUnhgtiCjt.jpg" group-title="▶ VOD ENGLISH",Piranhaconda (2012)
+https://stream.playcdn.de/playlist/95bd2f0d68c3e111a2bed1107e89b70e/4/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/eOLA3IrZATSz5FQ6fmG0Q6sSVyq.jpg" group-title="▶ VOD ENGLISH",Piranha 3DD (2012)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/29/Piranha%203Dd%202012.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/uGqlk7Hu8FRLVDcFZ16NxTy09ZE.jpg" group-title="▶ VOD ENGLISH",Last Knights (2015)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/Last%20Knights%202015-1-720.mp4
 
@@ -974,6 +989,9 @@ https://47227.ohflix.workers.dev/0:/x21/NewVersion/3/Nightcrawler%202014%20720p%
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg" group-title="▶ VOD ENGLISH",The Day After Tomorrow (2004)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/69/The%20Day%20After%20Tomorrow%202004.mp4
+
+
+
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/psP90zHD3ZYGLCLpt4B3MbtrlWr.jpg" group-title="▶ VOD ENGLISH",Tears of the Sun (2003)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/69/Tears%20Of%20The%20Sun%20(2003).mp4
