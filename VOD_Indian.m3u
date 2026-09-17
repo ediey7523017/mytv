@@ -1,7 +1,7 @@
 #EXTM3U url=""
 
 
-############################################################## ▶ VOD BOLLYWOOD ##########################################################
+##############################################################▶ VOD BOLLYWOOD##########################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/3RRA8UBAdPC08spbDgnU0ykQ2MR.jpg" group-title="▶ VOD BOLLYWOOD",Bandar (2026)
 https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/FoYCrhs8kXnR9ptQdbpraA/ipk/h9k8sygi/bjpakl/tt/index-f2-v1-a1.m3u8?v=1766826492
@@ -48,7 +48,7 @@ https://stream.playcdn.de/playlist/cd10063f6aa237e6a3ba6a27e99b2921/18/480.m3u8
 https://stream.playcdn.de/playlist/MBkjL2gKHyg0MB0lbgJmanRVHgsHPTseGg4WenEBMm91QA/42/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg" group-title="▶ VOD BOLLYWOOD",Hai Jawani Toh Ishq Hona Hai (2026)
-https://stream.playcdn.de/playlist/KhkgYy8YACAsOFo4LFh7MTEQOGMtFhkgbzkWJW4CZmp0VR4LBz07HhoOQ3tyBTA9cU0/43/480.m3u8
+https://pixeldrain.com/api/file/Pr9Lk4RR?download
 https://www.dropbox.com/scl/fi/t54d3jqgo6fvyk5yfr1u6/Hai-Jawani-Toh-Ishq-Hona-Hai-2026.mp4?rlkey=n2gpqo9kit8um3pw56bkhp4hp&st=b3mm7rqa&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/j0ZLUMdBimCAkblfcaBlrGzzYoq.jpg" group-title="▶ VOD BOLLYWOOD",Anomie (2026)
@@ -56,12 +56,15 @@ https://stream.playcdn.de/playlist/IxYmIywcWiQzJBY4Kl84dSYdKDotVEVxcGdaGwZyEhQdI
 https://www.dropbox.com/scl/fi/1pjd0lcxeewm488ad8zlu/Anomie.2026.mp4?rlkey=4657sjk45bvycavuo6ai4s183&st=qsgmrl8g&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cExvVp4TtS7QvtyjPmazT8NE4LL.jpg" group-title="▶ VOD BOLLYWOOD",Pati Patni Aur Woh Do (2026)
-https://stream.playcdn.de/playlist/Mhk9J2gJFjUsOFotNkJ7Ly0QZCoqVEVxcGdaGwZyEhQdIBYtfExGeHNiRA/42/480.m3u8
+https://pixeldrain.com/api/file/M2RaTuEH?download
 https://www.dropbox.com/scl/fi/8lalzmt6vrycm8ld8ohgt/Pati-Patni-Aur-Woh-Do-2026.mp4?rlkey=b1jrneoy5o5robc5tc8jhmpyi&st=93gvcf89&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/fp5EAKE8nTx402n1fWz55QsuYY9.jpg" group-title="▶ VOD BOLLYWOOD",Ikka (2026)
-https://stream.playcdn.de/playlist/KxMiL2hLR3N0fCAJAXQaBxonfnp0Tk4gcjI/42/480.m3u8
+https://pixeldrain.com/api/file/vfTE6TKD?download
 https://www.dropbox.com/scl/fi/o9o9715ohc3ysgz17gmpo/Ikka.2026.720p.MalaySub.WEB.MSM.mp4?rlkey=nyugw5psu4zbn29r7yegkv5i7&st=2av5wtr2&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/oaUOV9VCNM5MjrmonqgH4o3XNwQ.jpg" group-title="▶ VOD BOLLYWOOD",Jaane Jaan (2023)
+https://pixeldrain.com/api/file/ao4nkfY3?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" group-title="▶ VOD BOLLYWOOD",O'Romeo (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/O%20Romeo%20(2026).mp4
@@ -604,6 +607,9 @@ https://www.dropbox.com/scl/fi/mghs57vnevdnl3asp9u1k/Taal-1999.mp4?rlkey=rtigywc
 
 #EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/TAAL_POSTER.jpg" group-title="▶ VOD BOLLYWOOD",Taal (1999)
 https://d13snj70thqlha.cloudfront.net/523b98c1-3723-4b23-8207-ad47ab46df0c/Taal_20251217.m3u8?id=31418
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/7iF085zFU0ENInDKvE3pPgRCoLP.jpg" group-title="▶ VOD BOLLYWOOD",Daana Paani (2018)
+https://pixeldrain.com/api/file/syeiS6Bk?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eZ5qYiEDh0nS2EnZfGjUFdkkacT.jpg" group-title="▶ VOD BOLLYWOOD",Barsaat (2005)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil32/Barsaat%20(2005).mp4
@@ -1914,7 +1920,7 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b964
 
 
-############################################################## ▶ VOD INDIA #########################################################
+######################################################################▶ VOD INDIA#########################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg" group-title="▶ VOD INDIA",Vishwanath & Sons (2026)
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/iO3LpRWbrY9aGo5ybp5C7Q/ipt/skucpjei/91zpbr/tt/index-f2-v1-a1.m3u8?v=1766826492
