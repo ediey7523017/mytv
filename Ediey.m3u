@@ -333,6 +333,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd7282e920e5437a9b1f01bc6f81795c:99763370f0763b0f7119aab091cc70c8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(ZeeThi)/master.mpd?hdntl=st=1789645562~exp=1789735562~acl=/Content/DASH/Live/channel(ZeeThi)/*~id=hV6Y8QhglemagUxgWZtgPUaVRtPQfoCqTQPYWVat1DFU~hmac=076cc4ed3ed1268ad05d52ad8de5fbcdf6327ec795de031d4e61bab1a1dd8265
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ZeeThi&kid=bd7282e9-20e5-437a-9b1f-01bc6f81795c
 
 #EXTINF:-1 tvg-id="303" tvg-name="Sony YAY!" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/BD814A07-3CF5-4686-B552-31FF782BB8F7/0-16x9.png?width=530" group-title="Unifi TV",Sony YAY!
@@ -341,6 +342,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=582e9e382cb0495886afbabdbdb6fbf7:c0f550839b235443724cd007392b6e40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SonyYay)/master.mpd?hdntl=st=1789645698~exp=1789735698~acl=/Content/DASH/Live/channel(SonyYay)/*~id=hV6Y8QhglemagUxgWZtgPUaVRtPQfoCqTQPYWVat1DFU~hmac=7f1ae6b97b083f8e71238b04f5e1b27bdb81b974947cc9747c8f75a33df70f51
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=SonyYay&kid=582e9e38-2cb0-4958-86af-babdbdb6fbf7
 
 #EXTINF:-1 tvg-id="304" tvg-name="Zee Tamil" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/0331DB51-F701-463B-8C3D-67595A11BA8E/0-16x9.png?width=530" group-title="Unifi TV",Zee Tamil
