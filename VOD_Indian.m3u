@@ -79,6 +79,15 @@ https://www.dropbox.com/scl/fi/519tmvtp790j8ocw3wkqt/Cocktail-2-2026.mp4?rlkey=t
 https://stream.playcdn.de/playlist/c92a4ad40ea11f6afa158cc80d99eb65/8/480.m3u8
 https://www.dropbox.com/scl/fi/ej3bvbrvux8qzoi6vyukn/Cocktail-2012.mp4?rlkey=q3o48ra2flie5z18l9l1swvon&st=uyz5exd4&dl=1
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qbsuF8RazV42POTJLxItQ6Udd3n.jpg" group-title="▶ VOD BOLLYWOOD",Lust Stories 3 (2026)
+https://stream.playcdn.de/playlist/2ce53d7777a531665e8c754c51878129/1/0.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/p5x729JI6wZs9hCqX7tc7oH87ih.jpg" group-title="▶ VOD BOLLYWOOD",Lust Stories 2 (2023)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Lust%20Stories%202%20(2023)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mP5HehSpCaRGd6ej66jxkhdl60B.jpg" group-title="▶ VOD BOLLYWOOD",Lust Stories (2018)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Lust%20Stories%20(2018)-1-720.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dNJrK1uvoBPoYEVTAqI8ZSyrpdI.jpg" group-title="▶ VOD BOLLYWOOD",Aseq (2024)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/Aseq%20(2023).mp4
 
@@ -516,15 +525,6 @@ https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/tamil36/Sikand
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wbXSE68cDwqUPsHJcpdu7I5kSLK.jpg" group-title="▶ VOD BOLLYWOOD",Do Patti (2024)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/tamil36/Do%20Patti%202024-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qbsuF8RazV42POTJLxItQ6Udd3n.jpg" group-title="▶ VOD BOLLYWOOD",Lust Stories 3 (2026)
-https://stream.playcdn.de/playlist/2ce53d7777a531665e8c754c51878129/1/0.m3u8?x=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/p5x729JI6wZs9hCqX7tc7oH87ih.jpg" group-title="▶ VOD BOLLYWOOD",Lust Stories 2 (2023)
-https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Lust%20Stories%202%20(2023)-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mP5HehSpCaRGd6ej66jxkhdl60B.jpg" group-title="▶ VOD BOLLYWOOD",Lust Stories (2018)
-https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Lust%20Stories%20(2018)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qBCQOQOZyeJKljODcGZbzr80REn.jpg" group-title="▶ VOD BOLLYWOOD",Jaan-E-Mann (2006)
 https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Jaan-E-Mann%202006.mp4
