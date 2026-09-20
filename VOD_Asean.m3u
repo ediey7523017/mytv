@@ -1,7 +1,7 @@
 #EXTM3U url=""
 
 
-################################################################# ▶ VOD KOREAN ##################################################################
+###################################################################### ▶ VOD KOREAN ######################################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg" group-title="▶ VOD KOREAN",BTS THE RETURN (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/BTS%20THE%20RETURN%202026-1-720.mp4
@@ -71,6 +71,9 @@ https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/CoIony%202026-1-720.m
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ipJ4mgqse6uoTRsDyU3TXmva1rt.jpg" group-title="▶ VOD KOREAN",Ninja Assassin (2009)
 https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Ninja%20Assassin%20(2009)1080pbrrip%20Malay%20Hardsub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/3YtKjWJweenEg2ic25PdDvRMdff.jpg" group-title="▶ VOD KOREAN",The Policeman Lineage (2022)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/The%20Policemans%20Lineage%202022-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/acrlZuaS7ypiEUb3oZRA28Ox7TV.jpg" group-title="▶ VOD KOREAN",The Housemaid (2010)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Housemaid%20(2010)-1-720.mp4
@@ -174,7 +177,7 @@ https://www.dropbox.com/scl/fi/cqw9mbtelymeemm77pqx0/Tomb-of-the-River.mp4?rlkey
 https://stream.playcdn.de/playlist/237c0ec9607a851893a0eed6b7d3eb3f/4/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6kLdCMcfYItUrPWCI24CmWfNQRg.jpg" group-title="▶ VOD KOREAN",The Woman in the White Car (2022)
-https://stream.playcdn.de/playlist/077401c3d5f402f8b8e6e0877880d863/2/480.m3u8?x=1
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/The%20Woman%20in%20the%20White%20Car%202022-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7URarQmiX9XnQ5c9dizHazBq0n2.jpg" group-title="▶ VOD KOREAN",Second Sister (2025)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Second%20Sister%202025-1-720.mp4
@@ -404,8 +407,7 @@ https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/71/The%20Berli
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Re%20Member%202022-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/sNLTSYHRfQJ2gpdrA2UXjkfEije.jpg" group-title="▶ VOD KOREAN",The Ugly (2025)
-https://stream.playcdn.de/playlist/Nx8lN2hLR3N3fCAJAXQaBxonfS0gGhUicjI/41/480.m3u8
-https://www.dropbox.com/scl/fi/saw68ywwfixqppe5y2bd3/The-Ugly-2025.mp4?rlkey=y2i3qf1hsnvhr3gsa4qm5j6di&st=n18tdtgw&dl=1
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/The%20Ugly%202025-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/fqHIhkyf6Iu21WvIWAtWsoSgYJe.jpg" group-title="▶ VOD KOREAN",Boss (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Boss%202025-1-720.mp4
@@ -2365,6 +2367,9 @@ https://stream.playcdn.de/playlist/5d6c152bc1c8d38b7397cd3a0c5be00f/5/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/g8CBVNFdJOGINQW2KuOvl5NAPS5.jpg" group-title="▶ VOD ASEAN",Chocolate (2008)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/Chocolate%202008.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXJNB_IVP_LAND_448x252_930AE_2026530_145210.jpg" group-title="▶ VOD ASEAN",The Thieves (2021)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/The%20Thieves%202021-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z1ZNHtlrbAugGS5RJOOhSfPpRos.jpg" group-title="▶ VOD ASEAN",The Tai Chi Master (2022)
 https://stream.playcdn.de/playlist/b99de1702b6af9e73f0db07c0746d401/11/480.m3u8
