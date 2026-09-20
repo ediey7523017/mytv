@@ -1,7 +1,7 @@
 #EXTM3U url=""
 
 
-####################################################### ▶ VOD ENGLISH ##########################################################
+####################################################### ▶ VOD ENGLISH #########################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/yopXjun3ICFfJci2ukcEzceZjUs.jpg" group-title="▶ VOD ENGLISH",The Fix (2026)
 https://stream.playcdn.de/playlist/9208cb0d0574ad7d2a349d63f1032fe3/1/0.m3u8?x=1
@@ -121,8 +121,8 @@ https://pixeldrain.com/api/file/8zVafNPk?download
 https://pixeldrain.com/api/file/8RmWEXDR?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/iKy5460GdsoknM8ppmGlJbKxAKa.jpg" group-title="▶ VOD ENGLISH",The Sheep Detectives (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/The%20Sheep%20Detectives%202026-1-720.mp4
 https://pixeldrain.com/api/file/gw6ZK1Y1?download
-https://www.dropbox.com/scl/fi/psylrakzbt2ider1s28jv/The-Sheep-Detectives-2026.mp4?rlkey=sqnyzwligtdllmpl1bozw5vrd&st=dkeysg5h&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg" group-title="▶ VOD ENGLISH",In the Hand of Dante (2026)
 https://stream.playcdn.de/playlist/KhknKmgdFi82NFp-cwJjdRU9CwoJJi8eJmYTdHtTMDo/42/480.m3u8
@@ -245,6 +245,15 @@ https://pixeldrain.com/api/file/RwtCxKso?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8912AsVuS7Sj915apArUFbv6F9L.jpg" group-title="▶ VOD ENGLISH",The Devil Wears Prada (2006)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/The%20Devil%20Wears%20Prada%202006-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg" group-title="▶ VOD ENGLISH",The Tomorrow War (2021)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/The%20Tomorrow%20War%202021-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg" group-title="▶ VOD ENGLISH",The Truthers (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/The%20Truthers%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg" group-title="▶ VOD ENGLISH",The School for Good and Evil (2022)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/The%20School%20for%20Good%20and%20Evil%202022-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9KCOv0hL37IN3tWG3j86eZg3xDH.jpg" group-title="▶ VOD ENGLISH",Eagle Eye (2008)
 https://stream.playcdn.de/playlist/855bbbd4a156f94537734da6415c0274/2/480.m3u8
