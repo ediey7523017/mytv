@@ -1291,11 +1291,13 @@ https://ptv2026.com/get_vision.mpd?contentId=uniques
 
 #EXTINF:-1 tvg-id="moviesnowhd" tvg-name="" tvg-logo="https://ptv2026.com/logo/moviesnow.png" group-title="Movies",Movies Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://ptv2026.com/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=moviesnow
 
 #EXTINF:-1 tvg-id="mnx" tvg-name="" tvg-logo="https://ptv2026.com/logo/mnx.png" group-title="Movies",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://ptv2026.com/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mnxhd
 
