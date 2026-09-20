@@ -1,9 +1,9 @@
 #EXTM3U url=""
 
 
-################################################################# ▶ VOD KIDS #######################################################
+###################################################################▶ VOD KIDS#######################################################
 
-################################################################# ▶ VOD KIDS #######################################################
+################################################################## KIDS SERIES ######################################################
 
 #EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep01" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E01
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -905,8 +905,7 @@ https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Toy.Story
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru37/The%20Super%20Mario%20Bros.%20Movie%20(2023)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg" group-title="▶ VOD KIDS",The Super Mario Galaxy Movie (2026)
-https://stream.playcdn.de/playlist/c5807c44e71572899e5609a5043a3f7d/2/480.m3u8?x=1
-https://www.dropbox.com/scl/fi/mtvpv6uz7o0kp5b29dv06/The.Super.Mario.Galaxy.Movie.2026.mp4?rlkey=jyna8kp89wo9afx3skilhup16&st=f92978e2&dl=1
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/The%20Super%20Mario%20Galaxy%20Movie%202026-1-720.mp4
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg" group-title="▶ VOD KIDS",Zootopia 2 (2025)
@@ -1220,6 +1219,9 @@ https://www.dropbox.com/scl/fi/8xi7ikbvh5p1juuvvdyoq/The-SpongeBob-Movie-Sponge-
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg" group-title="▶ VOD KIDS",The SpongeBob Movie Search for SquarePants (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20SpongeBob%20Movie%20Search%20for%20SquarePants%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg" group-title="▶ VOD KIDS",The SpongeBob Movie Search for SquarePants (2025) MalayDub
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/The%20SpongeBob%20Movie%20Search%20for%20SquarePants%202025MalayDub-1-720.mp4
 
 
 #EXTINF:-1 type="movie" tvg-name="Upin & Ipin: Keris Siamang Tunggal" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KULCG_p_IVP_PORT_390x585_92A9A_202679_172830.jpg" group-title="▶ VOD KIDS",Upin & Ipin: Keris Siamang Tunggal
