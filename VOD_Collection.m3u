@@ -3,6 +3,29 @@
 
 ####################################################### ▶ VOD FILM SERIES ###########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/3OXiTjU30gWtqxmx4BU9RVp2OTv.jpg" group-title="▶ VOD ENGLISH",One Shot (2021)
+https://stream.playcdn.de/playlist/f09dd5ac39505f905598d4d27d635742/5/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/xiLFc19JANfAZHbecqoCFpmtiUV.jpg" group-title="▶ VOD ENGLISH",One More Shot (2024)
+https://stream.playcdn.de/playlist/d53f6ee1ed9d9310abc9660db19c6495/4/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg" group-title="▶ VOD ENGLISH",One Last Shot (2026)
+https://stream.playcdn.de/playlist/5e40d3d976a8343559399ae0ba0b3696/1/0.m3u8?x=1
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/aITIsX20tACn6jgtyDcCYpRT216.jpg" group-title="▶ VOD ENGLISH",The Scorpion King (2002)
+https://stream.playcdn.de/playlist/b8d9cef8ab3f4b7a3705820c49f5bc94/4/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/osZ6HJJBPwptZLTXFYbGQ0Jc7WB.jpg" group-title="▶ VOD ENGLISH",The Scorpion King 2 Rise of a Warrior (2008)
+https://stream.playcdn.de/playlist/c19991129115846d0976b5275f9bfd73/4/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mFckPp0eU02Rqix62sqZDkIxFXd.jpg" group-title="▶ VOD ENGLISH",The Scorpion King 3 Battle for Redemption (2012)
+https://stream.playcdn.de/playlist/cda5c7ae4f95191fa8bb3bd2e1a4b2d6/5/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/yIvSKp0zM9AwmEdCataPogrBp31.jpg" group-title="▶ VOD ENGLISH",The Scorpion King 4 Quest for Power (2015)
+https://stream.playcdn.de/playlist/14629dbb1d627e8692505ff15b629bd5/2/480.m3u8?x=1
+
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fmw52kXk2kN8AQil7tgOD41gt4Q.jpg" group-title="▶ VOD FILM SERIES",Step Up (2006)
 https://47242.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/76/Step%20Up%202006-1-720.mp4
 
@@ -11,7 +34,6 @@ https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Step%20Up%2
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rPcqa5TZ7S63RNmCuY45ZizFBen.jpg" group-title="▶ VOD FILM SERIES",Step Up 3D (2010)
 https://pixeldrain.com/api/file/ARSYxZJm?download
-https://stream.playcdn.de/playlist/7190ecc18bdb0b54b70ddd3cefbaa2d4/8/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jMpwxmk3r7Aq36GcqMbCuP9DJYQ.jpg" group-title="▶ VOD FILM SERIES",Step Up Revolution (2012)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Step%20Up%20Revolution%20(2012)-1-720.mp4
@@ -27,32 +49,32 @@ https://stream.playcdn.de/playlist/344fe26d3f6f1025e78ccd70c25e1c9f/4/480.m3u8?x
 https://stream.playcdn.de/playlist/47941e534ab57514c9e141d48fe5cf4d/4/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg" group-title="▶ VOD FILM SERIES",The Bourne Ultimatum (2007)
-https://stream.playcdn.de/playlist/ddee841c4a990ee0e346f52878cbf7c0/2/480.m3u8
+https://stream.playcdn.de/playlist/d90a02e1c99aef78e1aac945c4732610/3/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg" group-title="▶ VOD FILM SERIES",The Bourne Legacy (2012)
 https://stream.playcdn.de/playlist/ce94d33a4a2c95177632862db716cfaa/4/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/xA7N41glw17MBQtcWSm2eBlBRuG.jpg" group-title="▶ VOD FILM SERIES",Jason Bourne (2016)
-https://stream.playcdn.de/playlist/32e88ec00eedb34b06a94b39e1638378/2/480.m3u8
+https://stream.playcdn.de/playlist/158bdd243540ae30505fa341c3a76666/5/480.m3u8?x=1
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg" group-title="▶ VOD FILM SERIES",Scream (1996)
-https://stream.playcdn.de/playlist/66f929f9606703c623d82dc132e0235d/1/480.m3u8
+https://stream.playcdn.de/playlist/c1b10ce71cd2b01c33da045906d70c30/5/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg" group-title="▶ VOD FILM SERIES",Scream 2 (1997)
-https://stream.playcdn.de/playlist/d178b684bfe4b4f15a0861651f5c87a4/21/480.m3u8
+https://stream.playcdn.de/playlist/d61ce76df1663b7302409e2c34e01c97/5/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qpH8ToZVlFD1bakL04LkEKodyDI.jpg" group-title="▶ VOD FILM SERIES",Scream 3 (2000)
 https://stream.playcdn.de/playlist/ba70c46298ecdae70b720b22176d3ba9/4/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/3cf8p2qw9qnsaaFWc64AG6U05eT.jpg" group-title="▶ VOD FILM SERIES",Scream 4 (2011)
-https://stream.playcdn.de/playlist/e0d8f8c1d8f7ad60aa818898692568a1/8/480.m3u8
+https://stream.playcdn.de/playlist/fd5df626a1425c5d77e812670c42f8b4/5/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg" group-title="▶ VOD FILM SERIES",Scream 5 (2022)
-https://stream.playcdn.de/playlist/MRs7KyQUWnNyY0VhIVwjKiMBFhYaT052IzNOeiY/33/480.m3u8
+https://stream.playcdn.de/playlist/2c7a4f7e2e7be85d08c820fd36e28dc8/4/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg" group-title="▶ VOD FILM SERIES",Scream 6 (2023)
-https://stream.playcdn.de/playlist/72b0f7034686b0015bb4a858efc332b1/10/480.m3u8
+https://stream.playcdn.de/playlist/d416ace10a0a5a8b50bc1a42c0685138/3/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg" group-title="▶ VOD FILM SERIES",Scream 7 (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Scream%207%202026-1-720.mp4
@@ -74,44 +96,44 @@ https://stream.playcdn.de/playlist/0109fd4420da86f68379c709cc2c2aa8/4/480.m3u8?x
 https://stream.playcdn.de/playlist/2e7796bb4c0d8c614c38ff24ef2f87a0/3/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/znHT8peERZRWG1ME3r0Db0EV8k8.jpg" group-title="▶ VOD FILM SERIES",Scary Movie (2026)
-https://stream.playcdn.de/playlist/MRsoPDxUGi40OBJhcQBkbm8vDAwBNSgZHWhCeHEEMmsm/42/480.m3u8
+https://stream.playcdn.de/playlist/17afd61723aaa111c3b88732aeded864/2/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/bc35xzgg5cyandiewos0p/Scary-Movie-2026.mp4?rlkey=dds3khri8yel45119rv7d0tj8&st=1mns5hs8&dl=1
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1egpmVXuXed58TH2UOnX1nATTrf.jpg" group-title="▶ VOD FILM SERIES",Insidious (2011)
-https://stream.playcdn.de/playlist/d4ca5f1e31d26713b30790af2f7c4aa8/4/480.m3u8
+https://stream.playcdn.de/playlist/72efe8cebd3e25dc760c9169ae36d5b3/5/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg" group-title="▶ VOD FILM SERIES",Insidious Chapter 2 (2013)
-https://stream.playcdn.de/playlist/KxY6JyEQGDQxfBQkIkAiPTBVe2N3SUZybzMbOTFRLwcaJ35_d0tOJyY1/33/480.m3u8
+https://stream.playcdn.de/playlist/06c981336025a2cf44d419b51cae0194/4/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg" group-title="▶ VOD FILM SERIES",Insidious Chapter 3 (2015)
-https://stream.playcdn.de/playlist/9c75fc9647292d740c2888800343828d/1/480.m3u8
+https://stream.playcdn.de/playlist/df9c40b98a48a60518d9fc39de85f50a/3/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6c9ti2JcR3dHyR3qFXoZqVMx0SH.jpg" group-title="▶ VOD FILM SERIES",Insidious The Last Key (2018)
-https://stream.playcdn.de/playlist/6fef7fc2304661fa1e8e43812bbeccd9/5/480.m3u8
+https://stream.playcdn.de/playlist/877aad9ac36df20d62f24420c4427a1a/3/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/d07phJqCx6z5wILDYqkyraorDPi.jpg" group-title="▶ VOD FILM SERIES",Insidious The Red Door (2023)
-https://stream.playcdn.de/playlist/b9cba6696ab1029475a6a417ab4b2a55/3/480.m3u8
+https://stream.playcdn.de/playlist/12cda80bffc4acc9fd401e23653ec9a7/5/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg" group-title="▶ VOD FILM SERIES",Insidious Out of the Further (2026)
 https://stream.playcdn.de/playlist/c5075c9da7ece213050a95a22ebe3722/1/0.m3u8?x=1
 
 
 #EXTINF:-1  type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg" group-title="▶ VOD FILM SERIES",Ghostbusters (1984)
-https://stream.playcdn.de/playlist/dd65a900ff587cb2ceed7cdc705879cf/20/480.m3u8
+https://stream.playcdn.de/playlist/8f4e6811a36e5acbebbb2fd1ec5fa187/5/480.m3u8?x=1
 
 #EXTINF:-1  type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/iUZPi31KDP0n5ycpycEsvl51BdV.jpg" group-title="▶ VOD FILM SERIES",Ghostbusters II (1989)
-https://stream.playcdn.de/playlist/a970086b5348b0a6603b052b862352a4/20/480.m3u8
+https://stream.playcdn.de/playlist/f6e8170e51ef2ccac081cca62bf1ea7b/5/480.m3u8?x=1
 
 #EXTINF:-1  type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg" group-title="▶ VOD FILM SERIES",Ghostbusters (2016)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/68/Ghostbusters%20(2016).mp4
 
 #EXTINF:-1  type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/sg4xJaufDiQl7caFEskBtQXfD4x.jpg" group-title="▶ VOD FILM SERIES",Ghostbusters Afterlife (2021)
-https://stream.playcdn.de/playlist/5294a0cb8155c9a4d9d209b1591adf2c/2/480.m3u8
+https://stream.playcdn.de/playlist/d4d3b85619dc1a5be051cdfc8302f0f3/3/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/tenb67vbbk0cqep4sf57w/Ghostbusters.Afterlife.2021.720p.BluRay.MalaySub.mp4?rlkey=j27z9htnox1p1orkfaoestiq8&st=f8pqti34&dl=1
 
 #EXTINF:-1  type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg" group-title="▶ VOD FILM SERIES",Ghostbusters Frozen Empire (2024)
-https://stream.playcdn.de/playlist/cd28cd5a2204bb228948a1b9d782abfe/27/480.m3u8
+https://stream.playcdn.de/playlist/3e2d9b2297972ff6d14c652ee78b4713/4/480.m3u8?x=1
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg" group-title="▶ VOD FILM SERIES",Hellboy (2019)
