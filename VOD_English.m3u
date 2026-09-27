@@ -3,6 +3,16 @@
 
 ####################################################### ▶ VOD ENGLISH #########################################################
 
+#EXTVLCOPT:http-referrer=https://gofile.io/d/9WOltoVN
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg" group-title="▶ VOD ENGLISH",UNABOMBER (2026)
+https://cold-eu-par-1.gofile.io/download/web/dfaddbe1-8f29-4b00-a7f3-5724e9c6b2f0/Unabomber.2026.720p.MalaySub.WEB.MSM.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vfZxVHextAGC70zrNhS8lsROqP1.jpg" group-title="▶ VOD ENGLISH",The Love Hypothesis (2026)
+https://pixeldrain.com/api/file/5f8CL1js?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg" group-title="▶ VOD ENGLISH",Legend of the White Dragon (2026)
+https://pixeldrain.com/api/file/UqaQkjQ2?download
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/yopXjun3ICFfJci2ukcEzceZjUs.jpg" group-title="▶ VOD ENGLISH",The Fix (2026)
 https://stream.playcdn.de/playlist/9208cb0d0574ad7d2a349d63f1032fe3/1/0.m3u8?x=1
 
@@ -101,8 +111,8 @@ https://pixeldrain.com/api/file/WbtnSHCV?download
 https://stream.playcdn.de/playlist/daf5ec32f7a7d80ba9b334341910bcef/1/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg" group-title="▶ VOD ENGLISH",Young Washington (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Young%20Washington%202026-1-720.mp4
 https://pixeldrain.com/api/file/jujZYmpj?download
-https://www.dropbox.com/scl/fi/q9zrpkd0eyuvtrzvxlq6u/Young-Washington-2026.mp4?rlkey=v8g02r1url6lcfbrspo5heucn&st=7x2whytn&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg" group-title="▶ VOD ENGLISH",undertone (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/undertone%202025-1-720.mp4
@@ -129,13 +139,13 @@ https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/In%20the%20Hand%20of%
 https://stream.playcdn.de/playlist/a06bbaebf896d3c5c965593a1e9650ba/2/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/canZTWSxACSnAluir3dCtMxKpA1.jpg" group-title="▶ VOD ENGLISH",Voicemails for Isabelle (2026)
-https://stream.playcdn.de/playlist/4015e18687e42c67e1dc85ef656b873d/2/480.m3u8?x=1
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Voicemails%20for%20Isabelle%20(2026)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gFjEggtrejCN79r6SXRjM269OtG.jpg" group-title="▶ VOD ENGLISH",Pressure (2026)
 https://stream.playcdn.de/playlist/05e6242e4b6a13302f49721d9001e108/2/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="▶ VOD ENGLISH",Your Fault London (2026)
-https://stream.playcdn.de/playlist/57d930733ad4a1b4ebbc0d831c4e2fc9/2/480.m3u8?x=1
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Your%20Fault%20London%202026-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1vpNS7FcsW12NRenyp9RuluvJ4t.jpg" group-title="▶ VOD ENGLISH",Ruthless Bastards (2025)
 https://stream.playcdn.de/playlist/ed8e9020dc56d1c5094dc55d72472b14/5/480.m3u8?x=1
@@ -278,6 +288,9 @@ https://www.dropbox.com/scl/fi/mjdf4jj12j3pyva9x6qx0/Judge-Dredd.mp4?rlkey=6ayfo
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wLx65gtGVnUFCxceHWGszcruCZj.jpg" group-title="▶ VOD ENGLISH",Dredd (2012)
 https://stream.playcdn.de/playlist/e319feb7288a900c35151ab17439f4c9/5/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/7bs23ydyjccvocefx7yij/Dredd.mp4?rlkey=py0jf0dd43csg50hyiquk5krf&st=q9lz0vnn&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg" group-title="▶ VOD ENGLISH",We Live in Time (2024)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/We%20Live%20in%20Time%202024-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gZSlt41YjSTQE7ah03usHsvmWFs.jpg" group-title="▶ VOD ENGLISH",Silver Skates (2020)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Silver%20Skates%202020-1-720.mp4
@@ -670,6 +683,7 @@ https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Hoesemaid%20202
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Hamnet%202025-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3YBce6dTh1D5oCMITXk2S5QhPt.jpg" group-title="▶ VOD ENGLISH",Wuthering Heights (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Wuthering%20Heights%202026-1-720.mp4
 https://pixeldrain.com/api/file/tJ6W8sNu?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg" group-title="▶ VOD ENGLISH",Hot Spot (2026)
