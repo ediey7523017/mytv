@@ -3,6 +3,9 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lBeDq7KmZaQNnnIXgExCAmfLMqT.jpg" group-title="▶ VOD BOLLYWOOD",Dont Be Shy! (2026)
+https://stream.playcdn.de/playlist/c962b0e775ae5c7a8c944da597c2d36f/1/0.m3u8?x=1
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jvfqp6gMlvHODYnBXoogqRyIs0k.jpg" group-title="▶ VOD BOLLYWOOD",Baby Do Die Do (2026)
 https://stream.playcdn.de/playlist/a890e01188ec174081b8f13d49c89411/1/0.m3u8?x=1
 
