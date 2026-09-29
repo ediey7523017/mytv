@@ -1488,6 +1488,24 @@ https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/The%20Lost%
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/8mYVIXA4S84mGISc3McjxYYeZj2.jpg" group-title="▶ VOD KOREAN",Steal My Heart (2013)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/Steal%20My%20Heart%20(2013)-1-720.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/k14XVRWmzIutb3GyNimWFWqcgX2.jpg" group-title="▶ VOD KOREAN",House with a Nice View (2012)
+https://hls.khflix.top/House.with.a.Nice.View/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5xAV8XYDDJak2CTxyMEiDySnvNL.jpg" group-title="▶ VOD KOREAN",The Sisters' Room (2015)
+https://1a-1791.com/video/fww1/ab/s8/2/6/a/T/-/6aT-y.aaa.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bYaNJerqmEKSzDSjjP2mEFSRHoH.jpg" group-title="▶ VOD KOREAN",Red Vacance Black Wedding (2011)
+https://khflix.top/Red-Vacance-Black-Wedding-EP01.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nDCL1XpCTZG3bgxz3S1SKp5pFTB.jpg" group-title="▶ VOD KOREAN",Lost Flower Eo Woo-dong (2015)
+https://khflix.top/Lost-Flower-Eo-Woo-Dong-EP01.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7Ikc4FQoymreXuiw8F7rFiEeGOu.jpg" group-title="▶ VOD KOREAN",Teenage Little Sister (2018)
+https://hls.khflix.top/Teenage.Little.Sister/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nh0p19vCPiuueRCgOaiMFIjNdSw.jpg" group-title="▶ VOD KOREAN",Calendar Girl (2016)
+https://hls.khflix.top/Calendar.Girl/index.m3u8
+
 
 ###################################################################### ▶ VOD ASEAN ######################################################################
 
@@ -2902,6 +2920,9 @@ https://pixeldrain.com/api/file/gu6tTkv4?download
 
 
 ##############################################################▶ VOD MALAY##########################################################
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vbWGR2d7tojUgXyTRExB8UXDV2u.jpg" group-title="▶ VOD MALAY",The Furious Pertaruhan Maruah (2026)
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/YnajTNtxapNpt-0jJvZzMA/qtd/6spniq63/xqvwl8/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6bjfKoJB3dVwGfAtDefVVuSrZOU.jpg" group-title="▶ VOD MALAY",Polong (2026)
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/azMHnvdsOWCZ1_6BrPGtZw/nc9/nc3fj51f/v9ubkl/tt/index-f2-v1-a1.m3u8?v=1766826492
@@ -4502,28 +4523,6 @@ https://media-eu.cloudbox.ph/bibamax/Araro%20S01e03%20(2023)%20-%20720p.mp4
 https://media-eu.cloudbox.ph/bibamax/Araro%20S01e04%20(2023)%20-%20720p.mp4
 
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/k14XVRWmzIutb3GyNimWFWqcgX2.jpg" group-title="▶ VIVAMAX",House with a Nice View (2012)
-https://hls.khflix.top/House.with.a.Nice.View/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5xAV8XYDDJak2CTxyMEiDySnvNL.jpg" group-title="▶ VIVAMAX",The Sisters' Room (2015)
-https://1a-1791.com/video/fww1/ab/s8/2/6/a/T/-/6aT-y.aaa.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bYaNJerqmEKSzDSjjP2mEFSRHoH.jpg" group-title="▶ VIVAMAX",Red Vacance Black Wedding (2011)
-https://khflix.top/Red-Vacance-Black-Wedding-EP01.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nDCL1XpCTZG3bgxz3S1SKp5pFTB.jpg" group-title="▶ VIVAMAX",Lost Flower Eo Woo-dong (2015)
-https://khflix.top/Lost-Flower-Eo-Woo-Dong-EP01.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wREeBv5vVAHQkLiHF2PVQIPkBVo.jpg" group-title="▶ VIVAMAX",Moebius (2013)
-https://videos.khflix.top/Moebius.2013.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7Ikc4FQoymreXuiw8F7rFiEeGOu.jpg" group-title="▶ VIVAMAX",Teenage Little Sister (2018)
-https://hls.khflix.top/Teenage.Little.Sister/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nh0p19vCPiuueRCgOaiMFIjNdSw.jpg" group-title="▶ VIVAMAX",Calendar Girl (2016)
-https://hls.khflix.top/Calendar.Girl/index.m3u8
-
-
 #EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vZZUyABlSl1281IRrALODuOTRVN.jpg" group-title="▶ VIVAMAX",House Tour (2021)
 https://cdn1.khflixcdnvideos.top/House.Tour.mp4
@@ -4610,7 +4609,9 @@ https://cdn1.khflixcdnvideos.top/Viva.Hot.Babes.Muling.pagbukaka.2026.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/07/dK2HdZwVCuZIbjsYY2GKSYH5lH4.jpg" group-title="▶ VIVAMAX",Todo Kayod 2 (2026)
 https://cdn1.khflixcdnvideos.top/Todo.Kayod.2.2026.mp4
 
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/skDPgdxQATycdxQzn8RQ5JV22jF.jpg" group-title="▶ VIVAMAX",Todo Kayod (2025)
+https://cdn1.khflixcdnvideos.top/Todo.Kayod.mp4
 https://1a-1791.com/video/fwe2/98/s8/2/W/s/B/l/WsBlz.aaa.mp4
 
 #EXTVLCOPT:http-referrer=https://khflix.com/
@@ -4621,25 +4622,25 @@ https://cdn1.khflixcdnvideos.top/Booking.2026.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/07/Sex-in-Public-2026_Vivamax_Khflix.jpg" group-title="▶ VIVAMAX",Sex in Public (2026)
 https://cdn1.khflixcdnvideos.top/Sex.in.Public.2026.mp4
 
-#EXTVLCOPT:http-referrer=https://www.cat3movie.club/
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/c3KDpxT8wM0rw6L9VReGfLdntrx.jpg" group-title="▶ VIVAMAX",Lunok (2026)
-https://hugh.cdn.rumble.cloud/video/fwe2/ab/s8/2/e/g/b/H/egbHA.aaa.mp4
+https://cdn1.khflixcdnvideos.top/Lunok%202026.mp4
 
-#EXTVLCOPT:http-referrer=https://www.cat3movie.club/
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/07/ppkDtvDpIJXPKNhMZr002DIPUMs.jpg" group-title="▶ VIVAMAX",Bagong tukso 2 (2026)
-https://hugh.cdn.rumble.cloud/video/fww1/1c/s8/2/M/3/a/G/M3aGA.aaa.mp4
+https://cdn1.khflixcdnvideos.top/Bagong.Tukso.mp4
 
-#EXTVLCOPT:http-referrer=https://www.cat3movie.club/
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/05/c4qw05MZTTEIkHlDyWqn34LGdBu.jpg" group-title="▶ VIVAMAX",Pasakalye (2026)
-https://1a-1791.com/video/fwe2/f5/s8/2/-/j/_/k/-j_kA.aaa.mp4
+https://cdn1.khflixcdnvideos.top/Pasakalye.2026.mp4
 
-#EXTVLCOPT:http-referrer=https://www.cat3movie.club/
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/07/krTfaaT29BnYG5hM0PxBn2qlUUw.jpg" group-title="▶ VIVAMAX",Kainan (2026)
-https://hugh.cdn.rumble.cloud/video/fww1/ad/s8/2/S/E/i/E/SEiEA.aaa.mp4
+https://cdn1.khflixcdnvideos.top/Kainan.2026.mp4
 
-#EXTVLCOPT:http-referrer=https://www.cat3movie.club/
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/07/Helena.2026.jpg" group-title="▶ VIVAMAX",Helena (2026)
-https://hugh.cdn.rumble.cloud/video/fww1/45/s8/2/Y/7/L/C/Y7LCA.aaa.mp4
+https://cdn1.khflixcdnvideos.top/Helena.2026.mp4
 
 #EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/06/awm0GzYGa1uVAccRqHzNLAcRUZm.jpg" group-title="▶ VIVAMAX",Latina (2026)
@@ -4686,16 +4687,48 @@ https://cdn1.khflixcdnvideos.top/Scissors.2026.mp4
 https://cdn1.khflixcdnvideos.top/Angkinin.Mo.Ako.mp4
 
 #EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kHTKYJvdTuf81MiH6DMIahG27Nq.jpg" group-title="▶ VIVAMAX",Sem Break (2025)
+https://cdn1.khflixcdnvideos.top/Sem.Break.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5pNQRBem1u4gNef5phqkFVeZyDh.jpg" group-title="▶ VIVAMAX",POV Pasilip On VMX (2026)
 https://cdn1.khflixcdnvideos.top/POV-Pasilip.on.VMX.2026.mp4
 
 #EXTVLCOPT:http-referrer=https://khflix.com/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/almXVxwAEbh1Cx0kVvOWgtcitZy.jpg" group-title="▶ VIVAMAX",Unang Tikim (2006)
-https://cdn1.khflixcdnvideos.top/Unang.Tikim.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5haMVGBDcFO96xF7a91ZnSLM1Qm.jpg" group-title="▶ VIVAMAX",Upuan (2023)
+https://cdn1.khflixcdnvideos.top/Upuan.mp4
 
 #EXTVLCOPT:http-referrer=https://khflix.com/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9qTXJZpfrw5IKjY1bug2MzSuCmq.jpg" group-title="▶ VIVAMAX",Warat (1999)
-https://cdn1.khflixcdnvideos.top/Warat.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/40mwVoQw2ERm5AAhUZ34aII37b7.jpg" group-title="▶ VIVAMAX",Bingwit (2022)
+https://cdn1.khflixcdnvideos.top/Bingwit.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/fZp10EseYrSRN7rR920YK1tht9b.jpg" group-title="▶ VIVAMAX",Next Room Affair (2025)
+https://cdn1.khflixcdnvideos.top/Next.Room.Affair.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gZGZszuMMoviYH8XgMjDL30dBN0.jpg" group-title="▶ VIVAMAX",Cuatro (2023)
+https://cdn1.khflixcdnvideos.top/Cuatro.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mbJPWAxs4HzCp7Hcc1VNWccDCYh.jpg" group-title="▶ VIVAMAX",Mang Kanor (2023)
+https://cdn1.khflixcdnvideos.top/Mang.Kanor.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/51o0xa2N2f2RsiYsqudqVGKWFXp.jpg" group-title="▶ VIVAMAX",Vagrant (2023)
+https://cdn1.khflixcdnvideos.top/Taong.Grasa.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/rNbc38ZHMJ0O4g6gyLAXA2wAGpR.jpg" group-title="▶ VIVAMAX",Swing (2023)
+https://cdn1.khflixcdnvideos.top/Swing.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/sY8GRisCOnqs8mDRfOsU5OzOYRX.jpg" group-title="▶ VIVAMAX",Sugapa (2023)
+https://cdn1.khflixcdnvideos.top/Sugapa.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ov5tPC0BDWYpE03oXExWETm0klJ.jpg" group-title="▶ VIVAMAX",Maalikaya (2025)
+https://cdn1.khflixcdnvideos.top/Maalikaya.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/02/Warat.2026.webp" group-title="▶ VIVAMAX",Warat (2026)
 https://hls.khflix.top/Warat.2026/index.m3u8
@@ -4911,7 +4944,7 @@ https://hls.khflix.top/Palitan/index.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aD3ObNzCfNH5WHXzmJXkXA7MRPP.jpg" group-title="▶ VIVAMAX",Top 1 (2024)
 https://hls.khflix.top/Top.1/index.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/11/Nympho.jpg" group-title="▶ VIVAMAX",Nympho (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/k9T7J44QFPJPf6CluITKxOZbiNg.jpg" group-title="▶ VIVAMAX",Nympho (2025)
 https://hls.khflix.top/Nympho/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEL2ZmXKJZn5QvQc6NwuHEcK999.jpg" group-title="▶ VIVAMAX",Delusyon (2025)
