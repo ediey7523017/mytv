@@ -3,9 +3,17 @@
 
 ####################################################### ▶ VOD ENGLISH #########################################################
 
-#EXTVLCOPT:http-referrer=https://gofile.io/d/9WOltoVN
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg" group-title="▶ VOD ENGLISH",The Uprising (2026)
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/HTQLAug-JLppnbArfdeUNg/qtd/twz65lxq/lzgnxc/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" group-title="▶ VOD ENGLISH",Runner (2026)
+https://stream.playcdn.de/playlist/c5c9ff8e3404b20b633deae4de991e0e/1/0.m3u8?x=1
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg" group-title="▶ VOD ENGLISH",UNABOMBER (2026)
-https://cold-eu-par-1.gofile.io/download/web/dfaddbe1-8f29-4b00-a7f3-5724e9c6b2f0/Unabomber.2026.720p.MalaySub.WEB.MSM.mp4
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/RJpPwUWxl7OMBvkVHu7G-A/meb/6spniq63/obilks/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/oUHs4mwfNfe8oatqKwOFT9YvuZ1.jpg" group-title="▶ VOD ENGLISH",The Nice Ones (2026)
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/X-SHOunIYK_Cmna5J-Vnvw/qtd/twz65lxq/kfiqfl/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vfZxVHextAGC70zrNhS8lsROqP1.jpg" group-title="▶ VOD ENGLISH",The Love Hypothesis (2026)
 https://pixeldrain.com/api/file/5f8CL1js?download
@@ -31,6 +39,7 @@ https://pixeldrain.com/api/file/2F8kT4DY?download
 https://pixeldrain.com/api/file/2Q9SwFQG?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg" group-title="▶ VOD ENGLISH",Coyote vs. Acme (2026)
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/RZ9Vl6IHyO2pQHmwxN4sdg/6sy/twz65lxq/916jap/tt/index-f2-v1-a1.m3u8?v=1766826492
 https://playerngefilm21.rpmlive.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/wVDOMzOA4qFC34LUIBYU7A/kra/j3tyqqon/kfff9i/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg" group-title="▶ VOD ENGLISH",One Night Only (2026)
