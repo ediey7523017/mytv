@@ -842,6 +842,10 @@ https://mvts.live/zes-ria
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ria
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
+#EXTINF:-1 tvg-id="astro193" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://iptv12k.com:35461/m260807923420398/111111/13636
+
 #EXTINF:-1 tvg-id="astro193" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920381.m3u8
@@ -854,6 +858,14 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920381.m3u8
 https://mvts.live/zes-prima
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=prima
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+#EXTINF:-1 tvg-id="astro316" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima Feed 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://iptv12k.com:35461/m260807923420398/111111/13632
+
+#EXTINF:-1 tvg-id="astro316" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima Feed 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://iptv12k.com:35461/m260807923420398/111111/13631
 
 #EXTINF:-1 tvg-id="astro315" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png",106 Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -869,6 +881,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 https://mvts.live/zes-citra
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
+#EXTINF:-1 tvg-id="astro301" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://iptv12k.com:35461/m260807923420398/111111/13610
+
 #EXTINF:-1 tvg-id="astro301" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163672.m3u8
@@ -881,6 +897,10 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163672.m3u8
 https://mvts.live/zes-rania
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
+#EXTINF:-1 tvg-id="astro401" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania Feed 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://iptv12k.com:35461/m260807923420398/111111/13621
+
 #EXTINF:-1 tvg-id="astro401" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163686.m3u8
@@ -892,6 +912,10 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163686.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://mvts.live/zes-aura
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+
+#EXTINF:-1 tvg-id="astro400" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura Feed 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://iptv12k.com:35461/m260807923420398/111111/13609
 
 #EXTINF:-1 tvg-id="astro400" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -927,19 +951,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSensasiHD.sg" group-title="Base" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",123 Astro Sensasi
-#EXTVLCOPT:http-referrer=https://www.starhubtvplus.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
-https://shtvgo-prod.gcdn.co/bpk-tv/HubSensasiHD/output/manifest.mpd
+###EXTINF:-1 tvg-id="AstroSensasiHD.sg" group-title="Base" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",123 Astro Sensasi
+###EXTVLCOPT:http-referrer=https://www.starhubtvplus.com/
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+###KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
+###https://shtvgo-prod.gcdn.co/bpk-tv/HubSensasiHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroWarnaHD.sg" group-title="Base" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",124 Astro Warna
-#EXTVLCOPT:http-referrer=https://www.starhubtvplus.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
-https://shtvgo-prod.gcdn.co/bpk-tv/Astro_warna_new/output/manifest.mpd
+###EXTINF:-1 tvg-id="AstroWarnaHD.sg" group-title="Base" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",124 Astro Warna
+###EXTVLCOPT:http-referrer=https://www.starhubtvplus.com/
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+###KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
+###https://shtvgo-prod.gcdn.co/bpk-tv/Astro_warna_new/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="astro467" group-title="Base" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png", 146 TV Okey HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1074,6 +1098,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=b7192c458481368dda1ecb65ec945710:03f1c0ae1cec374f3b7d494c7436d3fd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5135/default_primary.mpd
+
+#EXTINF:-1 tvg-id="astro158" group-title="Chinese" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroQJ_2024.png",308 Astro QJ Feed 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://iptv12k.com:35461/m260807923420398/111111/13598
 
 #EXTINF:-1 tvg-id="astro158" group-title="Chinese" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroQJ_2024.png",308 Astro QJ Feed 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1505,6 +1533,10 @@ https://mvts.live/zes-ceria
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
+#EXTINF:-1 tvg-id="astro386" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",612 Astro Ceria Feed 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://iptv12k.com:35461/m260807923420398/111111/13622
+
 #EXTINF:-1 tvg-id="astro386" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",612 Astro Ceria Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163671.m3u8
@@ -1739,6 +1771,10 @@ https://mvts.live/zes-grandstand
 https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstand
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 
+#EXTINF:-1 tvg-id="astro543" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports",827 Astro Grandstand Feed 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://iptv12k.com:35461/m260807923420398/111111/13550
+
 #EXTINF:-1 tvg-id="astro543" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports",827 Astro Grandstand Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1775977.m3u8
@@ -1751,6 +1787,10 @@ https://bozzku.xyz/victus/4996/AstPremierLeague1.mpd
 https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
+#EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://iptv12k.com:35461/m260807923420398/111111/13552
+
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163684.m3u8
@@ -1762,6 +1802,10 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163684.m3u8
 https://bozzku.xyz/victus/4997/AstPremierLeague2.mpd
 https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
+
+#EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 Feed 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://iptv12k.com:35461/m260807923420398/111111/13551
 
 #EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
