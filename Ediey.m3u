@@ -928,12 +928,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSensasiHD.sg" group-title="Base" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",123 Astro Sensasi
+#EXTVLCOPT:http-referrer=https://www.starhubtvplus.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
 https://shtvgo-prod.gcdn.co/bpk-tv/HubSensasiHD/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="AstroWarnaHD.sg" group-title="Base" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",124 Astro Warna
+#EXTVLCOPT:http-referrer=https://www.starhubtvplus.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
