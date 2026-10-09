@@ -1,11 +1,12 @@
 #EXTM3U
 
-###############Malaysia 12K,#genre#################
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TV1(a) TV 1
+############### Malaysia 12K #################
+
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TV1(a)
 http://iptv12k.com:35461/m260807962950028/111111/13652
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TV1(b) TV 1
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TV1(b)
 http://iptv12k.com:35461/m260807962950028/111111/13651
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TV1(c) TV 1
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TV1(c)
 http://iptv12k.com:35461/m260807962950028/111111/13650
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TV2(a)
 http://iptv12k.com:35461/m260807962950028/111111/13649
@@ -21,7 +22,7 @@ http://iptv12k.com:35461/m260807962950028/111111/13645
 http://iptv12k.com:35461/m260807962950028/111111/13644
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TV3(e)
 http://iptv12k.com:35461/m260807962950028/111111/13643
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TV6
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HUB Sports 2
 http://iptv12k.com:35461/m260807962950028/111111/14321
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",NTV7(a)
 http://iptv12k.com:35461/m260807962950028/111111/13642
@@ -33,67 +34,67 @@ http://iptv12k.com:35461/m260807962950028/111111/13640
 http://iptv12k.com:35461/m260807962950028/111111/13639
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TV9(a)
 http://iptv12k.com:35461/m260807962950028/111111/13638
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",tv9(b)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TV9(b)
 http://iptv12k.com:35461/m260807962950028/111111/13637
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Ria(a)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Ria(a)
 http://iptv12k.com:35461/m260807962950028/111111/13636
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Ria(b)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Ria(b)
 http://iptv12k.com:35461/m260807962950028/111111/13635
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO RIA(c)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Ria(c)
 http://iptv12k.com:35461/m260807962950028/111111/13634
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO RIA(d)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Ria(d)
 http://iptv12k.com:35461/m260807962950028/111111/13633
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Prima(a) 
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Prima(a) 
 http://iptv12k.com:35461/m260807962950028/111111/13632
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro prima(B)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Prima(b)
 http://iptv12k.com:35461/m260807962950028/111111/13631
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro prima(C)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Prima(c)
 http://iptv12k.com:35461/m260807962950028/111111/13630
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",WARNA(a)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro WARNA(a)
 http://iptv12k.com:35461/m260807962950028/111111/13629
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",WARNA(b)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro WARNA(b)
 http://iptv12k.com:35461/m260807962950028/111111/13628
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Warna(c)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Warna(c)
 http://iptv12k.com:35461/m260807962950028/111111/13627
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Warna(d)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Warna(d)
 http://iptv12k.com:35461/m260807962950028/111111/13626
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Warna(e)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Warna(e)
 http://iptv12k.com:35461/m260807962950028/111111/13625
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Warna(f)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Warna(f)
 http://iptv12k.com:35461/m260807962950028/111111/13624
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Oasis
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Oasis
 http://iptv12k.com:35461/m260807962950028/111111/13623
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Ceria
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Ceria
 http://iptv12k.com:35461/m260807962950028/111111/13622
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Citra(B)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Citra
 http://iptv12k.com:35461/m260807962950028/111111/13610
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Aura
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Aura
 http://iptv12k.com:35461/m260807962950028/111111/13609
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Rania
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Rania
 http://iptv12k.com:35461/m260807962950028/111111/13621
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TVS
 http://iptv12k.com:35461/m260807962950028/111111/13620
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",AWESOME(b)
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Sports Plus
 http://iptv12k.com:35461/m260807962950028/111111/13618
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Awesome TV
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Sports Plus
 http://iptv12k.com:35461/m260807962950028/111111/13617
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",SG OKEY
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Okey TV
 http://iptv12k.com:35461/m260807962950028/111111/13616
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TV-AlHijrah
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TV AlHijrah
 http://iptv12k.com:35461/m260807962950028/111111/13615
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Aljazeera
 http://iptv12k.com:35461/m260807962950028/111111/13614
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Awani
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Awani
 http://iptv12k.com:35461/m260807962950028/111111/13613
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Bernama News
 http://iptv12k.com:35461/m260807962950028/111111/13612
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",BOO
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Boo
 http://iptv12k.com:35461/m260807962950028/111111/13611
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Tutor TV PT3
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HUB Sports 3
 http://iptv12k.com:35461/m260807962950028/111111/13605
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Tutor TV UPSR
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Tutor TV
 http://iptv12k.com:35461/m260807962950028/111111/13604
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Tutor TV SPM
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Tutor TV
 http://iptv12k.com:35461/m260807962950028/111111/13603
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",tvN Movies
 http://iptv12k.com:35461/m260807962950028/111111/13602
@@ -101,83 +102,83 @@ http://iptv12k.com:35461/m260807962950028/111111/13602
 http://iptv12k.com:35461/m260807962950028/111111/13601
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",KBS World HD
 http://iptv12k.com:35461/m260807962950028/111111/13600
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",One HD 
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Daebak
 http://iptv12k.com:35461/m260807962950028/111111/13599
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Quan Jia HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro QJ
 http://iptv12k.com:35461/m260807962950028/111111/13598
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",AEC(b)ASTRO
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro AEC
 http://iptv12k.com:35461/m260807962950028/111111/709
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",AEC ASTRO(a) tou
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro AEC
 http://iptv12k.com:35461/m260807962950028/111111/13597
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO iQIYI HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",iQIYI
 http://iptv12k.com:35461/m260807962950028/111111/13596
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Hua Hee Dai HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Hua Hee Dai
 http://iptv12k.com:35461/m260807962950028/111111/13595
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Shuang Xing HD双星 
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ANIMAX
 http://iptv12k.com:35461/m260807962950028/111111/13594
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",双星 Shuang Xing(b)Astro
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro AEC
 http://iptv12k.com:35461/m260807962950028/111111/13593
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO AOD 351 HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Hub Ruyi
 http://iptv12k.com:35461/m260807962950028/111111/13592
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO AOD 352 HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO AOD
 http://iptv12k.com:35461/m260807962950028/111111/13591
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO AOD 353 HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Hub Ruyi
 http://iptv12k.com:35461/m260807962950028/111111/13590
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO AOD 354 HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Celestial Movies
 http://iptv12k.com:35461/m260807962950028/111111/13589
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO AOD 355 HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Hub VV Drama
 http://iptv12k.com:35461/m260807962950028/111111/13588
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Xiao Tai Yang HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Z World
 http://iptv12k.com:35461/m260807962950028/111111/13587
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TVB Classic
 http://iptv12k.com:35461/m260807962950028/111111/13586
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TVB Jade HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TVB Jade
 http://iptv12k.com:35461/m260807962950028/111111/13585
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TVB E-News
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TVB Entertainment News
 http://iptv12k.com:35461/m260807962950028/111111/13584
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TVB Xing He HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TVB Xing He
 http://iptv12k.com:35461/m260807962950028/111111/13583
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TVBS Asia
 http://iptv12k.com:35461/m260807962950028/111111/13582
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",CTI Asia 中天亚洲
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",CTI Asia
 http://iptv12k.com:35461/m260807962950028/111111/13581
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",CCM
 http://iptv12k.com:35461/m260807962950028/111111/13580
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Celestial Movies HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Celestial Movies
 http://iptv12k.com:35461/m260807962950028/111111/13579
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Kix HD ind
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",KIX
 http://iptv12k.com:35461/m260807962950028/111111/13577
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Rugby Pass TV
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",S Rugby
 http://iptv12k.com:35461/m260807962950028/111111/13576
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Aniplus HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Aniplus
 http://iptv12k.com:35461/m260807962950028/111111/13575
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",BollyOne HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Z Bollywood
 http://iptv12k.com:35461/m260807962950028/111111/13574
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Cricket
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Cricbuzz
 http://iptv12k.com:35461/m260807962950028/111111/13573
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Comedy Central
 http://iptv12k.com:35461/m260807962950028/111111/13572
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Vaanavil HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Vaanavil
 http://iptv12k.com:35461/m260807962950028/111111/13571
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO VINMEEN
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Vinmeen
 http://iptv12k.com:35461/m260807962950028/111111/13570
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Makkal TV
 http://iptv12k.com:35461/m260807962950028/111111/13569
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Star Vijay HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Star Vijay
 http://iptv12k.com:35461/m260807962950028/111111/13568
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Sun TV HD MY
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Sun TV
 http://iptv12k.com:35461/m260807962950028/111111/13567
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Sun Music
 http://iptv12k.com:35461/m260807962950028/111111/13566
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Sony SetMAX
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Sony MAX
 http://iptv12k.com:35461/m260807962950028/111111/13565
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Sony SAB
 http://iptv12k.com:35461/m260807962950028/111111/13564
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Zee Cinema
 http://iptv12k.com:35461/m260807962950028/111111/13563
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Zee TV HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Z TV
 http://iptv12k.com:35461/m260807962950028/111111/13562
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Colors Tamil
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Colors Tamil
 http://iptv12k.com:35461/m260807962950028/111111/13561
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Colors Cineplex 
 http://iptv12k.com:35461/m260807962950028/111111/13560
@@ -189,67 +190,67 @@ http://iptv12k.com:35461/m260807962950028/111111/13558
 http://iptv12k.com:35461/m260807962950028/111111/13557
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Jaya TV
 http://iptv12k.com:35461/m260807962950028/111111/13556
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASTRO Adithya 
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Thangathirai
 http://iptv12k.com:35461/m260807962950028/111111/13555
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Chutti TV
 http://iptv12k.com:35461/m260807962950028/111111/13554
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",UTV movies
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Colors Cineplex Bollywood
 http://iptv12k.com:35461/m260807962950028/111111/13553
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASSP1(a) Astro Supersports Premier League 1 
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Premier League 1 
 http://iptv12k.com:35461/m260807962950028/111111/13552
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASSP2(e) Astro Supersports Premier League 2
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Premier League 2
 http://iptv12k.com:35461/m260807962950028/111111/13551
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASSP3(g)Astro Supersports Premier League 3
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Premier League 3
 http://iptv12k.com:35461/m260807962950028/111111/13550
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ASSP4(e)Astro Supersports Premier League 4
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Premier League 4
 http://iptv12k.com:35461/m260807962950028/111111/13549
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",WWE Network
 http://iptv12k.com:35461/m260807962950028/111111/13546
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Eurosport HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Eurosport
 http://iptv12k.com:35461/m260807962950028/111111/13545
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HGTV HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HGTV
 http://iptv12k.com:35461/m260807962950028/111111/13544
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",AFC AFN
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",AFN
 http://iptv12k.com:35461/m260807962950028/111111/13543
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TLC HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TLC
 http://iptv12k.com:35461/m260807962950028/111111/13542
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Asia Food Network
 http://iptv12k.com:35461/m260807962950028/111111/13541
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",E! HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",E!
 http://iptv12k.com:35461/m260807962950028/111111/13540
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",DMAX HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",DMAX
 http://iptv12k.com:35461/m260807962950028/111111/13539
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Travel Channel HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Travel Channel
 http://iptv12k.com:35461/m260807962950028/111111/13538
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Crime Investigation
 http://iptv12k.com:35461/m260807962950028/111111/13537
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Animal Planet HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Animal Planet
 http://iptv12k.com:35461/m260807962950028/111111/13536
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",NatGeo HD National Geographic my
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",National Geographic
 http://iptv12k.com:35461/m260807962950028/111111/13535
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",NatGeo Wild HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",NatGeo Wild
 http://iptv12k.com:35461/m260807962950028/111111/13534
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",History HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",History
 http://iptv12k.com:35461/m260807962950028/111111/13533
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Discovery Science HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Discovery Science
 http://iptv12k.com:35461/m260807962950028/111111/13532
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Discovery HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Discovery
 http://iptv12k.com:35461/m260807962950028/111111/13531
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Disney XD HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Disney XD
 http://iptv12k.com:35461/m260807962950028/111111/13530
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",BBC Lifestyle my
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",BBC Lifestyle
 http://iptv12k.com:35461/m260807962950028/111111/13529
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",BBC Earth HD my
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",BBC Earth
 http://iptv12k.com:35461/m260807962950028/111111/13528
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",BBC News HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",BBC News
 http://iptv12k.com:35461/m260807962950028/111111/13527
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",DW HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",DW English
 http://iptv12k.com:35461/m260807962950028/111111/13526
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Love Nature HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Love Nature
 http://iptv12k.com:35461/m260807962950028/111111/13483
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Nick Jr
 http://iptv12k.com:35461/m260807962950028/111111/13482
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Cartoon Network HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Cartoon Network
 http://iptv12k.com:35461/m260807962950028/111111/13481
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Nickelodeon HD
 http://iptv12k.com:35461/m260807962950028/111111/13480
@@ -263,21 +264,21 @@ http://iptv12k.com:35461/m260807962950028/111111/13477
 http://iptv12k.com:35461/m260807962950028/111111/13475
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",FOX HD
 http://iptv12k.com:35461/m260807962950028/111111/13473
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",SIN-AXN HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",AXN HD
 http://iptv12k.com:35461/m260807962950028/111111/13472
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",AXN HD
 http://iptv12k.com:35461/m260807962950028/111111/13471
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",SIN-Cinemax HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Cinemax HD
 http://iptv12k.com:35461/m260807962950028/111111/13470
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Cinemax HD
 http://iptv12k.com:35461/m260807962950028/111111/13469
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Cinema World HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",CinemaWorld
 http://iptv12k.com:35461/m260807962950028/111111/13468
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",SIN-Animax
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Animax
 http://iptv12k.com:35461/m260807962950028/111111/13467
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Animax
 http://iptv12k.com:35461/m260807962950028/111111/13466
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TW] Warner TV
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Warner TV
 http://iptv12k.com:35461/m260807962950028/111111/13465
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Warner TV
 http://iptv12k.com:35461/m260807962950028/111111/13464
@@ -287,23 +288,23 @@ http://iptv12k.com:35461/m260807962950028/111111/13463
 http://iptv12k.com:35461/m260807962950028/111111/13462
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ROCK Entertainment
 http://iptv12k.com:35461/m260807962950028/111111/13461
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ROCK Entertainment HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ROCK Entertainment
 http://iptv12k.com:35461/m260807962950028/111111/13460
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",SIN-HBO
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HBO
 http://iptv12k.com:35461/m260807962950028/111111/13459
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HBO HD
 http://iptv12k.com:35461/m260807962950028/111111/13458
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",SIN-HBO Hits
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HBO Hits
 http://iptv12k.com:35461/m260807962950028/111111/13457
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HBO Hits MY
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HBO Hits
 http://iptv12k.com:35461/m260807962950028/111111/13456
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",SIN-HBO Family
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HBO Family
 http://iptv12k.com:35461/m260807962950028/111111/13455
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HBO Family my
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HBO Family
 http://iptv12k.com:35461/m260807962950028/111111/13454
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",SIN-HBO Signature
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HBO Signature
 http://iptv12k.com:35461/m260807962950028/111111/13453
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HBO Signature my
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HBO Signature
 http://iptv12k.com:35461/m260807962950028/111111/13452
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Indosiar
 http://iptv12k.com:35461/m260807962950028/111111/13451
@@ -313,39 +314,39 @@ http://iptv12k.com:35461/m260807962950028/111111/13450
 http://iptv12k.com:35461/m260807962950028/111111/13449
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ABC Australia
 http://iptv12k.com:35461/m260807962950028/111111/13448
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Sky News HD my
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Sky News
 http://iptv12k.com:35461/m260807962950028/111111/13447
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Bloomberg TV
 http://iptv12k.com:35461/m260807962950028/111111/13446
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",France 24 HD
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",France 24
 http://iptv12k.com:35461/m260807962950028/111111/13445
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Euro news my
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Euro News
 http://iptv12k.com:35461/m260807962950028/111111/13444
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",FOX NEWS
 http://iptv12k.com:35461/m260807962950028/111111/13443
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",MTV Live
 http://iptv12k.com:35461/m260807962950028/111111/13442
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",ID] NHK World Premium
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",NHK World Premium
 http://iptv12k.com:35461/m260807962950028/111111/13441
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",OUTDOOR
 http://iptv12k.com:35461/m260807962950028/111111/13440
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Celestial Movies
 http://iptv12k.com:35461/m260807962950028/111111/13439
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",DRAMA SANGAT
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HUB Sports 1
 http://iptv12k.com:35461/m260807962950028/111111/5997
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",DRAMA SANGAT
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",HUB Sports 1
 http://iptv12k.com:35461/m260807962950028/111111/13438
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",My-Showcase Movies
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Astro Showcase
 http://iptv12k.com:35461/m260807962950028/111111/13437
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",My-Paramount Channel
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Paramount Channel
 http://iptv12k.com:35461/m260807962950028/111111/13436
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",My-Phoenix Chinese Channel
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",Phoenix Chinese Channel
 http://iptv12k.com:35461/m260807962950028/111111/13435
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",My-TVB Entertainment News
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",TVB Entertainment News
 http://iptv12k.com:35461/m260807962950028/111111/13434
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",bEIN Sports 1
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",beIN Sports 1
 http://iptv12k.com:35461/m260807962950028/111111/4800
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",beIN Sports 2
 http://iptv12k.com:35461/m260807962950028/111111/961
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",bEIN Sports 3
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="",beIN Sports 3
 http://iptv12k.com:35461/m260807962950028/111111/960
