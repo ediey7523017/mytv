@@ -1638,12 +1638,6 @@ https://www.dropbox.com/scl/fi/2828721smxqemgpprodif/a-writers-odyssey2021.mp4?r
 https://stream.playcdn.de/playlist/NQogOiALBGwtNQ4_MFUvdXBVe353TFoWBxMzABxoCTt6TnB_ch1H/37/480.m3u8
 https://www.dropbox.com/scl/fi/gd2ovwko42vg15a83rdnc/A-Writers-Odyssey-2-2025.mp4?rlkey=hbsrcvz7pl2xb6exxq0ppwapm&st=q0lomzlk&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/du6XOg3cd6SlRBQ1fxZDKpgavW0.jpg" group-title="▶ VOD ASEAN",Panor 2 (2026)
-https://stream.playcdn.de/playlist/MhknITdURWxwYUV6bmcTGgY0FhYaTkN3JDRPLiE/41/480.m3u8
-https://www.dropbox.com/scl/fi/w57qz5szmmda8co5fkw7s/Panor.2.2026.mp4?rlkey=3fndnbtz53mm88111b57odsft&st=4coiwd14&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7r9Lqza4onv8tAFUrPjWBMIeo2q.jpg" group-title="▶ VOD ASEAN",Seoul Raiders (2005)
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eGJJhkGnaWS9oG44Mj0c5tfT4jQ.jpg" group-title="▶ VOD ASEAN",Graveyard Horror (2025)
 https://stream.playcdn.de/playlist/JQooOCAAFjMmfB8jMUI5Km9KeXxwVCAEABU7ExtvZ20mSih2IUo/41/480.m3u8
 https://www.dropbox.com/scl/fi/oj2u9j2zomb6slbr6lt3o/graveyard-horror-2025.mp4?rlkey=2dxz0i0e6aeglrfx7vr3cs8bl&st=s4c0xmc9&dl=1
@@ -1663,11 +1657,29 @@ https://www.dropbox.com/scl/fi/fjr4yzwsugkdus62xdb60/The-Legend-of-The-Condor-He
 https://stream.playcdn.de/playlist/9d37ef47d901c6bf2d517b1a55ad049d/23/480.m3u8
 https://www.dropbox.com/scl/fi/xe1mfsoozpn0b0riusich/The-Djinn-s-Curse.mp4?rlkey=h6fggfgg61366w3geqr8312o3&st=t6ofw8w8&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/b5088xlSC0voFaDuR46o2LpuNic.jpg" group-title="▶ VOD ASEAN",Thibaan the Series Doctor Plawan (2022)
-https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Thibaan%20the%20Series%20Doctor%20Plawan%202022-1-720.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7r9Lqza4onv8tAFUrPjWBMIeo2q.jpg" group-title="▶ VOD ASEAN",Seoul Raiders (2005)
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/41Bo66wbFEXlGEMQ9kYHwXy0hBm.jpg" group-title="▶ VOD ASEAN",Haunted Universities 4 (2026)
+https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/PFIkZP5_nVmHoqP-pxeAkg/6sy/5z1ivfbz/itfxqo/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ugHE7v96vslZhQOSSKAQd2Ws04n.jpg" group-title="▶ VOD ASEAN",Haunted Universities 3 (2024)
+https://stream.playcdn.de/playlist/4533857baf812668ae184413fd4c1666/4/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/7oF4PsyhcE6QmQV02I1G8FWL2KM.jpg" group-title="▶ VOD ASEAN",Haunted Universities 2nd Semester (2022)
+https://stream.playcdn.de/playlist/4f7bd4cc78e160cc7cb9d8f2e33662d5/4/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/5uzk2y75OBdy6M8nA7XNEAj1VHI.jpg" group-title="▶ VOD ASEAN",Haunted Universities (2009)
+https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/2667tqwZZhLe9RGgK3xN8Q/meb/5z1ivfbz/itfm5h/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/du6XOg3cd6SlRBQ1fxZDKpgavW0.jpg" group-title="▶ VOD ASEAN",Panor 2 (2026)
+https://stream.playcdn.de/playlist/MhknITdURWxwYUV6bmcTGgY0FhYaTkN3JDRPLiE/41/480.m3u8
+https://www.dropbox.com/scl/fi/w57qz5szmmda8co5fkw7s/Panor.2.2026.mp4?rlkey=3fndnbtz53mm88111b57odsft&st=4coiwd14&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/o3tG02uudhv1YemqPUoC75q3lbr.jpg" group-title="▶ VOD ASEAN",Panor (2025)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru48/Panor%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/b5088xlSC0voFaDuR46o2LpuNic.jpg" group-title="▶ VOD ASEAN",Thibaan the Series Doctor Plawan (2022)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Thibaan%20the%20Series%20Doctor%20Plawan%202022-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg" group-title="▶ VOD ASEAN",My Dearest Assassin (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/My%20Dearest%20Assassin%202026-1-720.mp4
@@ -2472,6 +2484,12 @@ https://www.dropbox.com/scl/fi/9ayig39kfulx0kpw8ehiv/Ice-Cold-Murder-Coffee-and-
 
 
 #################################################################### ▶ VOD INDONESIA ###################################################################
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wjHyB3ZfmlZloqBb8i0BSymSA1x.jpg" group-title="▶ VOD INDONESIA",Bayang-Bayang Anak Jahanam (2025)
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fiapXpPfhW3Uqjj0jMIVtaAdGRc.jpg" group-title="▶ VOD INDONESIA",Monster Pabrik Rambut (2026)
+https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/7tkfgymtkC1ijtrMxxeekQ/meb/skucpvel/lzewqb/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ojERAje2AcmQO8o0mldUgnHDXUi.jpg" group-title="▶ VOD INDONESIA",Tiba Tiba Setan (2026)
 https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/gDKLeLio6myuTfO0-RGKQw/nc9/5z1ivfbz/bjag8a/tt/index-f2-v1-a1.m3u8?v=1766826492
