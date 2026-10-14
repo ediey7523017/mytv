@@ -13,7 +13,7 @@ https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/BTS%20THE%20COMEBACK%
 https://stream.playcdn.de/playlist/49313fc6065d840dc26c67de424f844f/1/0.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg" group-title="▶ VOD KOREAN",Hope (2026)
-https://stream.playcdn.de/playlist/77276d90ce1a3fc049c640988ce7546f/1/0.m3u8?x=1
+https://pixeldrain.com/api/file/6FFi1qaU?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2GA927wmStO5PJY7yetJOpcJTsd.jpg" group-title="▶ VOD KOREAN",Lost (2025)
 https://stream.playcdn.de/playlist/4282aa288412f8277fea0554da2831f8/1/0.m3u8?x=1
@@ -2486,7 +2486,7 @@ https://www.dropbox.com/scl/fi/9ayig39kfulx0kpw8ehiv/Ice-Cold-Murder-Coffee-and-
 #################################################################### ▶ VOD INDONESIA ###################################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wjHyB3ZfmlZloqBb8i0BSymSA1x.jpg" group-title="▶ VOD INDONESIA",Bayang-Bayang Anak Jahanam (2025)
-
+https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/nCCW42CAUkW7ZN-fKCgxeA/unl/dq8zrfei/itxv1g/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fiapXpPfhW3Uqjj0jMIVtaAdGRc.jpg" group-title="▶ VOD INDONESIA",Monster Pabrik Rambut (2026)
 https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/7tkfgymtkC1ijtrMxxeekQ/meb/skucpvel/lzewqb/tt/index-f2-v1-a1.m3u8?v=1766826492
@@ -2949,6 +2949,9 @@ https://pixeldrain.com/api/file/gu6tTkv4?download
 
 
 ##############################################################▶ VOD MALAY##########################################################
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/elwBj5UKnGNSzLIQLNbGgsW5g3J.jpg" group-title="▶ VOD MALAY",Khadam (2026)
+https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/Fum9cWx035HJXa6BO6O31w/meb/h9k8slgz/qir1m1/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vbWGR2d7tojUgXyTRExB8UXDV2u.jpg" group-title="▶ VOD MALAY",The Furious Pertaruhan Maruah (2026)
 https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/EajbE1DyxyotXQoyPfY17A/6sy/6spniq63/uyihcz/tt/index-f2-v1-a1.m3u8?v=1766826492
@@ -4566,6 +4569,27 @@ https://media-eu.cloudbox.ph/bibamax/Kaka%20(2021)%20-%20720p.mp4
 #EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/drFfcbfseYY6mbAT8Oq2A4uxFG4.jpg" group-title="▶ VIVAMAX",Shoot Shoot! Di Ko Siya Titigilan! (2021)
 https://cdn1.khflixcdnvideos.top/Shoot.shoot.Di.ko.siya.titigilan.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8jA8ZwuqPc73iS6FXSDfzm23HSW.jpg" group-title="▶ VIVAMAX",Pantaxa Laiya Uncut (2026)
+https://pixeldrain.com/api/file/nRR6XKKH?download
+https://hugh.cdn.rumble.cloud/video/fww1/40/s8/2/W/M/j/6/WMj6A.aaa.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ufYZ46Lr5xzKxVUL4EJmkrQzGQO.jpg" group-title="▶ VIVAMAX",My Hentai Girlfriend (2026)
+https://pixeldrain.com/api/file/YQzvXGeD?download
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/daHU4hyjnp0vKO4Hs2n2Jiv8FXS.jpg" group-title="▶ VIVAMAX",Unang Pasok (2026)
+https://pixeldrain.com/api/file/v2JCzfhX?download
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/f0WSjMX8WVlBrnFJHJt0Br1Y7D6.jpg" group-title="▶ VIVAMAX",VMX Tapes Volume 2 (2026)
+https://pixeldrain.com/api/file/CjWhGXXW?download
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cSEn2tOMjZJOsUcaXBiS3xoOhL8.jpg" group-title="▶ VIVAMAX",Tatak Jenn Rosa (2026)
+https://pixeldrain.com/api/file/P9cQwxnc?download
 
 #EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/clGpGnasLM0ghJb56maKD5CawGl.jpg" group-title="▶ VIVAMAX",Isla (2026)
