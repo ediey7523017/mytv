@@ -3,6 +3,10 @@
 
 ####################################################### ▶ VOD ENGLISH #########################################################
 
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/iISM36voS1E8gX9BM0DVK0kgi3E.jpg" group-title="▶ VOD ENGLISH",Animals (2026)
+https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/rs5ubS-v9uFL_qyZV5cuyA/meb/dq8zrfei/xq11jf/tt/index-f2-v1-a1.m3u8?v=1766826492
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg" group-title="▶ VOD ENGLISH",The Uprising (2026)
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/HTQLAug-JLppnbArfdeUNg/qtd/twz65lxq/lzgnxc/tt/index-f2-v1-a1.m3u8?v=1766826492
 
@@ -23,7 +27,7 @@ https://pixeldrain.com/api/file/5f8CL1js?download
 https://pixeldrain.com/api/file/UqaQkjQ2?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/yopXjun3ICFfJci2ukcEzceZjUs.jpg" group-title="▶ VOD ENGLISH",The Fix (2026)
-https://stream.playcdn.de/playlist/9208cb0d0574ad7d2a349d63f1032fe3/1/0.m3u8?x=1
+https://pixeldrain.com/api/file/B2dXFjGe?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/bAbBNVplg7h79sm94OyHeKk8Phz.jpg" group-title="▶ VOD ENGLISH",You+Me Against the World (2026)
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/qhcF1ShkSeDNr1Xb0RDBvg/9dz/lodt9jeh/xq3i1o/tt/index-f2-v1-a1.m3u8?v=1766826492
@@ -91,6 +95,12 @@ https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/SvznT3
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg" group-title="▶ VOD ENGLISH",Lucky Strike (2026)
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/G32GHc3hZ9q_17qV19y9mw/puc/qt5b8l19/etw3xw/tt/index-f1-v1-a1.m3u8?v=1766826492
 https://www.dropbox.com/scl/fi/rxtzr0il1rcdhtjbe2yzl/Lucky.Strike.2026.mp4?rlkey=od7a7fv2j4kpj8lxspqhpeu02&st=mitvult1&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg" group-title="▶ VOD ENGLISH",Practical Magic 2 (2026)
+https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/o0XrrJsNbCweczRkeqF0Iw/6sy/lodt99e8/m8ywdl/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg" group-title="▶ VOD ENGLISH",Practical Magic (1998)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/15/Practical%20Magic%201998.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg" group-title="▶ VOD ENGLISH",The Crash (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/The%20Crash%202026-1-720.mp4
