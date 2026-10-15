@@ -1,7 +1,7 @@
 #EXTM3U url=""
 
 
-#############################################################▶ VOD BOLLYWOOD##########################################################
+##############################################################▶ VOD BOLLYWOOD##########################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/7Ncfrt43mLLFB8yWcWON8imHr0Q.jpg" group-title="▶ VOD BOLLYWOOD",Reporting Live (2026)
 https://pixeldrain.com/api/file/yHR927rU?download
@@ -164,6 +164,12 @@ https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil43/Biker%202026-1-720.m
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg" group-title="▶ VOD BOLLYWOOD",Ikkis (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil43/Ikkis%202026-1-720.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/edHRoFYs4Qg80MfOM6DrCzK0KVp.jpg" group-title="▶ VOD BOLLYWOOD",One Friday Night (2023)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil43/One%20Friday%20Night%20(2023)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/47YDdPKM5qmuOWjxwOcQJtobpqa.jpg" group-title="▶ VOD BOLLYWOOD",Omertà (2018)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil43/Omerta%202018-1-720.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/dS0ZFlqGbGGksSUdqk7niL7rywc.jpg" group-title="▶ VOD BOLLYWOOD",Karwaan (2018)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil43/Karwaan%202018-1-720.mp4
 
@@ -302,6 +308,7 @@ https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil43/Blind%20(2023)-1-720
 https://47227.ohflix.workers.dev/0:/x21/Tamil-Hindi/Tamil8/R...%20Rajkumar%20(2013)%20HDTV.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2MwfQpuOMCcN9D1vOnNNW1MgdTH.jpg" group-title="▶ VOD BOLLYWOOD",Paathshaala (2010)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil43/Paathshaala%20(2010)-1-720.mp4
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil29/Paathshaala%20(2010).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jdEJ2dgus9d0pAQjC8086SVcx2n.jpg" group-title="▶ VOD BOLLYWOOD",Genius (2018)
@@ -935,6 +942,9 @@ https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Dhoom%202%202006-1-7
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/A7fxXAsuYEohxYNl8YeH3FYkuDv.jpg" group-title="▶ VOD BOLLYWOOD",Dhoom (2004)
 https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Dhoom%201%202004-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qqR1WMElj2kV4FCUmXanGRdTCXs.jpg" group-title="▶ VOD BOLLYWOOD",Goliyon Ki Raasleela Ram-Leela (2013)
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/Goliyon%20Ki%20Raasleela%20Ram-leela%20(2013)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2iJVauDYcYxRRGciTmAOSjiATf9.jpg" group-title="▶ VOD BOLLYWOOD",Koi... Mil Gaya (2003)
 https://47227.ohflix.workers.dev/0:/x21/Tamil-Hindi/Tamil9/2/Koi...%20Mil%20Gaya%20(2003)%20malaysub.mp4
@@ -1998,8 +2008,17 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 
 ######################################################################▶ VOD INDIA#########################################################
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zrvnu0M5NkO7aniAhfLYi3xGK7E.jpg" group-title="▶ VOD INDIA",radhama Drishtiya Kuttakkar (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/muGsRtsNrG1gnlF2fPYrBa4TGlr.jpg" group-title="▶ VOD INDIA",Sardar 2 (2026)
+https://pixeldrain.com/api/file/9VcocRLS?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zrvnu0M5NkO7aniAhfLYi3xGK7E.jpg" group-title="▶ VOD INDIA",Pradhama Drishtiya Kuttakkar (2026)
 https://pixeldrain.com/api/file/vaVXbaau?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg" group-title="▶ VOD INDIA",Bethlehem Kudumba Unit (2026)
+https://pixeldrain.com/api/file/kHx3AXjn?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hIG0L3Gt2L77VMCIId6vZNiGsF1.jpg" group-title="▶ VOD INDIA",Khalifa The Ruler (2026)
+https://pixeldrain.com/api/file/U6fRPnyh?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg" group-title="▶ VOD INDIA",Irumudi (2026)
 https://stream.playcdn.de/playlist/f05266d607477f9ab6494f25da7f39bb/1/0.m3u8?x=1
@@ -2030,7 +2049,7 @@ https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/xaSM9J
 https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/y0Cbtu8ldRg43l8_Wx21BA/h9r/85vxcnxc/sak1vg/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg" group-title="▶ VOD INDIA",Peddi (2026)
-https://stream.playcdn.de/playlist/be42815cfa02b8bd9bd39a5ba573b1cb/2/480.m3u8?x=1
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil43/Peddi%202026-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vUEb8v8W5ANRXhydogbmjXfRfni.jpg" group-title="▶ VOD INDIA",Korean Kanakaraju (2026)
 https://stream.playcdn.de/playlist/1307686c255813b8a0a20bf0ca85b2a6/1/0.m3u8?x=1
@@ -2100,6 +2119,9 @@ https://www.dropbox.com/scl/fi/zqrsd4guxlj0k47jjjzeh/29.2026.mp4?rlkey=hkameivdm
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/hzg1qQmlFF0h4iY6Vw06IcIng9a.jpg" group-title="▶ VOD INDIA",Ugly Story (2026)
 https://stream.playcdn.de/playlist/adc5e7309065dbb67bbe1faec8bacc90/2/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/4qh23ge3qvcgwj3oncr6s/Ugly.Story.2026.mp4?rlkey=xkx6q6ki09lbo90sdxza6bpoa&st=busyubdr&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/j1X0t57PguWBcaa8LAOaAHGyjcK.jpg" group-title="▶ VOD INDIA",Ram and Leela (2026)
+https://stream.playcdn.de/playlist/7606010ed2d1491d2275b7d6eb06d258/1/0.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/n038AswpNaZgIWfMEr5cxVAqcsB.jpg" group-title="▶ VOD INDIA",Dia (2020)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil43/Dia%20(2020)-1-720.mp4
@@ -2461,6 +2483,9 @@ https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/Kaantha%20(2025).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/rRjh3zumdW89fNMe4tdjmALB1xG.jpg" group-title="▶ VOD INDIA",Aaryan (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/Aaryan%20(Tamil)%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/r9A3wnHgt9iIOZLGKuitvK9Mevh.jpg" group-title="▶ VOD INDIA",Padi Padi Leche Manasu (2018)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil43/Padi%20Padi%20Leche%20Manasu%202018-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wuXE99zta3rMrsrLSZ5yQ785zsa.jpg" group-title="▶ VOD INDIA",Galatta Family (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil43/Galatta%20Family%202025-1-720.mp4
