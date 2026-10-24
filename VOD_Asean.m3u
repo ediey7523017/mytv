@@ -1,7 +1,7 @@
 #EXTM3U url=""
 
 
-################################################################# ▶ VOD KOREAN ####################################################################
+###################################################################### ▶ VOD KOREAN ######################################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg" group-title="▶ VOD KOREAN",BTS THE RETURN (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/BTS%20THE%20RETURN%202026-1-720.mp4
@@ -13,6 +13,7 @@ https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/BTS%20THE%20COMEBACK%
 https://stream.playcdn.de/playlist/49313fc6065d840dc26c67de424f844f/1/0.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg" group-title="▶ VOD KOREAN",Hope (2026)
+https://playerx.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/UZmb0XvhZ7xobZcgDDF2fQ/qtd/lodt99e8/e56pdf/tt/index-f2-v1-a1.m3u8?v=1766826492
 https://pixeldrain.com/api/file/6FFi1qaU?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2GA927wmStO5PJY7yetJOpcJTsd.jpg" group-title="▶ VOD KOREAN",Lost (2025)
@@ -1089,6 +1090,12 @@ https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/Unbowed%20(
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zOlG5ntJ8xgkLjfwVTcNDz0INH3.jpg" group-title="▶ VOD KOREAN",Gifted (2015)
 https://47229.ohflix.workers.dev/0:/x32/NewVersion/48/Gifted%202014.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/axnvzgU5O02tYGBrMfZGO2AqjEJ.jpg" group-title="▶ VOD KOREAN",Sugar (2026)
+https://stream.playcdn.de/playlist/f6f0585f2746cc340121ecbd7184ddbc/2/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rzv8uPvgRmOGZKmVRthn4Qqu7FR.jpg" group-title="▶ VOD KOREAN",Split (2016)
+https://stream.playcdn.de/playlist/0bcc1b6e76727c7fd2383b1abdc71ae7/3/480.m3u8?x=1
+
 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPJIS_IVP_LAND_432x243_7E434_20241021_92011.jpg" group-title="▶ VOD KOREAN",Exhuma (2024)
 https://stream.playcdn.de/playlist/9c22520ca6320733621164cd05c46d0c/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/eg4dlmdl05ln4b4xn2dp3/exhuma.mp4?rlkey=kj6km3p581284exr46ul63rvf&st=c0pjehv2&dl=1
@@ -1653,9 +1660,11 @@ https://www.dropbox.com/scl/fi/ulsbosnl5l87evxchm3p2/City-Hunter.mp4?rlkey=54clf
 https://stream.playcdn.de/playlist/6b42586f621099ef319e0d795ee78640/2/480.m3u8
 https://www.dropbox.com/scl/fi/fjr4yzwsugkdus62xdb60/The-Legend-of-The-Condor-Heroes-The-Dragon-Tamer-2021.mp4?rlkey=3u3zubwspxsiarh6j9mv5dowk&st=031w07di&dl=1
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/76BkBITF6zdHWdtEsWePhekA5nw.jpg" group-title="▶ VOD ASEAN",The Djinn's Curse 2 (2026)
+https://playerx.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/-IPA68vj9Ay1Oq5FhPbU-w/meb/r8c1n6nv/chcmef/tt/index-f2-v1-a1.m3u8?v=1766826492
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xshVuSmZsPKcN2uvsh5DZPeDAIn.jpg" group-title="▶ VOD ASEAN",The Djinns Curse (2024)
-https://stream.playcdn.de/playlist/9d37ef47d901c6bf2d517b1a55ad049d/23/480.m3u8
-https://www.dropbox.com/scl/fi/xe1mfsoozpn0b0riusich/The-Djinn-s-Curse.mp4?rlkey=h6fggfgg61366w3geqr8312o3&st=t6ofw8w8&dl=1
+https://playerx.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/OuiZpDE-GA3PKJl3yl7vGA/unl/ghsr6axe/hvh8pn/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7r9Lqza4onv8tAFUrPjWBMIeo2q.jpg" group-title="▶ VOD ASEAN",Seoul Raiders (2005)
 
@@ -2485,6 +2494,18 @@ https://www.dropbox.com/scl/fi/9ayig39kfulx0kpw8ehiv/Ice-Cold-Murder-Coffee-and-
 
 #################################################################### ▶ VOD INDONESIA ###################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kIAltyOVZFIRFFFgBUBABb0HyF7.jpg" group-title="▶ VOD INDONESIA",Badut Gendong (2026)
+https://playerx.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/Cw8Cn9kIfA8ZX6XwSHLQQA/6sy/r8c1n6nv/dxdzj6/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/80CcJdrV3ewqPawFMAFGIrldgR5.jpg" group-title="▶ VOD INDONESIA",Cerita Lila (2026)
+https://playerx.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/W-696QMylMfP-pTrfgErwg/unl/r8c1n6nv/8e8x55/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lsOxkzlXVU2Tw3PqbjjJFvg0PJi.jpg" group-title="▶ VOD INDONESIA",Kuyank (2026)
+https://playerx.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/umAkhbgnust1mM_P8W5TMg/meb/r8c1n6nv/m8mdh6/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2P4MF7DKUF9IO1sX39BLE909cBd.jpg" group-title="▶ VOD INDONESIA",Ain (2026)
+https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/-3510cEPmJbhVf9_venktw/meb/ojqwdgso/bjfdse/tt/index-f2-v1-a1.m3u8?v=1766826492
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wjHyB3ZfmlZloqBb8i0BSymSA1x.jpg" group-title="▶ VOD INDONESIA",Bayang-Bayang Anak Jahanam (2025)
 https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/nCCW42CAUkW7ZN-fKCgxeA/unl/dq8zrfei/itxv1g/tt/index-f2-v1-a1.m3u8?v=1766826492
 
@@ -2494,11 +2515,14 @@ https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/7tkfgymt
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ojERAje2AcmQO8o0mldUgnHDXUi.jpg" group-title="▶ VOD INDONESIA",Tiba Tiba Setan (2026)
 https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/gDKLeLio6myuTfO0-RGKQw/nc9/5z1ivfbz/bjag8a/tt/index-f2-v1-a1.m3u8?v=1766826492
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/sNqtEZg4k3oOvzT4XO3sHvsklsS.jpg" group-title="▶ VOD INDONESIA",Mumun (2022)
+https://playerx.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/8l3pPMxqaHgravnADOHE7A/nc9/ojqwdgso/m8bncw/tt/index-f2-v1-a1.m3u8?v=1766826492
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/pQfM9snJ9EZGmkNf0CR2Mhqugz6.jpg" group-title="▶ VOD INDONESIA",Sekawan Limo 2 Gunung Klawih (2026)
 https://pixeldrain.com/api/file/mPFGiJn7?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/4sYLSgUTwbudPu4GkU8LKWGXyRm.jpg" group-title="▶ VOD INDONESIA",Sekawan Limo (2024)
-https://swishsrv.com/stream/NtYYVFLQJY5s6Xwezky6wg/kjhhiuahiuhgihdf/1791305638/28465917/index-v1-a1.m3u8
+https://playerx.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/MGZA3cYXM-LkOly5P23ThA/6sy/ghsr6axs/tpofso/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/aIUwa380i4HNaLyQFfzHjP9WZlN.jpg" group-title="▶ VOD INDONESIA",Sengkolo Petaka Satu Suro (2026)
 https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/Tq7CSzNLvawMBlebAoy_wA/kra/nc3fj51f/kfbqsd/tt/index-f2-v1-a1.m3u8?v=1766826492
