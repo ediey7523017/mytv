@@ -806,10 +806,6 @@ https://mvts.live/zes-ria
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ria
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro193" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920381.m3u8
-
 #EXTINF:-1 tvg-id="astro316" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -833,10 +829,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 https://mvts.live/zes-citra
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro301" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163672.m3u8
-
 #EXTINF:-1 tvg-id="astro401" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -845,10 +837,6 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163672.m3u8
 https://mvts.live/zes-rania
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro401" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania Feed 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163686.m3u8
-
 #EXTINF:-1 tvg-id="astro400" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -856,10 +844,6 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163686.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://mvts.live/zes-aura
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
-
-#EXTINF:-1 tvg-id="astro400" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura Feed 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163662.m3u8
 
 #EXTINF:-1 tvg-id="astro149" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",114 TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1485,10 +1469,6 @@ https://mvts.live/zes-ceria
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro386" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",611 Astro Ceria Feed 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163671.m3u8
-
 #EXTINF:-1 tvg-id="astro371" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",615 Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
@@ -1731,33 +1711,23 @@ https://mvts.live/zes-grandstand
 https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstand
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro543" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports",810 Astro Grandstand Feed 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1775977.m3u8
-
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://bozzku.xyz/victus/4996/AstPremierLeague1.mpd
 https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163684.m3u8
-
 #EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://bozzku.xyz/victus/4997/AstPremierLeague2.mpd
 https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
-
-#EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 Feed 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/116683.m3u8
 
 #EXTINF:-1 tvg-id="astro538" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague3_2024.png",813 Astro Premier League 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1816,10 +1786,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 ###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 ###https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein1&kid=d48b6088-253c-443e-b94d-27cb7828f707
 
-#EXTINF:-1 tvg-id="astro236" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",820 beIN SPORTS 1 Feed 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163717.m3u8
-
 ###EXTINF:-1 tvg-id="astro466" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
@@ -1833,10 +1799,6 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163717.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://mvts.live/zes-bein2
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein2&kid=efa6ff1a-cefa-4304-8e8b-7adc21d98871
-
-#EXTINF:-1 tvg-id="astro466" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2 Feed 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1965355.m3u8
 
 #EXTINF:-1 tvg-id="astro313" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Sports",822 beIN SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
