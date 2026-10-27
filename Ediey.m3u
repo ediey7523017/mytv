@@ -1210,20 +1210,45 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-#EXTINF:-1 tvg-id="HBOHD.sg" tvg-logo="https://www.transvision.co.id/img/channel/hbo.png" group-title="Movies",HBO
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+#EXTINF:-1 tvg-id="HBOHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movies",HBO
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+http://46.38.157.60:19890/trams/1015/playlist.m3u8?token=passwd
 
-#EXTINF:-1 tvg-id="HBOFamilyHD.sg" tvg-logo="https://www.transvision.co.id/img/channel/hbo_family.png" group-title="Movies",HBO Family
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="Movies",HBO Family
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+http://46.38.157.60:19890/trams/2711/playlist.m3u8?token=passwd
 
-#EXTINF:-1 tvg-id="HBOHitsHD.sg" tvg-logo="https://www.transvision.co.id/img/channel/hbo_hits.png" group-title="Movies",HBO Hits
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+#EXTINF:-1 tvg-id="HBOHitsHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="Movies",HBO Hits
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+http://46.38.157.60:19890/trams/2782/playlist.m3u8?token=passwd
 
-#EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-logo="https://www.transvision.co.id/img/channel/hbo_sig.png" group-title="Movies",HBO Signature
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="Movies",HBO Signature
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+http://46.38.157.60:19890/trams/2722/playlist.m3u8?token=passwd
 
-#EXTINF:-1 tvg-id="CinemaxHD.sg" tvg-logo="https://www.transvision.co.id/img/channel/cinemax.png" group-title="Movies",CINEMAX
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+#EXTINF:-1 tvg-id="CinemaxHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="Movies",CINEMAX
+https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU
+https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL_gl9QEhWSfhITb4-TScW3d6amBEQ
 
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
