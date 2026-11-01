@@ -979,7 +979,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro644" group-title="Indian" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SONYVizha_2026.png",220 Sony Vizha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.aqfadtv.xyz/?username=HishamKamarul&channelid=5609
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5609/default_primary.mpd
 
@@ -1116,15 +1116,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro618" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MangoTV_26.png",336 Mango TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a668809d78179250fecf6d986ee72c10:299d9065e04b545f03f6bc8f816ed30c
-###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KZ2QZeBLVF8D9ryPgW7TDA","kid":"pmiAnXgXklD-z32YZucsEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.aqfadtv.xyz/?username=HishamKamarul&channelid=5607
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5607/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro619" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/UPandaTV_26.png",337 U Panda TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8083576bf9c465a8d73260edec0e1110:0225aadcd3e60e42923ad1e1169f75a0
-###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AiWq3NPmDkKSOtHhFp91oA","kid":"gINXa_nEZajXMmDt7A4REA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5608/default_primary.mpd
 
@@ -1817,9 +1815,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro280" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroTennis.png",818 Astr Tennis 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=339cbed6dbf4fef81a19d9168feb7910:52a5c7fecad0558e094903fdc8b7cd77
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.aqfadtv.xyz/?username=HishamKamarul&channelid=5610
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5602/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5610/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro616" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroTennis.png",819 Astro Tennis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
