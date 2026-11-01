@@ -1116,13 +1116,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro618" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MangoTV_26.png",336 Mango TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KZ2QZeBLVF8D9ryPgW7TDA","kid":"pmiAnXgXklD-z32YZucsEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=a668809d78179250fecf6d986ee72c10:299d9065e04b545f03f6bc8f816ed30c
+###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KZ2QZeBLVF8D9ryPgW7TDA","kid":"pmiAnXgXklD-z32YZucsEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5607/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro619" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/UPandaTV_26.png",337 U Panda TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AiWq3NPmDkKSOtHhFp91oA","kid":"gINXa_nEZajXMmDt7A4REA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=8083576bf9c465a8d73260edec0e1110:0225aadcd3e60e42923ad1e1169f75a0
+###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AiWq3NPmDkKSOtHhFp91oA","kid":"gINXa_nEZajXMmDt7A4REA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5608/default_primary.mpd
 
