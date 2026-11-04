@@ -925,16 +925,22 @@ https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/69/Moana%20201
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon (2010)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/How%20to%20Train%20Your%20Dragon%201%202010-1-720.mp4
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/How%20To%20Train%20Your%20Dragon.mp4
-https://www.dropbox.com/scl/fi/fyrvwmkmqd3xzah3kmmar/How.to.Train.Your.Dragon.2010.720p.BR.MalayDub.MSM.mp4.mp4?rlkey=8pp3v3y5jfz8xt0yqtaqhrzah&st=lsmayces&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon (2010) MalayDub
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/How%20to%20Train%20Your%20Dragon%201%202010MalayDub-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon 2 (2014)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/How%20to%20Train%20Your%20Dragon%202%202014-1-720.mp4
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/How%20To%20Train%20Your%20Dragon%20(2).mp4
-https://www.dropbox.com/scl/fi/ngno8tm4e8y6g2q6iiqg9/How.to.Train.Your.Dragon.2.2014.720p.BR.MalayDub.MSM.mp4.mp4?rlkey=ore2ztit03djt4b1z23zw1osb&st=donq217o&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon 3 The Hidden World (2019)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/How%20To%20Train%20Your%20Dragon%20The%20Hidden%20World%202019-1-720.mp4
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/How%20To%20Train%20Your%20Dragon%20(3).mp4
-https://www.dropbox.com/scl/fi/pkzygwc0op207e6tw6afj/How_to_Train_Your_Dragon_The_Hidden_World_2019_720p_BR_MalayDub.mp4?rlkey=cn3tro49hj28rifecnxa5n9xb&st=t5yksjf9&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon 3 The Hidden World (2019) MalayDub
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/How%20To%20Train%20Your%20Dragon%20The%20Hidden%20World%202019MalayDub-1-720.mp4
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg" group-title="▶ VOD KIDS",Kung Fu Panda (2008)
@@ -1043,7 +1049,6 @@ https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/H_VgNY
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg" group-title="▶ VOD KIDS",Minions & Monsters (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Minions%20and%20Monsters%202026-1-720.mp4
-https://www.dropbox.com/scl/fi/30bf48zx9hs8wywhs48kz/Minions.and.Monsters.2026.mp4?rlkey=lrh2qhcgeoy4vvfenyrhbho60&st=kw3mxcfp&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg" group-title="▶ VOD KIDS",Minions The Rise of Gru (2022)
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru30/Minions%20-%20The%20Rise%20of%20Gru%202022.mp4
@@ -1087,6 +1092,7 @@ https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/Mavka%2
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nYfa9yK6LlbE9K4U7Ved815RgMM.jpg" group-title="▶ VOD KIDS",TEKKEN: Blood Vengeance (2011)
 https://stream.playcdn.de/playlist/1d42f5110d55a284023a93ebfc6134bc/3/480.m3u8
+
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg" group-title="▶ VOD KIDS",Ice Age Adventures of Buck Wild (2022)
 https://stream.playcdn.de/playlist/e24f210c848e7ca895cb77ddeeaa3830/13/480.m3u8
