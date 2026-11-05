@@ -1039,6 +1039,7 @@ https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Cold%20Pu
 https://47227.ohflix.workers.dev/0:/x21/NewVersion/8/The%20Grey%20(2011).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rNaBe4TwbMef71sgscqabpGKsxh.jpg" group-title="▶ VOD ENGLISH",Kingdom of Heaven (2005)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Kingdom%20of%20Heaven%202005-1-720.mp4
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/25/Kingdom%20Of%20Heaven.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zeD4PabP6099gpE0STWJrJrCBCs.jpg" group-title="▶ VOD ENGLISH",Honest Thief (2020)
@@ -1057,10 +1058,14 @@ https://www.dropbox.com/scl/fi/gdp3jkmuu7v15s1082eni/A-Walk-Among-the-Tombstones
 https://stream.playcdn.de/playlist/49e6220256a4a59ae1df45051e106ba4/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/kwnk025tj3dsmfuqmnl65/Retribution.mp4?rlkey=t0l0vyhf92e6wtszl85g14m97&st=6jr48c6n&dl=1
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg" group-title="▶ VOD ENGLISH",Road House (2024)
+https://stream.playcdn.de/playlist/e249b0dcb1d00141a288013c30668ec2/4/480.m3u8?x=1
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wobVTa99eW0ht6c1rNNzLkazPtR.jpg" group-title="▶ VOD ENGLISH",The Long Walk (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/The%20Long%20Walk%202025-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg" group-title="▶ VOD ENGLISH",Knights of the Zodiac (2023)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/Knights%20of%20the%20Zodiac%202023-1-720.mp4
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ESxDI0Gu831Eh33YI_KmT5UB7JPQnO2rXwbHkx_Swx8t-A
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg" group-title="▶ VOD ENGLISH",Wake Up Dead Man A Knives Out Mystery (2025)
@@ -1146,9 +1151,6 @@ https://47229.ohflix.workers.dev/0:/x32/NewVersion/51/Southpaw%202015.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2jKOu2bjpLP6NXJcm7Ep14bDGtA.jpg" group-title="▶ VOD ENGLISH",Everest (2015)
 https://47227.ohflix.workers.dev/0:/x21/Random4%20Movies%20Malay%20Sub/Everest%202015%20BLURAY%20720p.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg" group-title="▶ VOD ENGLISH",Road House (2024)
-https://stream.playcdn.de/playlist/e249b0dcb1d00141a288013c30668ec2/4/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wztfli5NgYDgurVgShNflvnyA3Z.jpg" group-title="▶ VOD ENGLISH",Life (2017)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/38/Life%202017.mp4
@@ -1301,6 +1303,9 @@ https://47228.ohflix.workers.dev/0:/x32/NewVersion/38/Real%20Steel%202011.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fZlAxZMo6BId1SiqyjLmkd7oUB7.jpg" group-title="▶ VOD ENGLISH",13 Hours The Secret Soldiers of Benghazi (2016)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/77/13%20Hours%20The%20Secret%20Soldiers%20Of%20Benghazi%202016-1-720.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/b4OaXw2MW97VvIiZE0Sbn1NfxSh.jpg" group-title="▶ VOD ENGLISH",Knocked Up (2007)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Knocked%20Up%202007-1-720.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg" group-title="▶ VOD ENGLISH",Eden (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Eden%202025-1-720.mp4
 
@@ -1314,6 +1319,9 @@ https://www.dropbox.com/scl/fi/mwdsf9guepywnfswyklyl/The-Nun-II.mp4?rlkey=uz5we2
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/t7d9Zk4ltloYgDCMj0qHIpQBAIs.jpg" group-title="▶ VOD ENGLISH",The Colony (2013)
 https://stream.playcdn.de/playlist/8d733b8902057238a473732386ebe172/3/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/eop8vk5tbwcvydewk9zfo/The-Colony-2013.mp4?rlkey=td3fpe6ccnc0ruuosv6g9tlkg&st=fx0fzvyv&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nX7ZUYwgGOCe5nXXwpNg4hAf1xB.jpg" group-title="▶ VOD ENGLISH",The Colony (2021)
+https://stream.playcdn.de/playlist/3cb0cb51eea41f490156ab5b92f01d28/4/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/uuDUpzlMFomdSfNWlpEPS9nVZWV.jpg" group-title="▶ VOD ENGLISH",Chappie (2015)
 https://stream.playcdn.de/playlist/989abe0c174f83606871c515a2e131e1/5/480.m3u8?x=1
