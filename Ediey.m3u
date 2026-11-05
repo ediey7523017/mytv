@@ -100,12 +100,11 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/manifest.mpd
 #EXTINF:-1 group-logo="https://unifitv.com.my/assets/images/logo/unifi-tv-logo.svg"
 
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=530" group-title="Unifi TV",TV1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=1fe3d74e8cbc4ee0b071a64257068e38:77ece75d9526f5beac0ab6bf1ee3bd89
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV1&kid=1fe3d74e-8cbc-4ee0-b071a-64257068e38
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV1)/master.mpd?hdntl=st=1793858466~exp=1793948466~acl=/Content/DASH/Live/channel(TV1)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=37494404701fcb15f845f28e8b26238ccd263b1ed37a943e1bbbb63699086d1e
 
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/907F5B90-0688-4EC2-ABEF-A69F7C842287/0-16x9.png?width=530" group-title="Unifi TV",TV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
