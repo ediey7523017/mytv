@@ -1114,6 +1114,7 @@ https://47228.ohflix.workers.dev/0:/x32/NewVersion/38/Salt.mp4
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Good%20Will%20Hunting%201997-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg" group-title="▶ VOD ENGLISH",Maleficent (2014)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Maleficent%20(2014)-1-720.mp4
 https://47227.ohflix.workers.dev/0:/x11/Random3%20Movies%20Malay%20Sub/Maleficent%20(2014)%20Malay%20Hardsub.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg" group-title="▶ VOD ENGLISH",Maleficent Mistress of Evil (2019)
@@ -1152,7 +1153,11 @@ https://47229.ohflix.workers.dev/0:/x32/NewVersion/51/Southpaw%202015.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2jKOu2bjpLP6NXJcm7Ep14bDGtA.jpg" group-title="▶ VOD ENGLISH",Everest (2015)
 https://47227.ohflix.workers.dev/0:/x21/Random4%20Movies%20Malay%20Sub/Everest%202015%20BLURAY%20720p.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/iLgRu4hhSr6V1uManX6ukDriiSc.jpg" group-title="▶ VOD ENGLISH",Life of Pi (2012)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Life%20of%20Pi%20(2012)-1-720.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wztfli5NgYDgurVgShNflvnyA3Z.jpg" group-title="▶ VOD ENGLISH",Life (2017)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Life%202017-1-720.mp4
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/38/Life%202017.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg" group-title="▶ VOD ENGLISH",Nightcrawler (2014)
@@ -1550,6 +1555,12 @@ https://www.dropbox.com/scl/fi/oo47m6l0khrn2nzo4nopm/Les-miserables-2012.mp4?rlk
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/yDuJGq8biNMW7zM3w95UaDJv0KG.jpg" group-title="▶ VOD ENGLISH",The Lone Ranger (2013)
 https://47229.ohflix.workers.dev/0:/x32/NewVersion/51/The%20Lone%20Ranger%20(2013).mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ykocDqwg5PRUopnBVb1x1DWnEJF.jpg" group-title="▶ VOD ENGLISH",Legion (2010)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Legion%202010-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/y9DdvY1IRNS2hWLq161hmP2gXn.jpg" group-title="▶ VOD ENGLISH",Letters to Juliet (2010)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Letters%20to%20Juliet%20(2010)-1-720.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/tLO1aD1ghdtVMT32z2sRmzgYKYd.jpg" group-title="▶ VOD ENGLISH",The Little Things (2021)
 https://stream.playcdn.de/playlist/955c8c2f69e168c74a3ac279a6251062/5/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/8p92tn3mhbdykfcc5ycsu/The-Little-Things.mp4?rlkey=hiv7s86rwojab6vwa7rogdkab&st=11l9mowj&dl=1
@@ -1571,8 +1582,7 @@ https://stream.playcdn.de/playlist/6933f26926b59f5223e32b14f29d2580/4/480.m3u8?x
 https://www.dropbox.com/scl/fi/9631m63387pc2evejjiju/Unstoppable.2010.mp4?rlkey=g7frbeh7hls0hogt7gdbs5xny&st=zru6fpqt&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v8H6dPqXhHWW137ubxqD4HdHTib.jpg" group-title="▶ VOD ENGLISH",Man on Fire (2004)
-https://stream.playcdn.de/playlist/ab6b4d49ff04be501a4dc6f14a066699/3/480.m3u8?x=1
-https://www.dropbox.com/scl/fi/5jdblq5pmv1l7ammt0h6u/Man-on-Fire.mp4?rlkey=0yjxu2riqh7vy6gtnlv1g4uan&st=obe37sz5&dl=1
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Man%20on%20Fire%202004-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/4xEWtEbKK2EXMZ8UPff8hDCSiVW.jpg" group-title="▶ VOD ENGLISH",The Manchurian Candidate (2004)
 https://47242.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/76/The%20Manchurian%20Candidate%20(2004)-1-720.mp4
