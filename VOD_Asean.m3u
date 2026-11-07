@@ -3,6 +3,14 @@
 
 ###################################################################### ▶ VOD KOREAN ######################################################################
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=8e71f31edb5180546c3a6eb7e7b5cb10:2b767683d50951e6bd497859a3258f56
+#EXTINF:-1 type="movie" group-title="▶ VOD KOREAN" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KYGOC_IVP_LAND_448x252_975EA_2026917_95613.jpg",Salmokji Whispering Water (2026)
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/2b767683-d509-51e6-bd49-7859a3258f56/default_dash.mpd
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg" group-title="▶ VOD KOREAN",BTS THE RETURN (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/BTS%20THE%20RETURN%202026-1-720.mp4
 
@@ -355,7 +363,7 @@ https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru30/The%20Girl%20On%20a%2
 https://stream.playcdn.de/playlist/42eaea318c4b020a5c5fd1771f81d47b/2/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/8WqtunxSTVFiyBAUYSXbTSh0Vc5.jpg" group-title="▶ VOD KOREAN",Midnight FM (2010)
-https://stream.playcdn.de/playlist/3e5a8f46e9c8994537f3c833aa6ec438/4/480.m3u8?x=1
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Midnight%20FM%202010-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/5F5XeTbWYlWvEzvJ1tQ3IRGe9mi.jpg" group-title="▶ VOD KOREAN",The Divine Move (2014)
 https://stream.playcdn.de/playlist/38bae9541dca5d2f17bd6b2357849fc1/5/480.m3u8?x=1
@@ -1100,6 +1108,9 @@ https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/Unbowed%20(
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zOlG5ntJ8xgkLjfwVTcNDz0INH3.jpg" group-title="▶ VOD KOREAN",Gifted (2015)
 https://47229.ohflix.workers.dev/0:/x32/NewVersion/48/Gifted%202014.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zCizXVuPbEQxECnB5uh7go4OTyV.jpg" group-title="▶ VOD KOREAN",Le Grand Chef (2007)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Le%20Grand%20Chef%20(2007)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/axnvzgU5O02tYGBrMfZGO2AqjEJ.jpg" group-title="▶ VOD KOREAN",Sugar (2026)
 https://stream.playcdn.de/playlist/f6f0585f2746cc340121ecbd7184ddbc/2/480.m3u8?x=1
@@ -2509,6 +2520,9 @@ https://www.dropbox.com/scl/fi/9ayig39kfulx0kpw8ehiv/Ice-Cold-Murder-Coffee-and-
 
 #################################################################### ▶ VOD INDONESIA ###################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/5xGB0dyoA0hpa0WtrKnqmMXvU5c.jpg" group-title="▶ VOD INDONESIA",Petaka Gunung Welirang (2026)
+https://pixeldrain.com/api/file/XLa1vHgY?download
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kIAltyOVZFIRFFFgBUBABb0HyF7.jpg" group-title="▶ VOD INDONESIA",Badut Gendong (2026)
 https://playerx.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/Cw8Cn9kIfA8ZX6XwSHLQQA/6sy/r8c1n6nv/dxdzj6/tt/index-f1-v1-a1.m3u8?v=1766826492
 
@@ -2636,6 +2650,9 @@ https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Dopamine%202025-1-720
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8XFnCNU1SIa100lI3bM7QDLPTEZ.jpg" group-title="▶ VOD INDONESIA",Kuncen (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Kuncen%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ddmEffbTnnGuLgGjQqq4v0beB8M.jpg" group-title="▶ VOD INDONESIA",Kakak (2015)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Kakak%20(2015)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4gHGN77sWTC3oE7ouGC10IRZqmo.jpg" group-title="▶ VOD INDONESIA",Jangan Panggil Mama Kafir (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Jangan%20Panggil%20Mama%20Kafir%202025-1-720.mp4
@@ -3129,13 +3146,14 @@ https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru33/Pengabdi%20Setan%202%
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvET11r3QLJ9UJAvWJM2PJBBWX9.jpg" group-title="▶ VOD MALAY",Memoir Seorang Guru (2024)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/51/Memoir%20Seorang%20Guru%202024-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wU038xWl3m2mmrmAIaSrkWZj0ro.jpg" group-title="▶ VOD MALAY",Abnormal: Buas (2024)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wU038xWl3m2mmrmAIaSrkWZj0ro.jpg" group-title="▶ VOD MALAY",Abnormal Buas (2024)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/51/Abnormal%20Buas%202024-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zdckRP04h97MnGPD2aRqitXwRk.jpg" group-title="▶ VOD MALAY",Mereka yang tak terlihat (2017)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Mereka%20Yang%20Tak%20Terlihat%20(2017)-1-720.mp4
 https://47227.ohflix.workers.dev/0:/x31/KoleksiMalay/3/Mereka%20Yang%20Tak%20Terlihat%202017%20Web-Dl%201080p.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3VfJM8sq0bqy01EdbSFislkY7x.jpg" group-title="▶ VOD MALAY",Pendekar Awang: Darah Indera Gajah (2024)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3VfJM8sq0bqy01EdbSFislkY7x.jpg" group-title="▶ VOD MALAY",Pendekar Awang Darah Indera Gajah (2024)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/51/Pendekar%20Awang%20Dan%20Tok%20Gajah%20Darah%20Indera%20Gajah%202024-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BS05gmEt3DcDcfajXkqiq9OObF.jpg" group-title="▶ VOD MALAY",Saka Perawan (2024)
@@ -3162,7 +3180,7 @@ https://47239.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/50/Kembar%20S
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3hmkxg4NC2ru1xLhPcI0e4doGa.jpg" group-title="▶ VOD MALAY",Zim Zim Ala Kazim (2024)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/51/Zim%20Zim%20Ala%20Kazim%202024-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDU7sxfsIyWqMO1obRdXsCVgeZ8.jpg" group-title="▶ VOD MALAY",Sheriff: Narko Integriti (2024)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDU7sxfsIyWqMO1obRdXsCVgeZ8.jpg" group-title="▶ VOD MALAY",Sheriff Narko Integriti (2024)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/50/Sheriff%202024-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qY4HM5ayavGPGrhVVLfUJ9xjq8.jpg" group-title="▶ VOD MALAY",The Experts (2024)
@@ -3240,10 +3258,10 @@ https://47227.ohflix.workers.dev/0:/x31/KoleksiMalay/4/Remp-It%20[2007]%20SDRip.
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQC04vkAEkqzITmoa9DmIJwSCi7.jpg" group-title="▶ VOD MALAY",Keluang Man (2025)
 https://47246.ohflix.workers.dev/0:/x40/KoleksiMalay/54/Keluang%20Man%202025-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/iDwdniUPPTIVOHbIXkRjcJPz59L.jpg" group-title="▶ VOD MALAY",Harimau Merah: Intrik Dalaman (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/iDwdniUPPTIVOHbIXkRjcJPz59L.jpg" group-title="▶ VOD MALAY",Harimau Merah Intrik Dalaman (2025)
 https://47246.ohflix.workers.dev/0:/x40/KoleksiMalay/54/Harimau%20Merah%20Intrik%20Dalaman%202025-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/83Jnt1FWNQL4ooKHIx3YeDjnZZd.jpg" group-title="▶ VOD MALAY",Harimau Merah: Resolusi (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/83Jnt1FWNQL4ooKHIx3YeDjnZZd.jpg" group-title="▶ VOD MALAY",Harimau Merah Resolusi (2025)
 https://47246.ohflix.workers.dev/0:/x40/KoleksiMalay/54/Harimau%20Merah%20Resolusi%202025-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujsWad6uVjOifcQiUJ9kDzzjXIb.jpg" group-title="▶ VOD MALAY",Racun Sangga: The Homewrecker's Curse (2024)
@@ -3255,7 +3273,7 @@ https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/Lembayung%202024-1-72
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y910s3Arhlcn1fF9s7iL0v04RRH.jpg" group-title="▶ VOD MALAY",Pontianak 200KG (2024)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/52/Pontianak%20200KG%202024-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9F8aDVBHZpKkdQIbhzcTRmHggT.jpg" group-title="▶ VOD MALAY",Kahar: Kapla High Council (2024)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9F8aDVBHZpKkdQIbhzcTRmHggT.jpg" group-title="▶ VOD MALAY",Kahar Kapla High Council (2024)
 https://47246.ohflix.workers.dev/0:/x40/KoleksiMalay/54/Kahar%20Kapla%20High%20Council%202024-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8wfp6CTiafZ6X8U7sEMpz9q0NP.jpg" group-title="▶ VOD MALAY",Roxana (2024)
@@ -4168,6 +4186,7 @@ https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_i
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=567ffdc8ddb84a4f85694e12a8e8e572:9af9e12a20e83c22d7df776dc834c744
+https://ngtv-vod.gcdn.co/content/pubcontent/vol/567FFDC8-DDB8-4A4F-8569-4E12A8E8E572/1777512108776-output_cenc_dash.ism/dash.mpd
 https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=945
 
 #EXTINF:-1 tvg-id="" tvg-name="Sleep" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/43536DD7-D128-4276-9C07-D5EB72CB39B1/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",944-Sleep
