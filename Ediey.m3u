@@ -171,6 +171,12 @@ https://cuwf8jayq1.tenbytecdn.com/live/rti/abr/rti_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/91a0697b-3d4c-4324-8b56-3fa5d9cba67d/logo.png" group-title="MYTV Mana-Mana",Arirang
 https://cuwf8jayq1.tenbytecdn.com/live/arirang/abr/arirang_720p/chunks.m3u8
 
+#EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV1.rtm" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=400" group-title="MYTV Mana-Mana",Drama Sangat
+https://live-03.tonton.com.my/1794140651/edbadb2107db889c897f97699c13c1b8fac9a678cdfc19c9ab285f8899b2f727/ds/04.m3u8
+
 
 ############################################################### Unifi TV ################################################################
 #EXTINF:-1 group-logo="https://unifitv.com.my/assets/images/logo/unifi-tv-logo.svg"
