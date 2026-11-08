@@ -4201,18 +4201,6 @@ https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_i
 
 ##############################################################▶ VOD UNIFI############################################################### 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/43536DD7-D128-4276-9C07-D5EB72CB39B1/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Sleep
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=43536dd7d12842769c07d5eb72cb39b1:81dbd8bcbfeae8fd91a7467954e355e7
-https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=944
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EE5DE585-4936-4CE2-82E7-1C7F25260769/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",The Night Owl
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=ee5de58549364ce282e71c7f25260769:37afc3eb3ddd2aa4e988f95dac7ed4ad
-https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=943
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/567FFDC8-DDB8-4A4F-8569-4E12A8E8E572/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Penunggu Istana
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -4236,6 +4224,12 @@ https://ngtv-vod.gcdn.co/content/pubcontent/vol/B159054C-CE27-4886-8DC2-D07B01B3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f18e56bcfe3747679c47f0c5a9adb06e:5b022cc415980b108cb1ef35fc20211b
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/F18E56BC-FE37-4767-9C47-F0C5A9ADB06E/1771913329854-output_cenc_dash.ism/dash.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/76C72AAB-6479-48D2-8625-F4D71504BD75/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Dabbe Bir Cin Vakasi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=76c72aab647948d28625f4d71504bd75:b58d7a0275f00872db0d273e811b3321
+https://ngtv-vod.gcdn.co/content/pubcontent/vol/76C72AAB-6479-48D2-8625-F4D71504BD75/1770864662234-output_cenc_dash.ism/dash.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/17D2432D-D423-4CFF-A77A-E6FF48E2D318/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Blood Karma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4285,95 +4279,101 @@ https://ngtv-vod.gcdn.co/content/pubcontent/vol/7BACA6D7-9AA5-4118-8C0A-284EC80C
 #KODIPROP:inputstream.adaptive.license_key=9a569273c4214382b3666c67e3d27caf:6ceaf3c9a034e9d1e99922412de8f771
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/9A569273-C421-4382-B366-6C67E3D27CAF/1749897886040-output_dash.ism/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B68693F9-ECBD-4825-AB6A-2B32B3CFD8D7/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",961-Agrinai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B68693F9-ECBD-4825-AB6A-2B32B3CFD8D7/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Agrinai
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b68693f9ecbd4825ab6a2b32b3cfd8d7:f54c3cf36882a549857906ec4152d429
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/B68693F9-ECBD-4825-AB6A-2B32B3CFD8D7/1761407520351-output_cenc_dash.ism/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Mashaarojinn" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D7717328-1735-4C5B-8EEF-AA8B88BBB428/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",960-Mashaarojinn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D7717328-1735-4C5B-8EEF-AA8B88BBB428/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Mashaarojinn
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d771732817354c5b8eefaa8b88bbb428:c89df7e2e52d46126952b04a5bc7ca22
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/D7717328-1735-4C5B-8EEF-AA8B88BBB428/1762240399936-output_cenc_dash.ism/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="The House" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EF4902E8-0067-480B-8C4A-FC1F900558F8/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",959-The House
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EF4902E8-0067-480B-8C4A-FC1F900558F8/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",The House
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ef4902e80067480b8c4afc1f900558f8:a2ab993a8de5a11ca5d5695d03829bd4
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/EF4902E8-0067-480B-8C4A-FC1F900558F8/1757489293329-output_cenc_dash.ism/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/859ABBCA-B41E-429E-9BC3-8608C6ED6D44/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",958-Cinderella's Curse
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/859ABBCA-B41E-429E-9BC3-8608C6ED6D44/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Cinderella's Curse
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=859abbcab41e429e9bc38608c6ed6d44:db2d9b7080e81898eb83d1f653f071d2
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/859ABBCA-B41E-429E-9BC3-8608C6ED6D44/1750061000409-output_dash.ism/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/3BD5F90F-504F-4476-A464-D50E27C01E9D/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",957-The Ghost Game
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/3BD5F90F-504F-4476-A464-D50E27C01E9D/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",The Ghost Game
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=0067917d314f43638bc28668aafd95b2:0e4ddfe4d473b19ceeadeb5d23b6b1ac
 https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=957
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/5306954D-0560-4557-8B3E-ACA64CB19D64/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",956-Pontianak Harum Sundal Malam 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/43536DD7-D128-4276-9C07-D5EB72CB39B1/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Sleep
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=43536dd7d12842769c07d5eb72cb39b1:81dbd8bcbfeae8fd91a7467954e355e7
+https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=944
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EE5DE585-4936-4CE2-82E7-1C7F25260769/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",The Night Owl
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=ee5de58549364ce282e71c7f25260769:37afc3eb3ddd2aa4e988f95dac7ed4ad
+https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=943
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/5306954D-0560-4557-8B3E-ACA64CB19D64/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Pontianak Harum Sundal Malam 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5306954d056045578b3eaca64cb19d64:ce1dbc7bfe06e58ccaa59e71a3dfa702
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/5306954D-0560-4557-8B3E-ACA64CB19D64/1749633193677-output_cenc_dash.ism/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Pontianak Harum Sundal Malam" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/55F193AF-E10A-4E5C-9315-9B52703E723D/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",955-Pontianak Harum Sundal Malam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/55F193AF-E10A-4E5C-9315-9B52703E723D/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Pontianak Harum Sundal Malam
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=55f193afe10a4e5c93159b52703e723d:f357d423bafe6cb4792e9e85a691a999
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/55F193AF-E10A-4E5C-9315-9B52703E723D/1749633289593-output_cenc_dash.ism/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/34A06DC5-99BF-470E-A46D-0085C79A9800/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",954-Sembunyi: Amukan Azazil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/34A06DC5-99BF-470E-A46D-0085C79A9800/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Sembunyi Amukan Azazil
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=34a06dc599bf470ea46d0085c79a9800:bbfc4d5a12d3eabebb4eb752fb1f148d
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/34A06DC5-99BF-470E-A46D-0085C79A9800/1764520426603-output_cenc_dash.ism/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F70D5261-5E6D-4D90-B477-1C130083C8B7/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",953-Chabak: The Night of Murder and Romance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F70D5261-5E6D-4D90-B477-1C130083C8B7/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Chabak The Night of Murder and Romance
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f70d52615e6d4d90b4771c130083c8b7:6e9c84543bd8d40ca9f827397489d1c1
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/F70D5261-5E6D-4D90-B477-1C130083C8B7/1758614050219-output_cenc_dash.ism/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7E639E15-AF1B-47A1-92AD-859B0028F81F/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",952-Heimsuchung aka Smother
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7E639E15-AF1B-47A1-92AD-859B0028F81F/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Heimsuchung aka Smother
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7e639e15af1b47a192ad859b0028f81f:4dd005a92cb072540b46fe0c4ad584b5
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/7E639E15-AF1B-47A1-92AD-859B0028F81F/1755140108643-output_cenc_dash.ism/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/DCC76B9A-BCE0-49F5-9914-30BE08DCC5CD/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",951-Nightmare Side: Delusional
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/DCC76B9A-BCE0-49F5-9914-30BE08DCC5CD/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Nightmare Side Delusional
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=dcc76b9abce049f5991430be08dcc5cd:35f22751287d7566a39e36bb5a08c9e3
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/DCC76B9A-BCE0-49F5-9914-30BE08DCC5CD/1780641347768-output_cenc_dash.ism/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7B9FAF3E-532C-4F38-93A6-FBCB08E14888/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",950-Limbungan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7B9FAF3E-532C-4F38-93A6-FBCB08E14888/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Limbungan
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=828632c82f03422f93287c03787182c9:db9e34e71bf8e53cb9c38a9f868f551e
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/828632C8-2F03-422F-9328-7C03787182C9/1772440179632-output_cenc_dash.ism/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A2CEA45B-46CC-4F30-B348-8319BD94D4CA/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",949-Citra Apartment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A2CEA45B-46CC-4F30-B348-8319BD94D4CA/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Citra Apartment
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a2cea45b46cc4f30b3488319bd94d4ca:c26ce95d5bf0408e8f76987bd587ebd5
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/A2CEA45B-46CC-4F30-B348-8319BD94D4CA/1772440179143-output_cenc_dash.ism/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F772E861-B9A0-411C-B261-C297815A453F/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",948-Misteri Fraser 1910
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F772E861-B9A0-411C-B261-C297815A453F/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Misteri Fraser 1910
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f772e861b9a0411cb261c297815a453f:399d4363fc7da86b8214d4efdef2d74a
 https://ngtv-vod.gcdn.co/content/pubcontent/vol/F772E861-B9A0-411C-B261-C297815A453F/1772440178661-output_cenc_dash.ism/dash.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/76C72AAB-6479-48D2-8625-F4D71504BD75/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",947-Dabbe Bir Cin Vakasi
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=76c72aab647948d28625f4d71504bd75:b58d7a0275f00872db0d273e811b3321
-https://ngtv-vod.gcdn.co/content/pubcontent/vol/76C72AAB-6479-48D2-8625-F4D71504BD75/1770864662234-output_cenc_dash.ism/dash.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E133966C-ED4E-4D0F-865C-1CC0A8C2446D/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Tuyul
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4392,6 +4392,18 @@ https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=58e06a06a5e74d7692eff4caaa98db98:270461581d7b6a88223d81865b8b8b7e
 https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=962
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/43536DD7-D128-4276-9C07-D5EB72CB39B1/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Sleep
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=43536dd7d12842769c07d5eb72cb39b1:81dbd8bcbfeae8fd91a7467954e355e7
+https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=944
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EE5DE585-4936-4CE2-82E7-1C7F25260769/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",The Night Owl
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=ee5de58549364ce282e71c7f25260769:37afc3eb3ddd2aa4e988f95dac7ed4ad
+https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=943
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7F4793D2-5CD2-4CA0-8DC6-3799D80EDC67/0-2x3.jpg?width=300"  group-title="▶ VOD UNIFI",Alena Anak Ratu Iblis 
 #KODIPROP:inputstream=inputstream.adaptive
