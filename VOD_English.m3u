@@ -4,10 +4,10 @@
 ####################################################### ▶ VOD ENGLISH #########################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg" group-title="▶ VOD ENGLISH",Protector (2026)
-https://dr.vikingfile.com/download/HzbhwTu206/Protector.2026.720p.MalaySub.WEB.MSM.mp4?md5=eVuyBkFI98hXKjCstnDPkw&expires=1794203358
+https://stream.playcdn.de/playlist/22d51c6eb34919728006a407ed244346/2/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg" group-title="▶ VOD ENGLISH",Heart of the Beast (2026)
-https://bi.vikingfile.com/download/P0wt4zGOs2/Heart.of.the.Beast.2026.720p.MalaySub.WEB.MSM2.mp4?md5=9V6hMscGec4jGHwy9YpWIQ&expires=1794203177
+https://stream.playcdn.de/playlist/ffe6b4eab8e08a87ec28a18366cb2e34/1/0.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg" group-title="▶ VOD ENGLISH",Collision Course (2026)
 https://pixeldrain.com/api/file/VQDosJ5B?download
@@ -154,6 +154,9 @@ https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/o0XrrJsN
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg" group-title="▶ VOD ENGLISH",Practical Magic (1998)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/15/Practical%20Magic%201998.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg" group-title="▶ VOD ENGLISH",Panic Room (2002)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Panic%20Room%20(2002)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zTksz3tz5wqBM7uUzz577md6cwA.jpg" group-title="▶ VOD ENGLISH",Apocalypse Z New World (2026)
 https://pixeldrain.com/api/file/zYVPN31D?download
