@@ -171,12 +171,6 @@ https://cuwf8jayq1.tenbytecdn.com/live/rti/abr/rti_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/91a0697b-3d4c-4324-8b56-3fa5d9cba67d/logo.png" group-title="MYTV Mana-Mana",Arirang
 https://cuwf8jayq1.tenbytecdn.com/live/arirang/abr/arirang_720p/chunks.m3u8
 
-#EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TV1.rtm" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=400" group-title="MYTV Mana-Mana",Drama Sangat
-https://live-03.tonton.com.my/1794140651/edbadb2107db889c897f97699c13c1b8fac9a678cdfc19c9ab285f8899b2f727/ds/04.m3u8
-
 
 ############################################################### Unifi TV ################################################################
 #EXTINF:-1 group-logo="https://unifitv.com.my/assets/images/logo/unifi-tv-logo.svg"
@@ -187,7 +181,7 @@ https://live-03.tonton.com.my/1794140651/edbadb2107db889c897f97699c13c1b8fac9a67
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Salam)/master.mpd?hdntl=st=1794103739~exp=1794193739~acl=/Content/DASH/Live/channel(Salam)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=4c77618f9413d56fc5340c7758ad298c05b1676306407df89404057c5734e258
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Salam)/master.mpd?hdntl=st=1794323242~exp=1794413242~acl=/Content/DASH/Live/channel(Salam)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=5aa8b0380e7001a177592b887050b9e0c2e3ee21487365dbd46a5ea26bf307b1
 
 #EXTINF:-1 tvg-id="116" tvg-name="Sensasi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8F641B7A-CC55-497E-9C73-B1F10ADA7541/0-16x9.png?width=530" group-title="Unifi TV",Sensasi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -195,7 +189,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Salam)/master.mpd?hdntl=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ba270026f0a4b29956ace51335fb1ac:edb6adbe31609226e737e515ba813169
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Sensasi)/master.mpd?hdntl=st=1794103659~exp=1794193659~acl=/Content/DASH/Live/channel(Sensasi)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=f71e2bdf31baff0f70923e026229139e15822d1e620521e5544aa90256cb9ee9
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Sensasi)/master.mpd?hdntl=st=1794323155~exp=1794413155~acl=/Content/DASH/Live/channel(Sensasi)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=3006d5a541fe6e7e0a1f57247b86c98494c6e61bfb670c13c029e03b10433b61
 
 #EXTINF:-1 tvg-id="118" tvg-name="Inspirasi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=530" group-title="Unifi TV",Inspirasi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -203,7 +197,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Sensasi)/master.mpd?hdnt
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Inspirasi)/master.mpd?hdntl=st=1794102367~exp=1794192367~acl=/Content/DASH/Live/channel(Inspirasi)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=9cc5443a55cce40695279c7658527ef6c516557b202f591335e2e6b933deac9a
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Inspirasi)/master.mpd?hdntl=st=1794323080~exp=1794413080~acl=/Content/DASH/Live/channel(Inspirasi)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=aea63951ba7c4ad4d691e858566bb67e055367c06970ca0ea10118fee298aa82
 
 #EXTINF:-1 tvg-id="120" tvg-name="DEGUP" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=530" group-title="Unifi TV",DEGUP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -211,7 +205,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Inspirasi)/master.mpd?hd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DEGUP)/master.mpd?hdntl=st=1794103697~exp=1794193697~acl=/Content/DASH/Live/channel(DEGUP)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=89a574a06c141f8ae7eefc280f221a0bea8221254c7f43ce77b14b2a79c27f2a
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DEGUP)/master.mpd?hdntl=st=1794323192~exp=1794413192~acl=/Content/DASH/Live/channel(DEGUP)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=4d532c53c9d38ca5502108957f4929abcddfd51f49afca6691ca62175c0db5a3
 
 #EXTINF:-1 tvg-id="121" tvg-name="SIAR" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F101B330-8D9C-4670-9DE3-2C53E8866EA0/0-16x9.png?width=530" group-title="Unifi TV",SIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -219,7 +213,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DEGUP)/master.mpd?hdntl=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SIAR)/master.mpd?hdntl=st=1794103775~exp=1794193775~acl=/Content/DASH/Live/channel(SIAR)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=8011ad582a804d9a0ab69ea57f4b862f885e6a817dc23a151fea365047d1dc73
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SIAR)/master.mpd?hdntl=st=1794323320~exp=1794413320~acl=/Content/DASH/Live/channel(SIAR)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=840d633cab5f381c080a86459144201f6a307cba34fbceae87e21f6cbd48ca64
 
 #EXTINF:-1 tvg-id="128" tvg-name="Dunia Sinema HD" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=530" group-title="Unifi TV",Dunia Sinema HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -227,7 +221,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SIAR)/master.mpd?hdntl=s
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DuniaSin)/master.mpd?hdntl=st=1794103809~exp=1794193809~acl=/Content/DASH/Live/channel(DuniaSin)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=488b9ced6d74fe3a6af7f099518ca1b8fdca09115ae3852a8e920c786ea8427a
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DuniaSin)/master.mpd?hdntl=st=1794323359~exp=1794413359~acl=/Content/DASH/Live/channel(DuniaSin)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=6af44e1d56a690b5ae39e0df08d422feab993e71ae452c490773990c03827df3
 
 #EXTINF:-1 tvg-id="141" tvg-name="PESONA" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=530" group-title="Unifi TV",Pesona HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -235,7 +229,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DuniaSin)/master.mpd?hdn
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Pesona)/master.mpd?hdntl=st=1794103847~exp=1794193847~acl=/Content/DASH/Live/channel(Pesona)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=38c5bf2748da348ca3626634793b72d33942f96fd9af1718ec68b56fca9cbbd7
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Pesona)/master.mpd?hdntl=st=1794323403~exp=1794413403~acl=/Content/DASH/Live/channel(Pesona)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=8be698af261995239bde2da7a4d31ea1f0f43a2bc921102f89d698aec33e9bd9
 
 #EXTINF:-1 tvg-id="239" tvg-name="SETI" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D9A91961-CCD2-48BA-A4FD-6EC1ECAF0AFC/0-16x9.png?width=530" group-title="Unifi TV",SETI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -243,7 +237,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Pesona)/master.mpd?hdntl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d267de2a8184683bd8de9ff6a761b2a:ff83fafbef57e24fc626a9f589ca1da9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Seti)/master.mpd?hdntl=st=1794103888~exp=1794193888~acl=/Content/DASH/Live/channel(Seti)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=310eefdbb7633f087f250d8fccbec9a939e14969a9ee323d19bf0486ab303889
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Seti)/master.mpd?hdntl=st=1794323559~exp=1794413559~acl=/Content/DASH/Live/channel(Seti)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=bf54fdbe1d474543d7996d7cc89cde8e1b3211051ef44ceeab424036b773203c
 
 #EXTINF:-1 tvg-id="302" tvg-name="Zee Thirai" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/DD728749-B762-4F91-81F8-EA1016F97EF3/0-16x9.png?width=530" group-title="Unifi TV",Zee Thirai
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -251,7 +245,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Seti)/master.mpd?hdntl=s
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd7282e920e5437a9b1f01bc6f81795c:99763370f0763b0f7119aab091cc70c8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(ZeeThi)/master.mpd?hdntl=st=1794103926~exp=1794193926~acl=/Content/DASH/Live/channel(ZeeThi)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=5a670a0458cc9bd4bb1f8096cdd3b47f6a982094876c43b860795c4152b17409
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(ZeeThi)/master.mpd?hdntl=st=1794323587~exp=1794413587~acl=/Content/DASH/Live/channel(ZeeThi)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=968250b8c0ef1f22de7792fbb3105d8b06147a04ea63235f6ac37632e35977d4
 
 #EXTINF:-1 tvg-id="303" tvg-name="Sony YAY!" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/BD814A07-3CF5-4686-B552-31FF782BB8F7/0-16x9.png?width=530" group-title="Unifi TV",Sony YAY!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -259,7 +253,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(ZeeThi)/master.mpd?hdntl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=582e9e382cb0495886afbabdbdb6fbf7:c0f550839b235443724cd007392b6e40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SonyYay)/master.mpd?hdntl=st=1794103960~exp=1794193960~acl=/Content/DASH/Live/channel(SonyYay)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=f87dc43810b16cd0b389ecddcab7c50cec964efcfa9047651a51b7a7d73a2ad6
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SonyYay)/master.mpd?hdntl=st=1794323622~exp=1794413622~acl=/Content/DASH/Live/channel(SonyYay)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=de5249854e3bd92f8a4043bf0fcc204ae4848b5f3cad0f3c1363833e17a6bc61
 
 #EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9A5A508C-BB3A-4139-8C2F-8B092336F192/0-16x9.png?width=530" group-title="Unifi TV",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -267,7 +261,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SonyYay)/master.mpd?hdnt
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBO)/master.mpd?hdntl=st=1794103999~exp=1794193999~acl=/Content/DASH/Live/channel(HBO)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=3c43ed0130834173f1e3985e97097a0ebefb06c513b6ccbcdd7cdad79a58c452
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBO)/master.mpd?hdntl=st=1794323695~exp=1794413695~acl=/Content/DASH/Live/channel(HBO)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=9566f443e6223d3227dafebd7838e0aa151227f9f940e141cf93bc815760ccd3
 
 #EXTINF:-1 tvg-id="402" tvg-name="HBO Hits" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/054D31F0-3639-4ADB-AB0D-9B8621E0190D/0-16x9.png?width=530" group-title="Unifi TV",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -275,7 +269,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBO)/master.mpd?hdntl=st
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBOH)/master.mpd?hdntl=st=1794104036~exp=1794194036~acl=/Content/DASH/Live/channel(HBOH)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=4d2e25e1d4f788c048d03e953dd2a198c6841059eac37cf4e26f7909f2eece90
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBOH)/master.mpd?hdntl=st=1794323731~exp=1794413731~acl=/Content/DASH/Live/channel(HBOH)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=d1e564826b36b884e7682e7204e870be1662a54d198ec31ec839d4196b26d595
 
 #EXTINF:-1 tvg-id="403" tvg-name="HBO Family" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/31780236-3056-4866-AE99-B3C33D65B073/0-16x9.png?width=530" group-title="Unifi TV",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -283,7 +277,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBOH)/master.mpd?hdntl=s
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBOF)/master.mpd?hdntl=st=1794104073~exp=1794194073~acl=/Content/DASH/Live/channel(HBOF)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=df1d60aa5917c5cb8db1b4deda2b9e7bf10725a4a26ad9b2e17bd53abb41b347
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBOF)/master.mpd?hdntl=st=1794323767~exp=1794413767~acl=/Content/DASH/Live/channel(HBOF)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=e6f6a486ce31a2923b459ab9be2f4f66a5050b084d6e4909fb267c3dc23a6a82
 
 #EXTINF:-1 tvg-id="405" tvg-name="Cinemax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/479F46FE-15C6-498A-92C1-8E583B79E487/0-16x9.png?width=530" group-title="Unifi TV",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -291,7 +285,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBOF)/master.mpd?hdntl=s
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Cinemax)/master.mpd?hdntl=st=1794104112~exp=1794194112~acl=/Content/DASH/Live/channel(Cinemax)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=8e0722c36044583a7c6ef41157e68f695ce2c5b442c3a54679194a9b7a885716
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Cinemax)/master.mpd?hdntl=st=1794323820~exp=1794413820~acl=/Content/DASH/Live/channel(Cinemax)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=2ef8a51b52e2ad0fba88c4311cc651b847dbe2e8fab117aa75117380cc02d0a4
 
 #EXTINF:-1 tvg-id="451" tvg-name="Warner TV HD" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7C14DEDF-68C8-447B-B1D7-5CB170AF3CF3/0-16x9.png?width=530" group-title="Unifi TV",Warner TV HD 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -299,7 +293,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Cinemax)/master.mpd?hdnt
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f4ea7be45af4275a8d76845fb19dba5:b02208ea61a2cdbf5b09440bc3157f04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(WarnerTV)/master.mpd?hdntl=st=1794104166~exp=1794194166~acl=/Content/DASH/Live/channel(WarnerTV)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=a5f723c65d178796298582a3c257c7bc53ed094caf0dc81be340e87882011963
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(WarnerTV)/master.mpd?hdntl=st=1794323862~exp=1794413862~acl=/Content/DASH/Live/channel(WarnerTV)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=67df7518f8b327bcaaaafb93dd4c6d04fbdf8216f3ee4b100e8338a970aa6036
 
 #EXTINF:-1 tvg-id="472" tvg-name="Animax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D40AFC4A-BD3D-46B2-B1F4-78B483796A2A/0-16x9.png?width=530" group-title="Unifi TV",Animax
 #KODIPROP:inputstream=inputstream.adaptive
@@ -307,7 +301,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(WarnerTV)/master.mpd?hdn
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Animax)/master.mpd?hdntl=st=1794104208~exp=1794194208~acl=/Content/DASH/Live/channel(Animax)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=cabddbeaece25d6c5f400f83a8960c199f8f333d771789d07deafc5a2f828529
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Animax)/master.mpd?hdntl=st=1794323927~exp=1794413927~acl=/Content/DASH/Live/channel(Animax)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=5d46fdde98e88a78b85dba36b4aac33c7258d1e6324b135e1043b00f9e8c0153
 
 #EXTINF:-1 tvg-id="473" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/3A21C3E7-8514-4978-BEAA-6EE4DAB2C5B8/0-16x9.png?width=530" group-title="Unifi TV",ROCK Entertainment
 #KODIPROP:inputstream=inputstream.adaptive
@@ -315,7 +309,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Animax)/master.mpd?hdntl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6bbe30dc7d7949849ba0c4f2abb2a3ff:9eb316564523faecf7d5b2fef8081007
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockEnt)/master.mpd?hdntl=st=1794104254~exp=1794194254~acl=/Content/DASH/Live/channel(RockEnt)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=f8a6051b031277ef8b5f8640db942dd62c4b10a7800bb63ea053458dbf08dbd0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockEnt)/master.mpd?hdntl=st=1794323968~exp=1794413968~acl=/Content/DASH/Live/channel(RockEnt)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=e79ad8e74331828491b2a08d2c856f7c268fa17f8a016f5abb502de97e89607a
 
 #EXTINF:-1 tvg-id="474" tvg-name="ROCK ACTION" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1EEE031E-E97D-468E-A503-ECE1F41E3AC0/0-16x9.png?width=530" group-title="Unifi TV",ROCK Action
 #KODIPROP:inputstream=inputstream.adaptive
@@ -323,7 +317,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockEnt)/master.mpd?hdnt
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64cf911505e42c8aa17869ae51206ba:2f3f5f1c609c1120216d4d72377d1ac2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockAction)/master.mpd?hdntl=st=1794104298~exp=1794194298~acl=/Content/DASH/Live/channel(RockAction)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=ad6321ad628e26cf4a63ab2197401ca7881ab46780838be04c211f2c93e68284
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockAction)/master.mpd?hdntl=st=1794324014~exp=1794414014~acl=/Content/DASH/Live/channel(RockAction)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=dd51938229a2028b8360253f47e2b27a9ad53a37c1a5cbbd2beffc2ab60b56ec
 
 #EXTINF:-1 tvg-id="550" tvg-name="DreamWorks HD" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C80E3DCC-64D5-4447-991B-E2E2998E6DEF/0-16x9.png?width=530" group-title="Unifi TV",Dreamworks HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -331,7 +325,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockAction)/master.mpd?h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Dreamworks)/master.mpd?hdntl=st=1794104347~exp=1794194347~acl=/Content/DASH/Live/channel(Dreamworks)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=275dd721c64b1d42ccf4b4a407bc7852c060ee20b8d29faf5fdaf1b54c6f89c0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Dreamworks)/master.mpd?hdntl=st=1794331927~exp=1794421927~acl=/Content/DASH/Live/channel(Dreamworks)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=fbb3dbfa1922ad7b02c9de8f74d5f922213542255e34113638ea21acac5352f1
 
 #EXTINF:-1 tvg-id="553" tvg-name="Cbeebies HD" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9784F0AC-A9BC-4C93-8D22-023403A38B7B/0-16x9.png?width=530" group-title="Unifi TV",CBeebies HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -339,8 +333,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Dreamworks)/master.mpd?h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Cbeebies)/master.mpd?hdntl=st=1794104397~exp=1794194397~acl=/Content/DASH/Live/channel(Cbeebies)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=05f5b518067a2e7d6862588aa76be2f0e147c4b9157bfe503a2d0d356c842ba4
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Cbeebies)/master.mpd?hdntl=st=1794331977~exp=1794421977~acl=/Content/DASH/Live/channel(Cbeebies)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=4ce69f8a8070efa5e30205927769ba05c57ffbde08115c3c9a5d43160c9cc507
 
 #EXTINF:-1 tvg-id="612" tvg-name="EURONEWS" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/98415BAC-8D06-4614-8459-7C0E306DA785/0-16x9.png?width=530" group-title="Unifi TV",Euronews
 #KODIPROP:inputstream=inputstream.adaptive
@@ -348,8 +341,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Cbeebies)/master.mpd?hdn
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=67f4948cdafa46ebbd71eae875237023:9dc5b14da7c3c0d89d63bd9242c2dab0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(EuroN)/master.mpd?hdntl=st=1794104439~exp=1794194439~acl=/Content/DASH/Live/channel(EuroN)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=d5864160e60d6cceffe74349cd1a03443e2cb723dfd1c7dcf721908540ba6dc2
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(EuroN)/master.mpd?hdntl=st=1794332023~exp=1794422023~acl=/Content/DASH/Live/channel(EuroN)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=a708323f29780bc6aa989410e90a97595027a6e622d40e35ed59f57096e387c2
 
 #EXTINF:-1 tvg-id="633" tvg-name="Parlimen Malaysia" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85286732-64A6-4885-B02A-ED0383F4319D/0-16x9.png?width=530" group-title="Unifi TV",Parlimen Malaysia
 #KODIPROP:inputstream=inputstream.adaptive
@@ -357,7 +349,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(EuroN)/master.mpd?hdntl=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dce6cb3389014684b2abc82f6a478bff:086c0ad70d90bbd9e39478dd0c2460b0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(parlimen)/master.mpd?hdntl=st=1794104484~exp=1794194484~acl=/Content/DASH/Live/channel(parlimen)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=f34cefa94a7f0a0479b1467beea2bbd1444611e296c50fe5eed58f1f72c9465f
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(parlimen)/master.mpd?hdntl=st=1794332062~exp=1794422062~acl=/Content/DASH/Live/channel(parlimen)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=c5906816ca4ef56428f752e1864da177884107814aabf35015e1e29a199daa28
 
 #EXTINF:-1 tvg-id="643" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/83E223EF-AE4A-4E3F-A7D9-07A33B4C3A20/0-16x9.png?width=530" group-title="Unifi TV",NHK WORLD-JAPAN
 #KODIPROP:inputstream=inputstream.adaptive
@@ -365,7 +357,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(parlimen)/master.mpd?hdn
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1e473b4fac4c13b6bd73014a14df4e:602617c77b787b240308567f1f04df20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(NHK)/master.mpd?hdntl=st=1794104530~exp=1794194530~acl=/Content/DASH/Live/channel(NHK)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=59578afd2ad4b66aaf921eee5f7e5833a42bbcd8fb1ced80adf8b8661f6b7aac
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(NHK)/master.mpd?hdntl=st=1794332104~exp=1794422104~acl=/Content/DASH/Live/channel(NHK)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=f0116bf599d220ee42395f51568bc9b7b5ab19d8e35b830dbc06f193e9b7476b
 
 #EXTINF:-1 tvg-id="701" tvg-name="Unifi Sports 1" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/28EEC6E6-98AD-44E7-8CF3-101111099742/0-16x9.png?width=530" group-title="Unifi TV",unifi Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -373,7 +365,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(NHK)/master.mpd?hdntl=st
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(unifi1)/master.mpd?hdntl=st=1794104573~exp=1794194573~acl=/Content/DASH/Live/channel(unifi1)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=6d1174c1765cbfaff8931c052fa94816a8c3af519853e9b362b4cafe6e8332f4
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(unifi1)/master.mpd?hdntl=st=1794332342~exp=1794422342~acl=/Content/DASH/Live/channel(unifi1)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=215d4b77171bf2f03a467c335a6a7d24c4ae11561578f6cb3df35b3e7e812f35
 
 #EXTINF:-1 tvg-id="706" tvg-name="SPOTV" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/75E45C13-621B-44EB-86F1-35C8C3DCB7E1/0-16x9.png?width=530" group-title="Unifi TV",SPOTV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -381,7 +373,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(unifi1)/master.mpd?hdntl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(spoTV)/master.mpd?hdntl=st=1794104619~exp=1794194619~acl=/Content/DASH/Live/channel(spoTV)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=d1825eb695752195325b376dca4659722ec63ec799c940960b18f3b2a0c6e35c
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(spoTV)/master.mpd?hdntl=st=1794332381~exp=1794422381~acl=/Content/DASH/Live/channel(spoTV)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=c0d19057e2711aba442177e391f31bae5314e1fc5935a6b24d30672bcec9d536
 
 #EXTINF:-1 tvg-id="707" tvg-name="SPOTV2" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6E16A3C6-3131-4199-B8F2-467F023E14BE/0-16x9.png?width=530" group-title="Unifi TV",SPOTV2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -389,7 +381,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(spoTV)/master.mpd?hdntl=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(spoTV2)/master.mpd?hdntl=st=1794104655~exp=1794194655~acl=/Content/DASH/Live/channel(spoTV2)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=d4ba724228f35129f08fb5e916019690b14e73db9f970971efd14ef7ce8ee0e6
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(spoTV2)/master.mpd?hdntl=st=1794332423~exp=1794422423~acl=/Content/DASH/Live/channel(spoTV2)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=b3e0051d2d5fe87f8768d757c4b2ca181706b5c258f658b7fdd4e8e9fd405e69
 
 #EXTINF:-1 tvg-id="708" tvg-name="beIN SPORTS 1" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=530" group-title="Unifi TV",beIN SPORTS 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -397,7 +389,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(spoTV2)/master.mpd?hdntl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein1)/master.mpd?hdntl=st=1794104705~exp=1794194705~acl=/Content/DASH/Live/channel(Bein1)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=57f5444a083e042080d7725dfbe6a60a3a3853518bb25a302ff7a05c404a4aa5
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein1)/master.mpd?hdntl=st=1794332460~exp=1794422460~acl=/Content/DASH/Live/channel(Bein1)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=7cfd1dab0ac8f5d2b39c5435c47428d23fff1a885e175cae97ef5a0ffad620d5
 
 #EXTINF:-1 tvg-id="709" tvg-name="beIN SPORTS 2" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=530" group-title="Unifi TV",beIN SPORTS 2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -405,7 +397,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein1)/master.mpd?hdntl=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein2)/master.mpd?hdntl=st=1794104746~exp=1794194746~acl=/Content/DASH/Live/channel(Bein2)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=97da995ad543880a9d95e2f1a2028c5ec176925d9af8cf4faa97bb2d530c34a1
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein2)/master.mpd?hdntl=st=1794332285~exp=1794422285~acl=/Content/DASH/Live/channel(Bein2)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=8e33498a04bfb914ca83c50fae85abb266a5f03a2ad923cb36c1ca907b8a7ff5
 
 #EXTINF:-1 tvg-id="710" tvg-name="beIN SPORTS 3" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/03E8ED19-B3A5-44F1-9176-4EC1FD68B0A1/0-16x9.png?width=530" group-title="Unifi TV",beIN SPORTS 3
 #KODIPROP:inputstream=inputstream.adaptive
@@ -413,7 +405,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein2)/master.mpd?hdntl=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein3)/master.mpd?hdntl=st=1794104787~exp=1794194787~acl=/Content/DASH/Live/channel(Bein3)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=1fb7c91899511997af6e24513b078d0f09d15798847e126850298d04491371bd
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein3)/master.mpd?hdntl=st=1794332241~exp=1794422241~acl=/Content/DASH/Live/channel(Bein3)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=6e9395d7c06f96662c53f56d2f5d2eb601b07a36bc7d4353ba76e42bd572dbc7
 
 #EXTINF:-1 tvg-id="711" tvg-name="beIN SPORTS 4" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C0FFC072-D51A-4676-B232-F1C06BFA87D1/0-16x9.png?width=530" group-title="Unifi TV",beIN SPORTS 4
 #KODIPROP:inputstream=inputstream.adaptive
@@ -421,7 +413,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein3)/master.mpd?hdntl=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein4)/master.mpd?hdntl=st=1794104833~exp=1794194833~acl=/Content/DASH/Live/channel(Bein4)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=4ef99549e6cd34a3d697c52bcff404f0000b90d1b6b230ebbd0ae21e459e60f0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein4)/master.mpd?hdntl=st=1794332199~exp=1794422199~acl=/Content/DASH/Live/channel(Bein4)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=0f57885531b9d9668eb66fb3e8ba36c9bd3065a72917f46820c3dad7be230231
 
 
 ################################################################# Sooka #################################################################
