@@ -4669,8 +4669,6 @@ https://fs-e6b287.vincdn.net/stream/r99j36edc078de/jCsKv51HURJYUF1WuqH_Qg/179424
 https://fs-80155e.vincdn.net/stream/9qw764j4cp03y2/-IhyRY7gZaTS9Q1ULO9QBQ/1794245593
 #EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VIVAMAX",Iskolar (2025)
 https://fs-c30b01.vincdn.net/stream/v2o1x56yhddj52/n3HXoYt2vR1YI0F0wzW3dw/1794259118
-#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VIVAMAX",Desisyon (2026)
-https://fs-af093e.vincdn.net/stream/2qq4r66puyd5pr/hdL1ZOF3Lo8xwQpqUM9NnA/1794259380
 #EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VIVAMAX",Isang Gabi Kay Bossing (2026)
 https://fs-554cd9.vincdn.net/stream/5qq3dvy4bwjq8k/Fa2yB_MYEzqRbWgm8JiQhg/1794259460
 #EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VIVAMAX",The Sign (2026)
@@ -4693,9 +4691,13 @@ https://hls.khflix.top/Dalisay/index.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/wp-content/uploads/2026/01/Condom.jpg" group-title="▶ VIVAMAX",Condom (2026)
 https://hls.khflix.top/Condom/index.m3u8
 
+#EXTVLCOPT:http-referrer=https://seehd24.com/
+#EXTINF:-1 type="movie" tvg-logo="https://seehd24.com/images/Desisyon.jpg" group-title="▶ VIVAMAX",Desisyon (2026)
+https://94.131.217.192/e/1794296936/b4Ksz_LxAMBjGi0RVd7JkQ/bjrpn3ib/dl/rig3l/720p?n=Desisyon_2026_SINEMAX_720p_MovieKHHD.biz%20-%20720p.mp4
 
+#EXTVLCOPT:http-referrer=https://seehd24.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mKvuwi2ttmzBxjW4QA5b3JlYz9K.jpg" group-title="▶ VIVAMAX",Bida Max (2026)
-https://fs-af093e.vincdn.net/stream/w22rw393ig0wd7/h4fjElPnOlsRiEIcUGuGFw/1794293927
+https://94.131.217.192/e/1794297151/EPGL7IOVPD2HBfoc_rv4ug/jjenrcne/dl/vxu1l/720p?n=Bida.Max.2026.1080p.VMAX.MovieKHHD.biz%20-%20720p.mp4
 
 #EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vZZUyABlSl1281IRrALODuOTRVN.jpg" group-title="▶ VIVAMAX",House Tour (2021)
