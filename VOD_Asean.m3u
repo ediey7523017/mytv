@@ -20,7 +20,6 @@ https://stream.playcdn.de/playlist/49313fc6065d840dc26c67de424f844f/1/0.m3u8?x=1
 https://hanerix.com/stream/zGAnytecr9swd3WzglvDxg/kjhhiuahiuhgihdf/1794247645/76326149/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg" group-title="▶ VOD KOREAN",Hope (2026)
-https://playerx.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/UZmb0XvhZ7xobZcgDDF2fQ/qtd/lodt99e8/e56pdf/tt/index-f2-v1-a1.m3u8?v=1766826492
 https://pixeldrain.com/api/file/6FFi1qaU?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2GA927wmStO5PJY7yetJOpcJTsd.jpg" group-title="▶ VOD KOREAN",Lost (2025)
@@ -1119,19 +1118,24 @@ https://47229.ohflix.workers.dev/0:/x32/NewVersion/48/Gifted%202014.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zCizXVuPbEQxECnB5uh7go4OTyV.jpg" group-title="▶ VOD KOREAN",Le Grand Chef (2007)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Le%20Grand%20Chef%20(2007)-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/axnvzgU5O02tYGBrMfZGO2AqjEJ.jpg" group-title="▶ VOD KOREAN",Sugar (2026)
-https://stream.playcdn.de/playlist/f6f0585f2746cc340121ecbd7184ddbc/2/480.m3u8?x=1
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wwvr6adqgIW2UIU78CDAHa3IKgg.jpg" group-title="▶ VOD KOREAN",Lucid Dream (2017)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Lucid%20Dream%20(2017-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rzv8uPvgRmOGZKmVRthn4Qqu7FR.jpg" group-title="▶ VOD KOREAN",Split (2016)
-https://stream.playcdn.de/playlist/0bcc1b6e76727c7fd2383b1abdc71ae7/3/480.m3u8?x=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bOl0rJ86WWxVYlQlGttHhHuYiPQ.jpg" group-title="▶ VOD KOREAN",Salmokji Whispering Water (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Salmokji%20Whispering%20Water%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/iW7VspFI5yJxFZImQWZiNGuATaU.jpg" group-title="▶ VOD KOREAN",Hansel and Gretel (2007)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Hansel%20&%20Gretel%20(2007)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPJIS_IVP_LAND_432x243_7E434_20241021_92011.jpg" group-title="▶ VOD KOREAN",Exhuma (2024)
 https://stream.playcdn.de/playlist/9c22520ca6320733621164cd05c46d0c/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/eg4dlmdl05ln4b4xn2dp3/exhuma.mp4?rlkey=kj6km3p581284exr46ul63rvf&st=c0pjehv2&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bOl0rJ86WWxVYlQlGttHhHuYiPQ.jpg" group-title="▶ VOD KOREAN",Salmokji Whispering Water (2026)
-https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Salmokji%20Whispering%20Water%202026-1-720.mp4
-https://www.dropbox.com/scl/fi/z6v99l7cpdmi5yy6kxp0g/Salmokji-Whispering-Water-2026.mp4?rlkey=z2d3de30nrbx70v02x4lnzh2f&st=x1wghonm&dl=1
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/axnvzgU5O02tYGBrMfZGO2AqjEJ.jpg" group-title="▶ VOD KOREAN",Sugar (2026)
+https://stream.playcdn.de/playlist/f6f0585f2746cc340121ecbd7184ddbc/2/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rzv8uPvgRmOGZKmVRthn4Qqu7FR.jpg" group-title="▶ VOD KOREAN",Split (2016)
+https://stream.playcdn.de/playlist/0bcc1b6e76727c7fd2383b1abdc71ae7/3/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3CnVA1jAA64Q3qNVAW8DekCu19b.jpg" group-title="▶ VOD KOREAN",The Kings Warden (2026)
 https://stream.playcdn.de/playlist/KREnKTZUACAwNRIibgJmanRVHgsHPTseGg5Ge3YFMG51GQ/41/480.m3u8
@@ -1160,9 +1164,6 @@ https://www.dropbox.com/scl/fi/ytv5vkyh7555c0g0f15t4/Big-Deal-2025.mp4?rlkey=2eg
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zfMh6hJt9tv25rE0HMhlEpekQTa.jpg" group-title="▶ VOD KOREAN",The Informant (2025)
 https://stream.playcdn.de/playlist/KB0mICIbGDYtP1olLVY5Ki8ZJzpoS0dzd3wgCQF0GgcaJ3gvdUtDcyEz/40/480.m3u8
 https://www.dropbox.com/scl/fi/xkputfmo6h1br7zqobdes/The-Informant-2025.mp4?rlkey=uoc7zsvvhar7glo9vedwo2pm3&st=4vjr2ivl&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/iW7VspFI5yJxFZImQWZiNGuATaU.jpg" group-title="▶ VOD KOREAN",Hansel and Gretel (2007)
-https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Hansel%20&%20Gretel%20(2007)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3ppxP6yFoKxkA3jQkDdv3E9u1tc.jpg" group-title="▶ VOD KOREAN",Nameless Gangster (2012)
 https://stream.playcdn.de/playlist/1e6530f5a8e681a14d82cdd121c4e7f1/4/480.m3u8?x=1
@@ -1641,7 +1642,7 @@ https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Pee%20N
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Pee%20Nak%205%202026-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/5gY0EPvTdeGjEEIQ7337ZxHXV55.jpg" group-title="▶ VOD ASEAN",Pee Mak (2013)
-https://stream.playcdn.de/playlist/a87436063e82c93404fac2652839dff1/3/480.m3u8?x=1
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Pee%20Mak%20Phrakanong%202013-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1N5lbL2x4Bz7YBjEWtu34VRBKCe.jpg" group-title="▶ VOD ASEAN",Double Happiness (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Double%20Happiness%202026-1-720.mp4
@@ -4657,6 +4658,10 @@ https://media-eu.cloudbox.ph/bibamax/Araro%20S01e03%20(2023)%20-%20720p.mp4
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/r2zkLi1G9RLWYvJdFV6Hiv3PZGA.jpg" group-title="▶ VIVAMAX",Araro (2023) E04
 https://media-eu.cloudbox.ph/bibamax/Araro%20S01e04%20(2023)%20-%20720p.mp4
 
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w1280/7N7PjpihVUeDm1jO6I8b2Fiio8t.jpg" group-title="▶ VIVAMAX",Married Woman Jump! (2021)
+https://hugh.cdn.rumble.cloud/video/fwe2/56/s8/2/8/j/C/8/8jC8A.aaa.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VIVAMAX",Juan Makasalanan (2026)
 https://fs-c30b01.vincdn.net/stream/w22jng2xf5jyrd/lPntAdSoHhTNRutcHYw1Iw/1794244017
 #EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VIVAMAX",Chef (2026)
@@ -4673,10 +4678,11 @@ https://fs-c30b01.vincdn.net/stream/v2o1x56yhddj52/n3HXoYt2vR1YI0F0wzW3dw/179425
 https://fs-554cd9.vincdn.net/stream/5qq3dvy4bwjq8k/Fa2yB_MYEzqRbWgm8JiQhg/1794259460
 #EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VIVAMAX",The Sign (2026)
 https://fs-0cf4b6.vincdn.net/stream/3q5dn7g0towv6d/m4b7UtcTmkRYe3z32Xsk4A/1794259917
+
 #EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VIVAMAX",Fake Sister (2026)
-https://fs-972f29.vincdn.net/stream/19x97p1pf1w2y3/43ORHmrgXluI5VQNk_1OQg/1794261157
+https://203.188.166.132/e/1794298237/81T_eBZo5NbXPkO0CZbkqA/bjrpn3ib/dl/n8wyk/1080p?n=Fake.Sister.2026.SINEMAX.1080p.MovieKHHD.biz.mp4%20-%201080p.mp4
 #EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VIVAMAX",Pool Boy (2026)
-https://fs-443d69.vincdn.net/stream/2qoo5y1ocwy19n/2CyfNwOql-vEtmp6GqLM-A/1794261227
+https://94.131.217.192/e/1794298310/W62_7irg5nJyDH9qwV7kOg/f3lnd6fm/dl/u5ahh/1080p?n=Pool.Boy.2026.1080p.SMAX.MovieKHHD.biz%20-%201080p.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/wp-content/uploads/2026/01/Paldo.jpg" group-title="▶ VIVAMAX",Paldo (2026)
 https://hls.khflix.top/Paldo/index.m3u8
