@@ -3,6 +3,9 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg" group-title="▶ VOD BOLLYWOOD",Vibe (2026)
+https://pixeldrain.com/api/file/T2GEndpN?download
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fygsmzrKBGV3O4ky6l26wKF8QBA.jpg" group-title="▶ VOD BOLLYWOOD",The Vvaan (2026)
 https://pixeldrain.com/api/file/zRCVXw9a?download
 
@@ -1142,11 +1145,9 @@ https://www.dropbox.com/scl/fi/qgy7vtckhcgfqbqcx445h/Dhadkan-2000.mp4?rlkey=h550
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/alALytPcaZyQkzOjnRgHMSRv8fq.jpg" group-title="▶ VOD BOLLYWOOD",Kaho Naa... Pyaar Hai (2000)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil6/Kaho%20Na%20Pyaar%20Hai%20(2000)%20HDRip.mkv
-https://www.dropbox.com/scl/fi/cwpikzzdv7du3dczkq1y3/Kaho-Naa...-Pyaar-Hai-2000.mp4?rlkey=lev1u4fuz5cfhtmi8uzh7xa3e&st=bigx0yyf&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nbn9Hxj7GEBxrZ8biAfIjhYSs1Y.jpg" group-title="▶ VOD BOLLYWOOD",Mann (1999)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/Mann%201999-1-720.mp4
-https://www.dropbox.com/scl/fi/0xqoay4r6hggmxnvn675p/Mann.mp4?rlkey=5g0tfi5nglnkm77ejiwjydkth&st=zc0ygp6q&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8HOqipGorQ7eYDJk7UOkPa5lw8o.jpg" group-title="▶ VOD BOLLYWOOD", Tiger 3 (2023)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil32/z.Tiger%203%20(2023)-1-720.mp4
@@ -1157,26 +1158,21 @@ https://47227.ohflix.workers.dev/0:/x21/Tamil-Hindi/Tamil9/2/Tiger%20Zinda%20Hai
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9qmIOiKLdlIRmdvPV6UmbUx9WFn.jpg" group-title="▶ VOD BOLLYWOOD",Ek Tha Tiger (2012)
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil20/Ek%20Tha%20Tiger%20(2012).mp4
-https://www.dropbox.com/scl/fi/zl9ax9u297dy4xb0n0kqs/Ek-Tha-Tiger-2012.mp4?rlkey=qr7029sd8un3awo6z0ta7nx4u&st=8vu0mmxs&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/j77NdrLrVhyt0e0enEG0ZzWP2v6.jpg" group-title="▶ VOD BOLLYWOOD",Kyon Ki (2005)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/tamil37/Kyon%20Ki%20(2005)-1-720.mp4
-https://www.dropbox.com/scl/fi/ivvfa0z8hlxpr4lujpkzl/Kyon-Ki...-2005.mp4?rlkey=dtq1jzylncc0vucxxeqd1csau&st=hz6s6hbf&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg" group-title="▶ VOD BOLLYWOOD",Bajrangi Bhaijaan (2015)
-https://stream.playcdn.de/playlist/5ce11e0ff7c535bb6c33fb129d7a96f3/5/480.m3u8?x=1
-https://www.dropbox.com/scl/fi/pi83gawmdzxlm0e8zhmlk/Bajrangi-Bhaijaan-2015.mp4?rlkey=25s6x2j9nwpthu61dx4yuaqun&st=9v3ktpxv&dl=1
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil6/Bajrangi%20Bhaijaan%20(2015).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg" group-title="▶ VOD BOLLYWOOD",Bajrangi Bhaijaan (2015)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil6/Bajrangi%20Bhaijaan%20(2015).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/66CpsF2lrolmsHI2BgZH16Cb7EB.jpg" group-title="▶ VOD BOLLYWOOD",Har Dil Jo Pyar Karega (2000)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil6/Har%20Dil%20Jo%20Pyar%20Karega%20(2000)%20HD.mkv
-https://www.dropbox.com/scl/fi/amcusbpaspgwh2avwj17x/Har-Dil-Jo-Pyaar-Karega.mp4?rlkey=lx5wmaactgi3mv3rls6xiosy1&st=mk6g4v1f&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/lwanyGNvbpMO7AzRj18qhO46bcs.jpg" group-title="▶ VOD BOLLYWOOD",Chori Chori Chupke Chupke (2001)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil34/Chori%20Chori%20Chupke%20Chupke%20(2001)-1-720.mp4
-https://www.dropbox.com/scl/fi/sxrglh6uiz4k9lvyr8g7t/Chori-Chori-Chupke-Chupke.mp4?rlkey=rotqe5vk47czxo83rurdxlzbi&st=e4oedkbb&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/k5JRtA6Np3n0nTr11QK6Pt9gm4r.jpg" group-title="▶ VOD BOLLYWOOD",Saawariya (2007)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil33/Saawariya%20(2007).mp4
@@ -1239,17 +1235,6 @@ https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil39/Khakee%20(2004).mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/9tVt6N7vgIFnf8g6NzaqfjkQObr.jpg" group-title="▶ VOD BOLLYWOOD",Aitraaz (2004)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Aitraaz%20(2004).mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hSpzMrohhzT7EQcvMIpXizP2hx4.jpg" group-title="▶ VOD BOLLYWOOD",Shaadi Mein Zaroor Aana (2017)
-https://stream.playcdn.de/playlist/1b459c851341497789bb21198678c60e/4/480.m3u8?x=1
-https://www.dropbox.com/scl/fi/a3v1nzd2wqe02g8b8ho0i/Shaadi-Mein-Zaroor-Aana.mp4?rlkey=y33vjjpmiyk2wz1pvgmounmej&st=phm6vn01&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hSpzMrohhzT7EQcvMIpXizP2hx4.jpg" group-title="▶ VOD BOLLYWOOD",Shaadi Mein Zaroor Aana (2017)
-https://www.dropbox.com/scl/fi/cvwfplvp6tuw51ltv7dci/Shaadi-Mein-Zaroor-Aana-2017.mp4?rlkey=w4obrd2i9qedwbjjzd3gx39xw&st=0c8u0ghm&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8c1HSfaS0DujEThLsZmN5tUyL47.jpg" group-title="▶ VOD BOLLYWOOD",Ek Rishtaa (2001)
-https://stream.playcdn.de/playlist/5dcf7a74a38d5fc736699e5619c368e1/2/480.m3u8?x=1
-https://www.dropbox.com/scl/fi/rt9o8onqwrj6b0j7sk3x2/Ek-Rishtaa.mp4?rlkey=05ynl5f8as2wev3qstbt1etd3&st=g46z6h52&dl=1
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xILMQFZMQdJq3D7J6TuLrW6A3W5.jpg" group-title="▶ VOD BOLLYWOOD",Marjaavaan (2019)
 https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Marjaavaan%202019-1-720.mp4
 
@@ -1275,6 +1260,15 @@ https://www.dropbox.com/scl/fi/3lgl6kvmbbdycocobqs2l/Mujhse-Dosti-Karoge.mp4?rlk
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/szT2yDKj5MUNBovMS1l69Boh8o0.jpg" group-title="▶ VOD BOLLYWOOD",Kasoor (2001)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Kasoor%20(2001).mp4
 https://www.dropbox.com/scl/fi/72w9puocuwppbmzumulgf/Kasoor-2001.mp4?rlkey=jsydau74vnazsie17mmgd0cvm&st=6ss19lxn&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hSpzMrohhzT7EQcvMIpXizP2hx4.jpg" group-title="▶ VOD BOLLYWOOD",Shaadi Mein Zaroor Aana (2017)
+https://stream.playcdn.de/playlist/1b459c851341497789bb21198678c60e/4/480.m3u8?x=1
+https://www.dropbox.com/scl/fi/a3v1nzd2wqe02g8b8ho0i/Shaadi-Mein-Zaroor-Aana.mp4?rlkey=y33vjjpmiyk2wz1pvgmounmej&st=phm6vn01&dl=1
+https://www.dropbox.com/scl/fi/cvwfplvp6tuw51ltv7dci/Shaadi-Mein-Zaroor-Aana-2017.mp4?rlkey=w4obrd2i9qedwbjjzd3gx39xw&st=0c8u0ghm&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8c1HSfaS0DujEThLsZmN5tUyL47.jpg" group-title="▶ VOD BOLLYWOOD",Ek Rishtaa (2001)
+https://stream.playcdn.de/playlist/5dcf7a74a38d5fc736699e5619c368e1/2/480.m3u8?x=1
+https://www.dropbox.com/scl/fi/rt9o8onqwrj6b0j7sk3x2/Ek-Rishtaa.mp4?rlkey=05ynl5f8as2wev3qstbt1etd3&st=g46z6h52&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yfuUcZZqQ2FBPTTxVaU0ir2qt8U.jpg" group-title="▶ VOD BOLLYWOOD",Jurm (2005)
 https://www.dropbox.com/scl/fi/ayyyr6k9rlmmewmr2mjwe/Jurm-2005.mp4?rlkey=5e52mcimjo94amr0ekdku283r&st=cn9m2qo3&dl=1
