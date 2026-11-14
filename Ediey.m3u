@@ -7,93 +7,98 @@
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="TV1.rtm" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-title="RTM Klik",TV1
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/DASH/tv1.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="TV2.rtm" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png" group-title="RTM Klik",TV2
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Berita RTM.rtm" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/Berita_Trans.png" group-title="RTM Klik",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/berita/DASH/berita.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Okey.rtm" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/okey_Trans.png" group-title="RTM Klik",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Sukan RTM.rtm" tvg-logo="https://i.ibb.co/5hmZPbKP/RTM-Sukan-Plus-2026.webp" group-title="RTM Klik",Sukan+
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="RTM World.rtm" tvg-logo="https://i.ibb.co/rK9mMnCC/rtmworld.png" group-title="RTM Klik",RTM World
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/world/DASH/world.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_Trans.png" group-title="RTM Klik",Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/rakyat/DASH/rakyat.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Dewan Negara.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDN_Trans.png" group-title="RTM Klik",Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/negara/DASH/negara.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Snap.rtm" tvg-logo="https://i.ibb.co/NdTzXHHL/SNAP-CHANNEL.png" group-title="RTM Klik",RTM Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b1096000_slENG.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Lead.rtm" tvg-logo="https://i.ibb.co/nMTKGhFL/LEAD-CHANNEL.png" group-title="RTM Klik",RTM Lead
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b1096000_slENG.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Apetito.rtm" tvg-logo="https://i.ibb.co/zTqC2v5n/APETITO-CHANNEL.png" group-title="RTM Klik",RTM Apetito
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b1096000_slENG.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Fitrah.rtm" tvg-logo="https://i.ibb.co/MyJr691D/FITRAH-CHANNEL.png" group-title="RTM Klik",RTM Fitrah
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b1096000_slENG.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="JR..rtm" tvg-logo="https://i.ibb.co/1tsThQWk/JR-CHANNEL.png" group-title="RTM Klik",RTM Junior
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b1096000_slENG.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="ROLL.rtm" tvg-logo="https://i.ibb.co/mV5KGGM3/ROLL-CHANNEL.png" group-title="RTM Klik",RTM Roll
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b1096000_slENG.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Aura.rtm" tvg-logo="https://i.ibb.co/35WqBVxk/AURA-CHANNEL.png" group-title="RTM Klik",RTM Aura
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b1096000_slENG.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="FIFA.tonton" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6576795:378:CHANNEL:IMAGE:png&w=400" group-title="RTM Klik",FIFA+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 
 ############################################################### MYTV Mana-Mana ################################################################
@@ -101,75 +106,57 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b1096000_slENG.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/c30bcb6d-8671-4fbf-8b82-9b322c65fadb/logo.jpg" group-title="MYTV Mana-Mana",Siara TV
 https://cuwf8jayq1.tenbytecdn.com/live/siaratv/abr/siaratv_1080p/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/3d0a1579-dd79-453b-b4f6-3c861f4d35da/logo.png" group-title="MYTV Mana-Mana",USIM TV
 https://cuwf8jayq1.tenbytecdn.com/live/usimtv/abr/usimtv_1080p/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/b9fcb829-bb93-46dd-9627-8f81b378589d/logo.png" group-title="MYTV Mana-Mana",MySports
 https://cuwf8jayq1.tenbytecdn.com/live/mysport/abr/mysport_1080p/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/48967da4-9597-48eb-8a8b-d91d68cad3ff/logo.png" group-title="MYTV Mana-Mana",Free Movies
-https://cuwf8jayq1.tenbytecdn.com/live/freemovies/abr/freemovies_1080p/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.mana2.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/784dbb7e-ddd3-4183-8914-1983291524a3/logo.png" group-title="MYTV Mana-Mana",TV IKIM
 https://cuwf8jayq1.tenbytecdn.com/live/tvikim/abr/tvikim_1080p/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/8c00c624-d7aa-4828-8abe-b0665ebf5772/logo.png" group-title="MYTV Mana-Mana",Selangor TV
 https://cuwf8jayq1.tenbytecdn.com/live/selangortv/abr/selangortv_1080p/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/632813f5-d3a7-4e17-a225-14a61b323f32/logo.png" group-title="MYTV Mana-Mana",NHK World
-https://cuwf8jayq1.tenbytecdn.com/live/nhkworld/abr/nhkworld_1080p/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.mana2.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/a6de27c9-8a5d-48a7-941f-4511efc94808/logo.jpeg" group-title="MYTV Mana-Mana",TaiwanPlus
 https://cuwf8jayq1.tenbytecdn.com/live/xtaiwanplus/abr/xtaiwanplus_1080p/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/f1d943b2-b73d-495a-a450-4dad590f750b/logo.png" group-title="MYTV Mana-Mana",The Indonesia Channel
 https://cuwf8jayq1.tenbytecdn.com/live/theindonesiachannel/abr/theindonesiachannel_1080p/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/8e664047-dc59-43f2-b43a-f99594c75094/logo.png" group-title="MYTV Mana-Mana",Euronews
 https://cuwf8jayq1.tenbytecdn.com/live/euronews/abr/euronews_1080p/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/0f03e6f4-7cbf-4f01-9e19-ce48837d3fdb/logo.png" group-title="MYTV Mana-Mana",RT
 https://cuwf8jayq1.tenbytecdn.com/live/rti/abr/rti_1080p/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.mana2.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/91a0697b-3d4c-4324-8b56-3fa5d9cba67d/logo.png" group-title="MYTV Mana-Mana",Arirang
-https://cuwf8jayq1.tenbytecdn.com/live/arirang/abr/arirang_720p/chunks.m3u8
 
 
 ############################################################### Unifi TV ################################################################
@@ -327,14 +314,6 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockAction)/master.mpd?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Dreamworks)/master.mpd?hdntl=st=1794331927~exp=1794421927~acl=/Content/DASH/Live/channel(Dreamworks)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=fbb3dbfa1922ad7b02c9de8f74d5f922213542255e34113638ea21acac5352f1
 
-#EXTINF:-1 tvg-id="553" tvg-name="Cbeebies HD" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9784F0AC-A9BC-4C93-8D22-023403A38B7B/0-16x9.png?width=530" group-title="Unifi TV",CBeebies HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Cbeebies)/master.mpd?hdntl=st=1794331977~exp=1794421977~acl=/Content/DASH/Live/channel(Cbeebies)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=4ce69f8a8070efa5e30205927769ba05c57ffbde08115c3c9a5d43160c9cc507
-
 #EXTINF:-1 tvg-id="612" tvg-name="EURONEWS" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/98415BAC-8D06-4614-8459-7C0E306DA785/0-16x9.png?width=530" group-title="Unifi TV",Euronews
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -350,14 +329,6 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(EuroN)/master.mpd?hdntl=
 #KODIPROP:inputstream.adaptive.license_key=dce6cb3389014684b2abc82f6a478bff:086c0ad70d90bbd9e39478dd0c2460b0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(parlimen)/master.mpd?hdntl=st=1794332062~exp=1794422062~acl=/Content/DASH/Live/channel(parlimen)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=c5906816ca4ef56428f752e1864da177884107814aabf35015e1e29a199daa28
-
-#EXTINF:-1 tvg-id="643" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/83E223EF-AE4A-4E3F-A7D9-07A33B4C3A20/0-16x9.png?width=530" group-title="Unifi TV",NHK WORLD-JAPAN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1e473b4fac4c13b6bd73014a14df4e:602617c77b787b240308567f1f04df20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(NHK)/master.mpd?hdntl=st=1794332104~exp=1794422104~acl=/Content/DASH/Live/channel(NHK)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=f0116bf599d220ee42395f51568bc9b7b5ab19d8e35b830dbc06f193e9b7476b
 
 #EXTINF:-1 tvg-id="701" tvg-name="Unifi Sports 1" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/28EEC6E6-98AD-44E7-8CF3-101111099742/0-16x9.png?width=530" group-title="Unifi TV",unifi Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -936,6 +907,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 #EXTINF:-1 tvg-id="astro428" group-title="Asian Favorites" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NHK_World_v1.png",398 NHK World Premium
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
 
+#EXTINF:-1 tvg-id="NHK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=272" group-title="Asian Favorites",NHK World-Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/nhkworld/index.m3u8
+
+#EXTINF:-1 tvg-id="Arirang" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=272" group-title="Asian Favorites",Arirang TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/arirang/index.m3u8
+
 #EXTINF:-1 tvg-id="Kix" tvg-logo="https://i.ibb.co/Hf88xf0N/KIX-logo-svg.png" group-title="Asian Favorites",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -1268,7 +1249,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="Animax" tvg-logo="https://object-streamo.emonaja.com/img/animax.png" group-title="Kids",Animax
+#EXTINF:-1 tvg-id="Animax" tvg-logo="https://www.animax-asia.com/sites/all/themes/responsive/responsive_animax_asia_2/logo.png" group-title="Kids",Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/animax/index.m3u8
