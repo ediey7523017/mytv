@@ -586,7 +586,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://abeott.short.gy/1O6G
+https://abeott.short.gy/coy3
 https://mvts.live/zes-citra
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
@@ -938,11 +938,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=075
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="Kix" tvg-logo="https://i.ibb.co/Hf88xf0N/KIX-logo-svg.png" group-title="Asian Favorites",KIX
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/kix/index.m3u8
 
 
 ################################################################ Movies ##################################################################
@@ -999,7 +997,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 #EXTINF:-1 tvg-id="HBOHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movies",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-http://202.150.165.66:8088/play/100-HBO/index.m3u8
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
 
 #EXTINF:-1 tvg-id="HBOHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movies",HBO Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1007,7 +1005,7 @@ http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:0
 
 #EXTINF:-1 tvg-id="HBOFamilyHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="Movies",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
 
 #EXTINF:-1 tvg-id="HBOFamilyHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="Movies",HBO Family Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1015,7 +1013,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07
 
 #EXTINF:-1 tvg-id="HBOHitsHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="Movies",HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wz5Q115r9wzVp9WhsZXEK-o
 
 #EXTINF:-1 tvg-id="HBOHitsHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="Movies",HBO Hits Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1023,7 +1021,7 @@ http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:0
 
 #EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="Movies",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
 
 #EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="Movies",HBO Signature Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1031,34 +1029,39 @@ http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07
 
 #EXTINF:-1 tvg-id="CinemaxHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="Movies",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
 
-#EXTINF:-1 tvg-id="CinemaWorld" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png" group-title="Movies",CinemaWorld
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-title="MOVIES",Rock Entertaiment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-http://202.150.165.66:8088/play/105-CinemaWorld/index.m3u8
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4kliX4GwylQPjvzwFj15o54
+
+#EXTINF:-1 tvg-id="Galaxy" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png" group-title="Movies",Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4g9qEOo2U4K5YXfUc2ZdzVQ
+
+#EXTINF:-1 tvg-id="Galaxy premium" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png" group-title="Movies",Galaxy premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4tXz_e8POTLQnU2kHsS8VEM
+
+###EXTINF:-1 tvg-id="CinemaWorld" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png" group-title="Movies",CinemaWorld
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+###http://202.150.165.66:8088/play/105-CinemaWorld/index.m3u8
 
 #EXTINF:-1 tvg-id="Thrill" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-m.png" group-title="Movies",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-http://202.150.165.66:8088/play/109-Thrill/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/thrill/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee Bioskop" tvg-logo="https://www.visionplus.id/images/repository/277/410277-LOGO-m.png" group-title="Movies",Z Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-http://202.150.165.66:8088/play/110-ZeeBioskop/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/zeebioskop/index.m3u8
 
-###EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",MNX
-###https://p4kp.rjmbts.workers.dev/350.m3u8
-
-####EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Movies Now
-###https://p4kp.rjmbts.workers.dev/22136.m3u8
-
-####EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Star Movies
-###https://p4kp.rjmbts.workers.dev/349.m3u8
-
-####EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Star Movies Select
-###https://p4kp.rjmbts.workers.dev/353.m3u8
-
-####EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Sony Pix
-###https://p4kp.rjmbts.workers.dev/22124.m3u8
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="Movies",Studio Universal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/universal/index.m3u8
 
 
 ############################################################## News & Documentary ########################################################
@@ -1205,7 +1208,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://mvts.live/zes-ceria
-https://abeott.short.gy/Ey4S
+https://abeott.short.gy/Ey4m
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro386" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",611 Astro Ceria Feed 2
@@ -1351,8 +1354,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://abeott.short.gy/JgMk
 https://mvts.live/zes-arenabola
-https://abeott.short.gy/JgM9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro486" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" group-title="Sports",803 Astro Arena Bola  Feed 2
@@ -1364,8 +1367,8 @@ https://bozzku.xyz/victus/5402/AstArenaBola1.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://abeott.short.gy/6zq9
 https://mvts.live/zes-arenabola2
-https://abeott.short.gy/6zqH
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro487" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" group-title="Sports",804 Astro Arena Bola 2 Feed 2
@@ -1422,7 +1425,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://abeott.short.gy/SpiG
+https://abeott.short.gy/TOis
 https://bozzku.xyz/victus/4996/AstPremierLeague1.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
@@ -1435,7 +1438,7 @@ http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163684.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://abeott.short.gy/SBWx
+https://abeott.short.gy/oV5w
 https://bozzku.xyz/victus/4997/AstPremierLeague2.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 
@@ -1503,6 +1506,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5210/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://abeott.short.gy/SyYc
 https://mvts.live/zes-bein1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
@@ -1516,6 +1520,7 @@ http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/197176.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://abeott.short.gy/xGa5
 https://mvts.live/zes-bein2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
