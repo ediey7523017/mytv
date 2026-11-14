@@ -1032,7 +1032,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-title="MOVIES",Rock Entertaiment
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-title="Movies",Rock Entertaiment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4kliX4GwylQPjvzwFj15o54
 
