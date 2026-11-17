@@ -2,6 +2,7 @@
 
 
 ####################################################################### ▶ NETFLIX FILMS #############################################################
+#EXTINF:-1 group-logo="https://vectorseek.com/wp-content/uploads/2023/10/Netflix-Films-Logo-Vector.png"
 
 #EXTINF:-1 group-title="▶ NETFLIX FILMS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hbURquxQUJXFfeqpjzmHekRmyqb.jpg", Skyscraper Live (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Skyscraper%20Live%202026-1-720.mp4
@@ -987,6 +988,7 @@ https://cdn1.turboviplay.com/data1/683daa3022e84/683daa3022e84720.m3u8|referer=h
 
 
 ############################################################# ● NETFLIX SERIES ###################################################################
+#EXTINF:-1 group-logo="https://vectorseek.com/wp-content/uploads/2023/10/Netflix-Series-Logo-Vector.png"
 
 ############################################################# The Scandal (2026) #################################################################
 
@@ -2473,3 +2475,4 @@ https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_i
 https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166264325&quality=s240p&product_id=2697200&lang=Malay&flag_id=7&ut=2
 #EXTINF:-1 type="series" group-title="● KOREAN SERIES" tvg-logo="https://prod-images.viu.com/3454107799/3442bd5f70be19132cb9ce8d3cafa18e7ff5f5aa",  S Line E06
 https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166264326&quality=s240p&product_id=2697155&lang=Malay&flag_id=7&ut=2
+
