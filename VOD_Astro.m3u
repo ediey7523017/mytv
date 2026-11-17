@@ -2,6 +2,7 @@
 
 
 #####################################################################▶ VOD ASTRO 2024#############################################################################
+#EXTINF:-1 group-logo="https://astrofilms.com.pk/wp-content/uploads/2023/09/cropped-Astro-Films-Logo-FINAL.png"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -1194,7 +1195,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=a3913697bcc4e7f04882e09dd2cd5410:6f427af8c3c5c8a84d36fa10bb703961
-#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HJGON_IVP_LAND_171x96_3CB51_2024313_17622.jpg" group-title="▶ VOD ASTRO", Senario The Movie Episode 2: Beach Boys
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HJGON_IVP_LAND_171x96_3CB51_2024313_17622.jpg" group-title="▶ VOD ASTRO", Senario The Movie Episode 2 Beach Boys
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/bea188f6-fa22-58f2-bcf9-4b3cf25a40b4/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2686,7 +2687,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=d6d2982562511ed6a77bcfa980a4da10:10b939ff80dd63f1f73b0accb990ed0a
-#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFOZW_IVP_LAND_171x96_66458_2024313_182446.jpg" group-title="▶ VOD ASTRO", A Holly Jolly Malaysian Portuguese Christmas Ep01
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFOZW_IVP_LAND_171x96_66458_2024313_182446.jpg" group-title="▶ VOD ASTRO", A Holly Jolly Malaysian Portuguese Christmas
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/ff9fa22c-6afe-51b5-95de-cd0f85732913/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15244,14 +15245,14 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=97074d49407d4fb13a2fe7d878679110:c09a5aa0592a874c6d5239c86234257c
-#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMRDP_IVP_LAND_266x150_7838D_2024524_104624.jpg" group-title="▶ VOD ASTRO", Open Season 2
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMRDP_IVP_LAND_266x150_7838D_2024524_104624.jpg" group-title="▶ VOD ASTRO", Open 2
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/39c33d86-39bf-5e9d-9d96-c1f645c95415/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=6993383407862a1e58979ce9aba72810:bc221450e3c209870a3ae05b0d268a3e
-#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMRDQ_IVP_LAND_672x378_7838E_2024524_104624.jpg" group-title="▶ VOD ASTRO", Open Season 3
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMRDQ_IVP_LAND_672x378_7838E_2024524_104624.jpg" group-title="▶ VOD ASTRO", Open 3
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/35348000-4be9-5d5b-90ea-197facd32db2/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
