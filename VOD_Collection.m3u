@@ -2,6 +2,7 @@
 
 
 ####################################################### ▶ VOD FILM SERIES ###########################################################
+#EXTINF:-1 group-logo="https://a07ebce51a.cbaul-cdnwnd.com/b32278cddf76a3d6d63ac4849050a681/200000030-42e1443df4/film-series-logo-9.jpg"
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/3OXiTjU30gWtqxmx4BU9RVp2OTv.jpg" group-title="▶ VOD FILM SERIES",One Shot (2021)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/One%20Shot%202021-1-720.mp4
@@ -311,6 +312,7 @@ https://47227.ohflix.workers.dev/0:/x21/NewVersion/7/Universal%20Soldier%201%20(
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/The%20Terminator%20Salvation%20(2009)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg" group-title="▶ VOD FILM SERIES",Terminator Genisys (2015)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Terminator%20Genisys%20(2015)-1-720.mp4
 https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Terminator%20Genisys%20(2015)%20720p%20Bluray%20Malay%20Hardsub.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg" group-title="▶ VOD FILM SERIES",Terminator Salvation (2009)
@@ -509,9 +511,11 @@ https://47228.ohflix.workers.dev/0:/x32/NewVersion/42/Snow%20White%20And%20The%2
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/euVaCiCWz3AALcQXHT6aUqdGUo6.jpg" group-title="▶ VOD FILM SERIES",Teenage Mutant Ninja Turtles Out of the Shadows (2016)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Teenage%20Mutant%20Ninja%20Turtles%202%202016-1-720.mp4
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/77/Teenage%20Mutant%20Ninja%20Turtles%202%202016-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg" group-title="▶ VOD FILM SERIES",Teenage Mutant Ninja Turtles (2014)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Teenage%20Mutant%20Ninja%20Turtles%201%202014-1-720.mp4
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/77/Teenage%20Mutant%20Ninja%20Turtles%202014-1-720.mp4
 
 
@@ -1126,12 +1130,15 @@ https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Hulk%20(200
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kjdJntyBeEvqm9w97QGBdxPptzj.jpg" group-title="▶ VOD FILM SERIES",Spider-Man (2002)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Spider-Man%20(2002)-1-720.mp4
 https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/SpiderMan.2002.720p.BrRip.264.YIFY.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg" group-title="▶ VOD FILM SERIES",Spider-Man 2 (2004)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Spider-Man%202%20(2004)-1-720.mp4
 https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/SpiderMan.2.2004.720p.BrRip.264.YIFY.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" group-title="▶ VOD FILM SERIES",Spider-Man 3 (2007)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Spider-Man%203%20(2007)-1-720.mp4
 https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/SpiderMan.3.2007.720p.BrRip.264.YIFY.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg" group-title="▶ VOD FILM SERIES",The Amazing Spider-Man (2012)
@@ -1144,6 +1151,7 @@ https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/The%20Amazi
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/Spider-Man%20Homecoming%20(2017)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg" group-title="▶ VOD FILM SERIES",Spider-Man Far from Home (2019)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Spider-Man%20Far%20From%20Home%20(2019)-1-720.mp4
 https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/spider-man.far.from.home.2019.720p.brrip.x264.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg" group-title="▶ VOD FILM SERIES",Spider-Man No Way Home (2021)
