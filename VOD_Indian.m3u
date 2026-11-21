@@ -4,6 +4,15 @@
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyjLN1NOXIlftGVyWkzhF5Pp_kjAJf_zfvkqUv4XRxw&s=10"
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg" group-title="▶ VOD BOLLYWOOD",Daayra (2026)
+https://pixeldrain.com/api/file/nq6yvvUn?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2gKGkD0pN2Ss9LrHA6tv5hEjHOs.jpg" group-title="▶ VOD BOLLYWOOD",Parivarik ManuRanjan (2026)
+https://pixeldrain.com/api/file/gcbfYwgM?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kO9q6StIAUBpfcKVtTSth7zOE2C.jpg" group-title="▶ VOD BOLLYWOOD",Blind Game (2026)
+https://pixeldrain.com/api/file/qGBu45Gg?download
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg" group-title="▶ VOD BOLLYWOOD",Vibe (2026)
 https://pixeldrain.com/api/file/T2GEndpN?download
 
@@ -2046,6 +2055,15 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 
 ######################################################################▶ VOD INDIA#########################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3qy_V458iJ2CvWY6YeO9vWwJlum4pLbr4JdCM9sJAVw&s=10"
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4sMOtNG5oMNfBOc3WwWYzEJ3tnw.jpg" group-title="▶ VOD INDIA",Anbil Avan (2026)
+https://stream.playcdn.de/playlist/80a42f677230f6b26311a20f06c5d79f/1/0.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7DPJPa3IX8jgthqK8sSnENrVzhA.jpg" group-title="▶ VOD INDIA",Mayookha (2026)
+https://pixeldrain.com/api/file/hbZKxC32?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1UUwomcPXFMLW3JT9JNFjQAGkKk.jpg" group-title="▶ VOD INDIA",418 (2026)
+https://pixeldrain.com/api/file/9T7MH3Ve?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/m3zmkbaQSQgWVpNBGbfJlLU9jk8.jpg" group-title="▶ VOD INDIA",I'm Game (2026)
 https://pixeldrain.com/api/file/d593NENp?download
