@@ -168,7 +168,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/rti/abr/rti_1080p/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Salam)/master.mpd?hdntl=st=1794323242~exp=1794413242~acl=/Content/DASH/Live/channel(Salam)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=5aa8b0380e7001a177592b887050b9e0c2e3ee21487365dbd46a5ea26bf307b1
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Salam)/master.mpd?hdntl=st=1795297037~exp=1795387037~acl=/Content/DASH/Live/channel(Salam)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=c2cf25eb29ce9f39ec7098c7d9ed74f9cac12947ee1b1ecd2a3bb6616a7222a6
 
 #EXTINF:-1 tvg-id="116" tvg-name="Sensasi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8F641B7A-CC55-497E-9C73-B1F10ADA7541/0-16x9.png?width=530" group-title="Unifi TV",Sensasi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -176,7 +176,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Salam)/master.mpd?hdntl=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ba270026f0a4b29956ace51335fb1ac:edb6adbe31609226e737e515ba813169
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Sensasi)/master.mpd?hdntl=st=1794323155~exp=1794413155~acl=/Content/DASH/Live/channel(Sensasi)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=3006d5a541fe6e7e0a1f57247b86c98494c6e61bfb670c13c029e03b10433b61
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Sensasi)/master.mpd?hdntl=st=1795296736~exp=1795386736~acl=/Content/DASH/Live/channel(Sensasi)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=21389162276d911c5c71753647cbe97851f3628e1734609fe04c187733328611
 
 #EXTINF:-1 tvg-id="118" tvg-name="Inspirasi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=530" group-title="Unifi TV",Inspirasi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -184,7 +184,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Sensasi)/master.mpd?hdnt
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Inspirasi)/master.mpd?hdntl=st=1794323080~exp=1794413080~acl=/Content/DASH/Live/channel(Inspirasi)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=aea63951ba7c4ad4d691e858566bb67e055367c06970ca0ea10118fee298aa82
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Inspirasi)/master.mpd?hdntl=st=1795296641~exp=1795386641~acl=/Content/DASH/Live/channel(Inspirasi)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=1867d40671a804103bd627fa9d713fae2734db55c242609cadeab2137b17b844
 
 #EXTINF:-1 tvg-id="120" tvg-name="DEGUP" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=530" group-title="Unifi TV",DEGUP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -192,7 +192,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Inspirasi)/master.mpd?hd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DEGUP)/master.mpd?hdntl=st=1794323192~exp=1794413192~acl=/Content/DASH/Live/channel(DEGUP)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=4d532c53c9d38ca5502108957f4929abcddfd51f49afca6691ca62175c0db5a3
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DEGUP)/master.mpd?hdntl=st=1795296829~exp=1795386829~acl=/Content/DASH/Live/channel(DEGUP)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=7203377fd3898853672db7138d6b56184d90e2b0584f631e78e9f820a56d40aa
 
 #EXTINF:-1 tvg-id="121" tvg-name="SIAR" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F101B330-8D9C-4670-9DE3-2C53E8866EA0/0-16x9.png?width=530" group-title="Unifi TV",SIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -200,7 +200,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DEGUP)/master.mpd?hdntl=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SIAR)/master.mpd?hdntl=st=1794323320~exp=1794413320~acl=/Content/DASH/Live/channel(SIAR)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=840d633cab5f381c080a86459144201f6a307cba34fbceae87e21f6cbd48ca64
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SIAR)/master.mpd?hdntl=st=1795297116~exp=1795387116~acl=/Content/DASH/Live/channel(SIAR)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=2cb18ec64692a941449e6f2efb1443813f9ee9d2c7a72850ae74089989db6c61
 
 #EXTINF:-1 tvg-id="128" tvg-name="Dunia Sinema HD" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=530" group-title="Unifi TV",Dunia Sinema HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -208,7 +208,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SIAR)/master.mpd?hdntl=s
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DuniaSin)/master.mpd?hdntl=st=1794323359~exp=1794413359~acl=/Content/DASH/Live/channel(DuniaSin)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=6af44e1d56a690b5ae39e0df08d422feab993e71ae452c490773990c03827df3
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DuniaSin)/master.mpd?hdntl=st=1795297194~exp=1795387194~acl=/Content/DASH/Live/channel(DuniaSin)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=387f26b319166473bc9e8982346461039d34cc590865a6159e1194d845d09f40
 
 #EXTINF:-1 tvg-id="141" tvg-name="PESONA" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=530" group-title="Unifi TV",Pesona HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -216,7 +216,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DuniaSin)/master.mpd?hdn
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Pesona)/master.mpd?hdntl=st=1794323403~exp=1794413403~acl=/Content/DASH/Live/channel(Pesona)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=8be698af261995239bde2da7a4d31ea1f0f43a2bc921102f89d698aec33e9bd9
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Pesona)/master.mpd?hdntl=st=1795297234~exp=1795387234~acl=/Content/DASH/Live/channel(Pesona)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=0528b8354e342df328ae2a2be14b74d1827b025ed3a725ba83c57e730d26d46a
 
 #EXTINF:-1 tvg-id="239" tvg-name="SETI" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D9A91961-CCD2-48BA-A4FD-6EC1ECAF0AFC/0-16x9.png?width=530" group-title="Unifi TV",SETI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
