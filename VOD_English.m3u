@@ -2,7 +2,7 @@
 
 
 ####################################################### ▶ VOD ENGLISH #########################################################
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bgLEOj9ygdhgROBkUJ-LEOsDeXs4YYppaIf98I4co_lXEJydFWQomW6V&s=10"
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1sddtmDYj_JDWy3-JkpOlxcHfh-7SYR6SKRzh7hNyCA9O7RgeuSFLVU7&s=10"
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg" group-title="▶ VOD ENGLISH",Street Fighter (2026)
 https://stream.playcdn.de/playlist/7ab8e59efe2b971ca026f295b668deef/1/0.m3u8?x=1
@@ -1726,11 +1726,6 @@ https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru46/Gladiat
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg" group-title="▶ VOD ENGLISH",Gladiator (2000)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/72/Gladiator%20(2000)-1-720.mp4
 
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nx2pChi41Xv4dsXsfSG3gnKcWaY.jpg" group-title="▶ VOD ENGLISH",Drive Angry (2011)
-https://stream.playcdn.de/playlist/93c37f304c09bcb100c0f8afc8560850/3/480.m3u8?x=1
-https://www.dropbox.com/scl/fi/2ztrxdrv4n11e0bqb7jbv/Drive-Angry.mp4?rlkey=1sgh7vtk1b4ipg6mnmrfsjv4j&st=zfmzpdgv&dl=1
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/fToQDmkBtiXYGh9xfgAh3gpo6GZ.jpg" group-title="▶ VOD ENGLISH",Gone in Sixty Seconds (2000)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/34/Gone%20In%2060%20Seconds%202000.mp4
 
@@ -1772,6 +1767,19 @@ https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru37/Renfiel
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/OG0mxQt4YaNIWiz8EKJSHe9lPh.jpg" group-title="▶ VOD ENGLISH",Knowing (2009)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/69/Knowing%20(2009)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg" group-title="▶ VOD ENGLISH",The Sixth Sense (1999)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/The%20Sixth%20Sense%201999-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ez7qIBb5kpihmk2cZyXa9Zbs5uD.jpg" group-title="▶ VOD ENGLISH",You Die (2018)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/You%20Die%20(2018)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4tGMz5xUs9sk8X9B28G6UalHK1d.jpg" group-title="▶ VOD ENGLISH",Young Adult (2011)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Young%20Adult%202011-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nx2pChi41Xv4dsXsfSG3gnKcWaY.jpg" group-title="▶ VOD ENGLISH",Drive Angry (2011)
+https://stream.playcdn.de/playlist/93c37f304c09bcb100c0f8afc8560850/3/480.m3u8?x=1
+https://www.dropbox.com/scl/fi/2ztrxdrv4n11e0bqb7jbv/Drive-Angry.mp4?rlkey=1sgh7vtk1b4ipg6mnmrfsjv4j&st=zfmzpdgv&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6ZeMoynnz4pRweKKZ9c2G1absMJ.jpg" group-title="▶ VOD ENGLISH",Angel Eyes (2001)
 https://stream.playcdn.de/playlist/7bc674f39657835f89cb50e4f2c2672e/5/480.m3u8?x=1
