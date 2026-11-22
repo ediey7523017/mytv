@@ -494,33 +494,33 @@ https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/play
 
 
 ################################################################### Base ###############################################################
-#EXTINF:-1 group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_base.png"
+#EXTINF:-1 group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png"
 
-#EXTINF:-1 tvg-id="astro622" group-title="Base" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro30.png",100 Astro30
+#EXTINF:-1 tvg-id="astro622" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro30.png",100 Astro30
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=794848d878e10fab209059c0e6942010:961c77438e111f20abd3db96f88cdfd2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro395" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",101 TV1 HD
+#EXTINF:-1 tvg-id="astro395" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",101 TV1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro396" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",102 TV2 HD
+#EXTINF:-1 tvg-id="astro396" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",102 TV2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro106" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",103 TV3
+#EXTINF:-1 tvg-id="astro106" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",103 TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro193" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria
+#EXTINF:-1 tvg-id="astro193" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
@@ -529,11 +529,11 @@ https://abeott.short.gy/WGH3
 https://mvts.live/zes-ria
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro193" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 2
+#EXTINF:-1 tvg-id="astro193" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 tvg-id="astro316" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima
+#EXTINF:-1 tvg-id="astro316" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
@@ -542,17 +542,17 @@ https://abeott.short.gy/JFJ9
 https://mvts.live/zes-prima
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro316" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",110 Astro Prima Feed 2
+#EXTINF:-1 tvg-id="astro316" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",110 Astro Prima Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 http://tv.cloudcdn.me/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 tvg-id="astro315" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png",106 Astro Oasis
+#EXTINF:-1 tvg-id="astro315" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png",106 Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro301" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra
+#EXTINF:-1 tvg-id="astro301" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
@@ -561,11 +561,11 @@ https://abeott.short.gy/SHQ2
 https://mvts.live/zes-citra
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro301" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 2
+#EXTINF:-1 tvg-id="astro301" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 http://tv.cloudcdn.me/live.ts?channelId=132150&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 tvg-id="astro401" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania
+#EXTINF:-1 tvg-id="astro401" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
@@ -573,11 +573,11 @@ http://tv.cloudcdn.me/live.ts?channelId=132150&uid=10223&deviceMac=00:1A:79:07:0
 https://mvts.live/zes-rania
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro401" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania Feed 2
+#EXTINF:-1 tvg-id="astro401" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 http://tv.cloudcdn.me/live.ts?channelId=132151&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 tvg-id="astro400" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura
+#EXTINF:-1 tvg-id="astro400" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
@@ -585,79 +585,79 @@ http://tv.cloudcdn.me/live.ts?channelId=132151&uid=10223&deviceMac=00:1A:79:07:0
 https://mvts.live/zes-aura
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro400" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura Feed 2
+#EXTINF:-1 tvg-id="astro400" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 http://tv.cloudcdn.me/live.ts?channelId=132149&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 tvg-id="astro149" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",114 TV Alhijrah
+#EXTINF:-1 tvg-id="astro149" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",114 TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro365" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ColorsHindi2025.png",116 Colors Hindi HD
+#EXTINF:-1 tvg-id="astro365" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ColorsHindi2025.png",116 Colors Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro490" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeCinema_2025.png",117 Z Cinema HD
+#EXTINF:-1 tvg-id="astro490" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeCinema_2025.png",117 Z Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro267" group-title="Base" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Aniplus.png",120 Aniplus
+#EXTINF:-1 tvg-id="astro267" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Aniplus.png",120 Aniplus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9cc552a8a2d46ab05c827b6f3a59b10:ea5f1c775483efae21247b5c48263735
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro643" group-title="Base" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Pokemon_26.png",121 Pokemon
+#EXTINF:-1 tvg-id="astro643" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Pokemon_26.png",121 Pokemon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b496d58ec67857a85c477d1237a3f810:09f730f2ad74000cfebb51becb6ca809
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5606/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro429" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVS.png",122 TV Sarawak
+#EXTINF:-1 tvg-id="astro429" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVS.png",122 TV Sarawak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
-###EXTINF:-1 tvg-id="AstroSensasiHD.sg" group-title="Base" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",123 Astro Sensasi
+###EXTINF:-1 tvg-id="AstroSensasiHD.sg" group-title="Astro" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",123 Astro Sensasi
 ###EXTVLCOPT:http-referrer=https://www.starhubtvplus.com/
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
 ###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 ###KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
 ###https://shtvgo-prod.gcdn.co/bpk-tv/HubSensasiHD/output/manifest.mpd
 
-###EXTINF:-1 tvg-id="AstroWarnaHD.sg" group-title="Base" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",124 Astro Warna
+###EXTINF:-1 tvg-id="AstroWarnaHD.sg" group-title="Astro" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",124 Astro Warna
 ###EXTVLCOPT:http-referrer=https://www.starhubtvplus.com/
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
 ###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 ###KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
 ###https://shtvgo-prod.gcdn.co/bpk-tv/Astro_warna_new/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="astro467" group-title="Base" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png", 146 TV Okey HD
+#EXTINF:-1 tvg-id="astro467" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png", 146 TV Okey HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro93" group-title="Base" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
+#EXTINF:-1 tvg-id="astro93" group-title="Astro" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro115" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",148 8TV
+#EXTINF:-1 tvg-id="astro115" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",148 8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro48" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_NEW.png",149 TV9
+#EXTINF:-1 tvg-id="astro48" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_NEW.png",149 TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -909,17 +909,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
 
 #EXTINF:-1 tvg-id="NHK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=272" group-title="Asian Favorites",NHK World-Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/nhkworld/index.m3u8
 
 #EXTINF:-1 tvg-id="Arirang" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=272" group-title="Asian Favorites",Arirang TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/arirang/index.m3u8
 
 #EXTINF:-1 tvg-id="Kix" tvg-logo="https://i.ibb.co/Hf88xf0N/KIX-logo-svg.png" group-title="Asian Favorites",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/kix/index.m3u8
 
 
@@ -1255,15 +1255,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 https://proxy-v.rctiplus.id/live/web/animax/index.m3u8
 
 #EXTINF:-1 tvg-id="Dream Works" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png" group-title="Kids",Dreamworks
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/dreamworks/index.m3u8
 
 #EXTINF:-1 tvg-id="Cbeebies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png" group-title="Kids",CBeebies
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/cbeebies/index.m3u8
 
 #EXTINF:-1 tvg-id="Zoo Moo" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bbbbb_logo_ZM_web_crop.webp" group-title="Kids",Zoo Moo
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/zoomoo/index.m3u8
 
 
@@ -1320,7 +1320,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Outdoor Channel" group-title="Variety" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-l.png",Outdoor Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/outdoor/index.m3u8
 
 #EXTINF:-1 tvg-id="451" group-title="Variety" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",Warner TV
