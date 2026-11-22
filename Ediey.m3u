@@ -219,28 +219,31 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DuniaSin)/master.mpd?hdn
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Pesona)/master.mpd?hdntl=st=1795297234~exp=1795387234~acl=/Content/DASH/Live/channel(Pesona)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=0528b8354e342df328ae2a2be14b74d1827b025ed3a725ba83c57e730d26d46a
 
 #EXTINF:-1 tvg-id="239" tvg-name="SETI" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D9A91961-CCD2-48BA-A4FD-6EC1ECAF0AFC/0-16x9.png?width=530" group-title="Unifi TV",SETI
+#EXTVLCOPT:http-referrer=https://unifitv.com.my/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d267de2a8184683bd8de9ff6a761b2a:ff83fafbef57e24fc626a9f589ca1da9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Seti)/master.mpd?hdntl=st=1794323559~exp=1794413559~acl=/Content/DASH/Live/channel(Seti)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=bf54fdbe1d474543d7996d7cc89cde8e1b3211051ef44ceeab424036b773203c
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Seti)/master.mpd
 
 #EXTINF:-1 tvg-id="302" tvg-name="Zee Thirai" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/DD728749-B762-4F91-81F8-EA1016F97EF3/0-16x9.png?width=530" group-title="Unifi TV",Zee Thirai
+#EXTVLCOPT:http-referrer=https://unifitv.com.my/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd7282e920e5437a9b1f01bc6f81795c:99763370f0763b0f7119aab091cc70c8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(ZeeThi)/master.mpd?hdntl=st=1794323587~exp=1794413587~acl=/Content/DASH/Live/channel(ZeeThi)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=968250b8c0ef1f22de7792fbb3105d8b06147a04ea63235f6ac37632e35977d4
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(ZeeThi)/master.mpd
 
 #EXTINF:-1 tvg-id="303" tvg-name="Sony YAY!" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/BD814A07-3CF5-4686-B552-31FF782BB8F7/0-16x9.png?width=530" group-title="Unifi TV",Sony YAY!
+#EXTVLCOPT:http-referrer=https://unifitv.com.my/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=582e9e382cb0495886afbabdbdb6fbf7:c0f550839b235443724cd007392b6e40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SonyYay)/master.mpd?hdntl=st=1794323622~exp=1794413622~acl=/Content/DASH/Live/channel(SonyYay)/*~id=P6ovY7dP5GvbrQF8WBlijAA3iCOBwP8mzTtKZYsAv18t0w~hmac=de5249854e3bd92f8a4043bf0fcc204ae4848b5f3cad0f3c1363833e17a6bc61
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(SonyYay)/master.mpd
 
 #EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9A5A508C-BB3A-4139-8C2F-8B092336F192/0-16x9.png?width=530" group-title="Unifi TV",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -909,17 +912,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
 
 #EXTINF:-1 tvg-id="NHK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=272" group-title="Asian Favorites",NHK World-Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/nhkworld/index.m3u8
 
 #EXTINF:-1 tvg-id="Arirang" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=272" group-title="Asian Favorites",Arirang TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/arirang/index.m3u8
 
 #EXTINF:-1 tvg-id="Kix" tvg-logo="https://i.ibb.co/Hf88xf0N/KIX-logo-svg.png" group-title="Asian Favorites",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/kix/index.m3u8
 
 
@@ -1031,7 +1034,7 @@ https://proxy-v.rctiplus.id/live/web/thrill/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee Bioskop" tvg-logo="https://www.visionplus.id/images/repository/277/410277-LOGO-m.png" group-title="Movies",Z Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/zeebioskop/index.m3u8
 
 #EXTINF:-1 tvg-id="Originals" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png" group-title="Movies",Originals
@@ -1255,15 +1258,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 https://proxy-v.rctiplus.id/live/web/animax/index.m3u8
 
 #EXTINF:-1 tvg-id="Dream Works" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png" group-title="Kids",Dreamworks
-#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/dreamworks/index.m3u8
 
 #EXTINF:-1 tvg-id="Cbeebies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png" group-title="Kids",CBeebies
-#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/cbeebies/index.m3u8
 
 #EXTINF:-1 tvg-id="Zoo Moo" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bbbbb_logo_ZM_web_crop.webp" group-title="Kids",Zoo Moo
-#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/zoomoo/index.m3u8
 
 
@@ -1320,7 +1323,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Outdoor Channel" group-title="Variety" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-l.png",Outdoor Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=hhttps://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/outdoor/index.m3u8
 
 #EXTINF:-1 tvg-id="451" group-title="Variety" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",Warner TV
