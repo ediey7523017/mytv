@@ -1607,6 +1607,12 @@ https://hls.khflix.top/Calendar.Girl/index.m3u8
 ###################################################################### ▶ VOD ASEAN ######################################################################
 #EXTINF:-1 group-logo="https://yt3.googleusercontent.com/F5M-y3wnN24n1ukUyIXS2A5l_GlDi8yHCB3gVlNKdcP0zyLVKWv6Fli8LUEUiJ9PvWqlGs6g4w=s900-c-k-c0x00ffffff-no-rj"
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/u1vNaXc4OPdG5cpMlOFC1j2yQKb.jpg" group-title="▶ VOD ASEAN",Soul Snatcher (2026)
+https://stream.playcdn.de/playlist/5c1d38b11579b8de88c04d12445d2f93/1/0.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ayDNI6x8g3638uQSTmNqW9CeUUU.jpg" group-title="▶ VOD ASEAN",The Fatal Dealz (2026)
+https://stream.playcdn.de/playlist/a1c85961ef142495ea9f478c6035eee6/1/0.m3u8?x=1
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wo8gufc4mGfu8Fejbn9nTRmuXYp.jpg" group-title="▶ VOD ASEAN",Kong Tao (2026)
 https://pixeldrain.com/api/file/SZUEVKVP?download
 
@@ -4118,8 +4124,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b5b51f53ffa4c7dbc7de225b4b68ef8:2b55ee0d1190a75eb19fcdfc2bc4fea4
-https://ngtv-vod.gcdn.co/content/pubcontent/vol/EE3D8C38-AF33-4406-8C28-B3BAF5276338/1768373164531-output_dash.ism/dash.mpd
-https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=996
+https://ngtv-vod.gcdn.co/content/pubcontent/vol/B36219B4-CC69-4F35-9A09-7CAD0F18ABD9/1766982661624-output_cenc_dash.ism/dash.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/0266C474-4625-4179-BF05-E0ACB05AE44C/0-2x3.jpg?width=300"  group-title="▶ VOD UNIFI",Jailankung Sendekala
 #KODIPROP:inputstream=inputstream.adaptive
