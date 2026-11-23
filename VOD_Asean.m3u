@@ -4123,8 +4123,8 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8B5B51F5-3FFA-4C7D-BC7D-E225B4B68EF8/0-2x3.jpg?width=300"  group-title="▶ VOD UNIFI",Desolasi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b5b51f53ffa4c7dbc7de225b4b68ef8:2b55ee0d1190a75eb19fcdfc2bc4fea4
-https://ngtv-vod.gcdn.co/content/pubcontent/vol/B36219B4-CC69-4F35-9A09-7CAD0F18ABD9/1766982661624-output_cenc_dash.ism/dash.mpd
+###KODIPROP:inputstream.adaptive.license_key=8b5b51f53ffa4c7dbc7de225b4b68ef8:2b55ee0d1190a75eb19fcdfc2bc4fea4
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/46/Desolasi%202016.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/0266C474-4625-4179-BF05-E0ACB05AE44C/0-2x3.jpg?width=300"  group-title="▶ VOD UNIFI",Jailankung Sendekala
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4145,20 +4145,20 @@ https://47240.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/51/Dorm%20Mel
 https://47227.ohflix.workers.dev/0:/x31/KoleksiMalay/6/Paku%202013%20.mp4
 
 ###EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/3BD5F90F-504F-4476-A464-D50E27C01E9D/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",The Ghost Game
-###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-###KODIPROP:inputstream.adaptive.manifest_type=mpd
+####KODIPROP:inputstream=inputstream.adaptive
+####KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key=0067917d314f43638bc28668aafd95b2:0e4ddfe4d473b19ceeadeb5d23b6b1ac
 ###https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=957
 
 ###EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/43536DD7-D128-4276-9C07-D5EB72CB39B1/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Sleep
-###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-###KODIPROP:inputstream.adaptive.manifest_type=mpd
+####KODIPROP:inputstream=inputstream.adaptive
+####KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key=43536dd7d12842769c07d5eb72cb39b1:81dbd8bcbfeae8fd91a7467954e355e7
 ###https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=944
 
 ###EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EE5DE585-4936-4CE2-82E7-1C7F25260769/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",The Night Owl
-###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-###KODIPROP:inputstream.adaptive.manifest_type=mpd
+####KODIPROP:inputstream=inputstream.adaptive
+####KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key=ee5de58549364ce282e71c7f25260769:37afc3eb3ddd2aa4e988f95dac7ed4ad
 ###https://ptv2026.com/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=943
 
@@ -4205,8 +4205,8 @@ https://47247.ohflix.workers.dev/0:/x41/KoleksiMalay/56/Budak%20Pendamping%20202
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Kutukan%20Peti%20Mati%202021.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/58E06A06-A5E7-4D76-92EF-F4CAAA98DB98/0-2x3.jpg?width=300" group-title="▶ VOD UNIFI",Lampir
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key=58e06a06a5e74d7692eff4caaa98db98:270461581d7b6a88223d81865b8b8b7e
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Lampir%202024-1-720.mp4
 
