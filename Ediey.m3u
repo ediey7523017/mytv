@@ -634,19 +634,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5606/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
-###EXTINF:-1 tvg-id="AstroSensasiHD.sg" group-title="Astro" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",123 Astro Sensasi
-###EXTVLCOPT:http-referrer=https://www.starhubtvplus.com/
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-###KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
-###https://shtvgo-prod.gcdn.co/bpk-tv/HubSensasiHD/output/manifest.mpd
+#EXTINF:-1 tvg-id="AstroSensasiHD.sg" group-title="Astro" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",123 Astro Sensasi
+#EXTVLCOPT:http-referrer=https://www.starhubtvplus.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
+https://ucdn.starhubgo.com/HubSensasiHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
-###EXTINF:-1 tvg-id="AstroWarnaHD.sg" group-title="Astro" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",124 Astro Warna
-###EXTVLCOPT:http-referrer=https://www.starhubtvplus.com/
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-###KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
-###https://shtvgo-prod.gcdn.co/bpk-tv/Astro_warna_new/output/manifest.mpd
+#EXTINF:-1 tvg-id="AstroWarnaHD.sg" group-title="Astro" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",124 Astro Warna
+#EXTVLCOPT:http-referrer=https://www.starhubtvplus.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
+https://ucdn.starhubgo.com/bpk-tv/Astro_warna_new/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #EXTINF:-1 tvg-id="astro467" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png", 146 TV Okey HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1009,32 +1009,37 @@ http://aflaxtv.xyz:8080/F33848/cbd9779b/197964
 
 
 #EXTINF:-1 tvg-id="Rock Entertainment" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-title="Movies",Rock Entertainment
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 https://dsgtq5sngxkde.cloudfront.net/rockent/index.m3u8
 https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
 
 #EXTINF:-1 tvg-id="Rock Action" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-title="Movies",Rock Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 https://dsgtq5sngxkde.cloudfront.net/rockaction/index.m3u8
 https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
 
 #EXTINF:-1 tvg-id="GALAXY" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png" group-title="Movies",Galaxy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 https://dsgtq5sngxkde.cloudfront.net/galaxy/index.m3u8
 https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
 
 #EXTINF:-1 tvg-id="GALAXY PREMIUM" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png" group-title="Movies",Galaxy premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 https://dsgtq5sngxkde.cloudfront.net/galaxyprem/index.m3u8
 https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png" group-title="Movies",Studio Universal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 https://dsgtq5sngxkde.cloudfront.net/universal/index.m3u8
 https://proxy-v.rctiplus.id/live/web/universal/index.m3u8
 
@@ -1042,44 +1047,51 @@ https://proxy-v.rctiplus.id/live/web/universal/index.m3u8
 ###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-id="Thrill" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-m.png" group-title="Movies",Thrill
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 https://dsgtq5sngxkde.cloudfront.net/thrill/index.m3u8
 https://proxy-v.rctiplus.id/live/web/thrill/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee Bioskop" tvg-logo="https://www.visionplus.id/images/repository/277/410277-LOGO-m.png" group-title="Movies",Z Bioskop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 https://dsgtq5sngxkde.cloudfront.net/zeebioskop/index.m3u8
 https://proxy-v.rctiplus.id/live/web/zeebioskop/index.m3u8
 
 #EXTINF:-1 tvg-id="Originals" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png" group-title="Movies",Originals
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 https://dsgtq5sngxkde.cloudfront.net/originals/index.m3u8
 https://proxy-v.rctiplus.id/live/web/originals/index.m3u8
 
 #EXTINF:-1 tvg-id="Cineedge" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png" group-title="Movies",Cineedge
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 https://dsgtq5sngxkde.cloudfront.net/cineedge/index.m3u8
 https://proxy-v.rctiplus.id/live/web/cineedge/index.m3u8
 
 #EXTINF:-1 tvg-id="Superrix" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" group-title="Movies",Superrix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 https://dsgtq5sngxkde.cloudfront.net/superrix/index.m3u8
 https://proxy-v.rctiplus.id/live/web/superrix/index.m3u8
 
 #EXTINF:-1 tvg-id="Uniques" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png" group-title="Movies",Uniques
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 https://dsgtq5sngxkde.cloudfront.net/uniques/index.m3u8
 https://proxy-v.rctiplus.id/live/web/uniques/index.m3u8
 
 #EXTINF:-1 tvg-id="Buddy Star" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png" group-title="Movies",Buddy Star
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 https://dsgtq5sngxkde.cloudfront.net/buddystars/index.m3u8
 https://proxy-v.rctiplus.id/live/web/buddystars/index.m3u8
 
@@ -1854,8 +1866,8 @@ https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac
 #EXTINF:-1 tvg-id="705.ManaTV" group-title="Radio" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/RADIO_KLASIK.png",Radio Klasik
 https://28103.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 
-#EXTINF:-1 tvg-id="0.ManaTV" group-title="Radio" radio="true" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/cd7cbc3e-ffd5-4e59-af44-eecaa573abad/poster.jpg",Travel FM Malaysia
-https://cuwf8jayq1.tenbytecdn.com/radio/travelfm/chunks.m3u8
+#EXTINF:-1 tvg-id="0.ManaTV" group-title="Radio" radio="true" tvg-logo="https://travel-fm.com/travel-fm-logo-20260729.png",Travel FM Malaysia
+https://radio.travel-fm.com/live
 
 #EXTINF:-1 tvg-id="711.ManaTV" group-title="Radio" radio="true" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/97320e8a-8443-49d1-b47d-144aec29794d/banner.png",Bernama Radio
 https://cuwf8jayq1.tenbytecdn.com/radio/bernamaradio/chunks.m3u8
@@ -1866,7 +1878,7 @@ https://22283.live.streamtheworld.com/RADIOBISNESAAC.aac
 #EXTINF:-1 tvg-id="Radio Muzik.rtm" group-title="Radio" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/MUZIKFM.png",Radio Musik
 https://22243.live.streamtheworld.com/MUZIKFMAAC.aac
 
-#EXTINF:-1 tvg-id="" group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/988_Logo_-_Transparent.png",988 FM
+#EXTINF:-1 tvg-id="209.ManaTV" group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/988_Logo_-_Transparent.png",988 FM
 http://28093.live.streamtheworld.com/988_FM_SC
 
 ########################################################### Radio Negeri ######################################################
