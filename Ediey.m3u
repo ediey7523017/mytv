@@ -57,43 +57,43 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/negara/DASH/negara.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Snap.rtm" tvg-logo="https://i.ibb.co/NdTzXHHL/SNAP-CHANNEL.png" group-title="RTM Klik",RTM Snap
-https://d1sq2slp9afh7o.cloudfront.net/smil:snap/manifest.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Lead.rtm" tvg-logo="https://i.ibb.co/nMTKGhFL/LEAD-CHANNEL.png" group-title="RTM Klik",RTM Lead
-https://d1sq2slp9afh7o.cloudfront.net/smil:lead/manifest.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Apetito.rtm" tvg-logo="https://i.ibb.co/zTqC2v5n/APETITO-CHANNEL.png" group-title="RTM Klik",RTM Apetito
-https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/manifest.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Fitrah.rtm" tvg-logo="https://i.ibb.co/MyJr691D/FITRAH-CHANNEL.png" group-title="RTM Klik",RTM Fitrah
-https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/manifest.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="JR..rtm" tvg-logo="https://i.ibb.co/1tsThQWk/JR-CHANNEL.png" group-title="RTM Klik",RTM Junior
-https://d1sq2slp9afh7o.cloudfront.net/smil:jr/manifest.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="ROLL.rtm" tvg-logo="https://i.ibb.co/mV5KGGM3/ROLL-CHANNEL.png" group-title="RTM Klik",RTM Roll
-https://d1sq2slp9afh7o.cloudfront.net/smil:roll/manifest.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Aura.rtm" tvg-logo="https://i.ibb.co/35WqBVxk/AURA-CHANNEL.png" group-title="RTM Klik",RTM Aura
-https://d1sq2slp9afh7o.cloudfront.net/smil:aura/manifest.mpd
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="FIFA.tonton" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6576795:378:CHANNEL:IMAGE:png&w=400" group-title="RTM Klik",FIFA+
@@ -940,7 +940,6 @@ https://cuwf8jayq1.tenbytecdn.com/live/arirang/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="Kix" tvg-logo="https://i.ibb.co/Hf88xf0N/KIX-logo-svg.png" group-title="Asian Favorites",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
 https://dsgtq5sngxkde.cloudfront.net/kix/index.m3u8
 
 
@@ -1016,54 +1015,58 @@ http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 http://aflaxtv.xyz:8080/F33848/cbd9779b/197964
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="Rock Entertainment" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-title="Movies",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+http://aflaxtv.xyz:8080/F33848/cbd9779b/298565
 https://dsgtq5sngxkde.cloudfront.net/rockent/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="Rock Action" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-title="Movies",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
+http://aflaxtv.xyz:8080/F33848/cbd9779b/298490
 https://dsgtq5sngxkde.cloudfront.net/rockaction/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="GALAXY" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png" group-title="Movies",Galaxy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+http://aflaxtv.xyz:8080/F33848/cbd9779b/264773
 https://dsgtq5sngxkde.cloudfront.net/galaxy/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="GALAXY PREMIUM" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png" group-title="Movies",Galaxy premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+http://aflaxtv.xyz:8080/F33848/cbd9779b/264774
 https://dsgtq5sngxkde.cloudfront.net/galaxyprem/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png" group-title="Movies",Studio Universal
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="Movies",CinemaWorld
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-https://dsgtq5sngxkde.cloudfront.net/universal/index.m3u8
+http://aflaxtv.xyz:8080/F33848/cbd9779b/165082
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="Thrill" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-m.png" group-title="Movies",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
+http://aflaxtv.xyz:8080/F33848/cbd9779b/157580
 https://dsgtq5sngxkde.cloudfront.net/thrill/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="Zee Bioskop" tvg-logo="https://www.visionplus.id/images/repository/277/410277-LOGO-m.png" group-title="Movies",Z Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
+http://aflaxtv.xyz:8080/F33848/cbd9779b/157584
 https://dsgtq5sngxkde.cloudfront.net/zeebioskop/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png" group-title="Movies",Studio Universal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/universal/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1227,7 +1230,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5119/default_primary.mpd
 #EXTINF:-1 tvg-id="Global Trekker" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="News & Documentary",Global Trekker
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 http://tv.cloudcdn.me/live.ts?channelId=133053&uid=10223&deviceMac=00:1A:79:07:07:43
-https://dsgtq5sngxkde.cloudfront.net/globetrekker/index.m3u8
 
 
 ################################################################### Kids #################################################################
@@ -1363,15 +1365,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 
+#EXTINF:-1 tvg-id="451" group-title="Variety" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+http://aflaxtv.xyz:8080/F33848/cbd9779b/157594
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="Outdoor Channel" group-title="Variety" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-l.png",Outdoor Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://dsgtq5sngxkde.cloudfront.net/outdoor/index.m3u8
-
-#EXTINF:-1 tvg-id="451" group-title="Variety" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",Warner TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 
 
 ################################################################# Sports #################################################################
