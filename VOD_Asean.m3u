@@ -10,6 +10,12 @@ https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/BTS%20THE%20RETURN%20
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/tztql23n2UCoM76KyCSKoZxVUL1.jpg" group-title="▶ VOD KOREAN",BTS THE COMEBACK LIVE ARIRANG (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/BTS%20THE%20COMEBACK%20LIVE%20ARIRANG%202026-1-720.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dq812w78I0UnE7ELLiiDZJ8mawX.jpg" group-title="▶ VOD KOREAN",OK! Madam Bon Voyage (2026)
+https://pixeldrain.com/api/file/XoTz3BZN?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/Pl5mC3AptB2xsEhByYUZ4E9sXU.jpg" group-title="▶ VOD KOREAN",OK! Madam (2020)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Okay!%20Madam%202020-1-720.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9PX4rGgP1pXRlGcHkxzRsgvll8f.jpg" group-title="▶ VOD KOREAN",The Intern (2026)
 https://stream.playcdn.de/playlist/83521076bbb4ee65b3a7d0b54548d3f8/1/0.m3u8?x=1
 
@@ -137,12 +143,6 @@ https://www.dropbox.com/scl/fi/tolvc60jd8rq31eq0wrzb/Golden-Slumber.mp4?rlkey=5i
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9AV1o7PKrzFkfYchXrpWUwdIoaq.jpg" group-title="▶ VOD KOREAN",Duelist (2005)
 https://stream.playcdn.de/playlist/8a8f62d00105362908586aedb7c958c0/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/5f1ylwuj93mse7xjmu2ss/Duelist-2005.mp4?rlkey=xarmn01odf15mukdiln1i8oca&st=xjmy17t0&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dq812w78I0UnE7ELLiiDZJ8mawX.jpg" group-title="▶ VOD KOREAN",OK! Madam Bon Voyage (2026)
-https://pixeldrain.com/api/file/XoTz3BZN?download
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/Pl5mC3AptB2xsEhByYUZ4E9sXU.jpg" group-title="▶ VOD KOREAN",OK! Madam (2020)
-https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Okay!%20Madam%202020-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vSiS2tysGNoL4QHYwWBPN0BIkbs.jpg" group-title="▶ VOD KOREAN",1987 When the Day Comes (2017)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/1987%20When%20the%20Day%20Comes%20(2017)-1-720.mp4
@@ -2607,8 +2607,11 @@ https://www.dropbox.com/scl/fi/9ayig39kfulx0kpw8ehiv/Ice-Cold-Murder-Coffee-and-
 #################################################################### ▶ VOD INDONESIA ###################################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpDJ1J7Efjus2-AGxlHozOStPdnTOjHRr95nK_D7Z9KqzLL75fEsna6k9r&s=10"
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/iAMLU1q565yXIdO24dJwucZAGmQ.jpg" group-title="▶ VOD INDONESIA",Sihir Tanah Kubur (2026)
+https://pixeldrain.com/api/file/Tv1yV6uX?download
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wLsxAzUjlkVS1QgG61IUpznUUG.jpg" group-title="▶ VOD INDONESIA",Dosa Penebusan atau Pengampunan (2026)
-https://ar.vikingfile.com/download/j9cu5Rdsag/Dosa.Penebusan.atau.Pengampunan.2026.720p.MalaySub.WEB.MSM.mp4?md5=zAxLHYJFP7K_GLIT1xRcfw&expires=1794203747
+
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9dDkd44FlBpiWimkaf8boZgFLkU.jpg" group-title="▶ VOD INDONESIA",402 Rumah Sakit Angker Korea (2026)
 https://pixeldrain.com/api/file/pYw2g7Tu?download
@@ -4712,20 +4715,69 @@ https://media-eu.cloudbox.ph/bibamax/Araro%20S01e03%20(2023)%20-%20720p.mp4
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w1280/r2zkLi1G9RLWYvJdFV6Hiv3PZGA.jpg" group-title="▶ VIVAMAX",Araro (2023) E04
 https://media-eu.cloudbox.ph/bibamax/Araro%20S01e04%20(2023)%20-%20720p.mp4
 
+=========================================================================================================================
 
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/Piring.jpg" group-title="▶ VIVAMAX",Piring
+https://cdn1.khflixcdnvideos.top/Piring.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/Exchange.Gift.jpg" group-title="▶ VIVAMAX",Exchange Gift
+https://cdn1.khflixcdnvideos.top/Exchange%20Gift.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/Juan.Makasalanan.jpg" group-title="▶ VIVAMAX",Juan Makasalanan
+https://cdn1.khflixcdnvideos.top/Juan%20Makasalanan.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/Fake.Sister.jpg" group-title="▶ VIVAMAX",Fake Sister
+https://cdn1.khflixcdnvideos.top/Fake%20Sister.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/Desisyon.jpg" group-title="▶ VIVAMAX",Desisyon
+https://cdn1.khflixcdnvideos.top/Desisyon.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/wp-content/uploads/2026/01/Paldo.jpg" group-title="▶ VIVAMAX",Paldo (2026)
 https://hls.khflix.top/Paldo/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/wp-content/uploads/2026/01/Housemates.jpg" group-title="▶ VIVAMAX",Housemates (2026)
 https://hls.khflix.top/Housemates/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/wp-content/uploads/2026/01/GL-Forever.jpg" group-title="▶ VIVAMAX",GL Forever (2026)
 https://hls.khflix.top/GL.Forever/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/wp-content/uploads/2026/01/Forgetting-Marian.jpg" group-title="▶ VIVAMAX",Forgetting Marian (2026)
 https://hls.khflix.top/Forgetting.Marian/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/wp-content/uploads/2026/01/Dalisay-2025.jpg" group-title="▶ VIVAMAX",Dalisay (2026)
 https://hls.khflix.top/Dalisay/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/wp-content/uploads/2026/01/Condom.jpg" group-title="▶ VIVAMAX",Condom (2026)
 https://hls.khflix.top/Condom/index.m3u8
 
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/Chef.jpg" group-title="▶ VIVAMAX",Chef
+https://cdn1.khflixcdnvideos.top/Chef.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/wp-content/uploads/2026/08/Bakery.jpg" group-title="▶ VIVAMAX",Bakery
+https://cdn1.khflixcdnvideos.top/Bakery.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/wp-content/uploads/2026/07/Iskolar.jpg" group-title="▶ VIVAMAX",Iskolar
+https://cdn1.khflixcdnvideos.top/Iskolar.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://imgkhflix.top/Stepmother.jpg" group-title="▶ VIVAMAX",Stepmother
+https://cdn1.khflixcdnvideos.top/Stepmother.mp4
+
+============================================================================================================================
 #EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vZZUyABlSl1281IRrALODuOTRVN.jpg" group-title="▶ VIVAMAX",House Tour (2021)
 https://cdn1.khflixcdnvideos.top/House.Tour.mp4
@@ -4741,8 +4793,17 @@ https://media-eu.cloudbox.ph/bibamax/Kaka%20(2021)%20-%20720p.mp4
 https://cdn1.khflixcdnvideos.top/Shoot.shoot.Di.ko.siya.titigilan.mp4
 
 #EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWIyY2U5OTEtN2Y3Zi00MDAzLWJmMjEtOTcxNTE0MjliOTAyXkEyXkFqcGc@._V1_.jpg" group-title="▶ VIVAMAX",Gamitan 2 (2026)
+https://cdn1.khflixcdnvideos.top/Gamitan.2026.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qY65DesGRbGxNgrxkK55sf8LPi6.jpg" group-title="▶ VIVAMAX",Chinita (2026)
+https://hugh.cdn.rumble.cloud/video/fww1/06/s8/2/8/f/I/h/8fIhB.aaa.mp4
+
+#EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gOA7QL1bhlSFAoEps2Er88Qsh9p.jpg" group-title="▶ VIVAMAX",Laplap (2026)
 https://pixeldrain.com/api/file/1G2eegFN?download
+https://hugh.cdn.rumble.cloud/video/fwe2/f3/s8/2/c/M/k/g/cMkgB.aaa.mp4
 
 #EXTVLCOPT:http-referrer=https://khflix.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/koQQbzS1AXq5utjK3N7dKshZFKp.jpg" group-title="▶ VIVAMAX",Labas Pasok (2026)
