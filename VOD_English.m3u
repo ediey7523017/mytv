@@ -4,8 +4,37 @@
 ####################################################### ▶ VOD ENGLISH #########################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1sddtmDYj_JDWy3-JkpOlxcHfh-7SYR6SKRzh7hNyCA9O7RgeuSFLVU7&s=10"
 
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD ENGLISH",
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg" group-title="▶ VOD ENGLISH",You Can See Everything (2026)
+https://stream.playcdn.de/playlist/504cbeaccc40f932bad123df67f1cd0f/1/0.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg" group-title="▶ VOD ENGLISH",Clashing Through the Snow (2026)
+https://stream.playcdn.de/playlist/9a6035ded09e5fa03bbcbb39b722653f/1/0.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/alsb3UC17kxIcytLWvwkmL0STgU.jpg" group-title="▶ VOD ENGLISH",Breeder (2026)
+https://stream.playcdn.de/playlist/7f3706a1bb74419e429572a2b3f60dec/1/0.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg" group-title="▶ VOD ENGLISH",The Mosquito Bowl (2026)
+https://stream.playcdn.de/playlist/0dc3c73766fc43ddda1d511b53f7c8f2/1/0.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg" group-title="▶ VOD ENGLISH",Wicker (2026)
+https://stream.playcdn.de/playlist/d50810b152ed94b766eb0a87804d35fe/1/0.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg" group-title="▶ VOD ENGLISH",The Social Reckoning (2026)
+https://pixeldrain.com/u/pbiKS3pr
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg" group-title="▶ VOD ENGLISH",Perfect Liars (2026)
+https://pixeldrain.com/u/ZCdqvkrb
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/tZg30lLnTwXFayKbVdgtk69zMim.jpg" group-title="▶ VOD ENGLISH",Gentle Monster (2026)
+https://pixeldrain.com/u/wahjReNB
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg" group-title="▶ VOD ENGLISH",Guarding Stars (2026)
+https://pixeldrain.com/api/file/ymp4Ycig?download
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg" group-title="▶ VOD ENGLISH",Street Fighter (2026)
-https://stream.playcdn.de/playlist/7ab8e59efe2b971ca026f295b668deef/1/0.m3u8?x=1
+https://stream.playcdn.de/playlist/a2a79f9029a4c7d584335b152e4c3153/1/0.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg" group-title="▶ VOD ENGLISH",Protector (2026)
 https://stream.playcdn.de/playlist/22d51c6eb34919728006a407ed244346/2/480.m3u8?x=1
